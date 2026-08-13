@@ -1,0 +1,238 @@
+{
+  "seen": {
+    "wwf-verdensnaturfonden-specialist-geospatial-data-gis-forest-carbon": {
+      "title": "Specialist in Geospatial Data (GIS) and Forest Carbon",
+      "company": "WWF Verdensnaturfonden",
+      "url": "https://wwf.recruitio.dk/",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "equitable-earth-geodata-analyst": {
+      "title": "Geodata Analyst",
+      "company": "Equitable Earth",
+      "url": "https://eq-earth.com/careers",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "sweco-gis-konsulent-dk": {
+      "title": "GIS-konsulent",
+      "company": "Sweco",
+      "url": "https://www.linkedin.com/jobs/",
+      "first_seen": "2026-08-05",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "aon-impact-forecasting-junior-gis-analyst-prague": {
+      "title": "Junior GIS Analyst",
+      "company": "Aon (Impact Forecasting)",
+      "url": "https://www.linkedin.com/jobs/",
+      "first_seen": "2026-08-05",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "energy-aspects-geospatial-energy-markets-analyst": {
+      "title": "Geospatial Energy Markets Analyst",
+      "company": "Energy Aspects",
+      "url": "https://careers.energyaspects.com/jobs/557146",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "dhi-water-resources-gis-specialist-poland": {
+      "title": "Water Resources GIS Specialist",
+      "company": "DHI",
+      "url": "https://www.linkedin.com/jobs/",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "boskalis-gis-specialist-netherlands": {
+      "title": "GIS Specialist",
+      "company": "Boskalis",
+      "url": "https://www.linkedin.com/jobs/",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "intetics-gis-developer-geospatial-analyst-czechia": {
+      "title": "GIS Developer / Geospatial Analyst",
+      "company": "Intetics",
+      "url": "https://www.linkedin.com/jobs/view/4445648417",
+      "first_seen": "2026-08-07",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "it34-gis-konsulent": {
+      "title": "GIS-konsulent til IT34",
+      "company": "IT34",
+      "url": "https://dk.linkedin.com/jobs/view/gis-konsulent-til-it34-at-it34-4417217345",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "primary-services-gis-analyst-austin": {
+      "title": "GIS Analyst",
+      "company": "Primary Services",
+      "url": "https://www.linkedin.com/jobs/view/gis-analyst-at-primary-services-4452771083",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live. Austin TX. 2-5 yrs, matches candidate. Contract via staffing agency (not part-time - full contract placement). ArcGIS Pro required specifically, not QGIS - software gap. No sponsorship language found; staffing-agency contract roles essentially never sponsor. EU citizen candidate has no US work authorization."
+    },
+    "pape-dawson-gis-analyst-i-austin": {
+      "title": "GIS Analyst I",
+      "company": "Pape-Dawson",
+      "url": "https://www.linkedin.com/jobs/view/gis-analyst-i-at-pape-dawson-4437912475",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live. Austin TX. 0-3 yrs entry/associate track, candidate's 3 yrs fits. Esri ArcGIS suite required specifically, not QGIS - software gap. No sponsorship language; mid-size regional engineering/surveying firm unlikely to sponsor. EU citizen candidate has no US work authorization."
+    },
+    "artech-llc-gis-analyst-austin": {
+      "title": "Geographic Information Systems Analyst",
+      "company": "Artech L.L.C.",
+      "url": "https://www.linkedin.com/jobs/view/geographic-information-systems-analyst-at-artech-l-l-c-4425882115",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live. Austin TX. 1-2 yrs, candidate's 3 yrs exceeds comfortably. Software-agnostic posting (neither ArcGIS nor QGIS named specifically) - good fit vs other Austin postings. IT/engineering staffing agency placement - sponsorship implausible. EU citizen candidate has no US work authorization."
+    },
+    "totalenergies-gis-analyst-parttime-austin-EXCLUDED": {
+      "title": "GIS Analyst (Part Time-Contract)",
+      "company": "TotalEnergies",
+      "url": "https://www.linkedin.com/jobs/view/gis-analyst-part-time-contract-at-totalenergies-4453369794",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live but EXCLUDED per candidate's hard constraint of not considering part-time contracts. Austin TX (posting also inconsistently referenced Council Bluffs, IA - possible templated/aggregator listing)."
+    },
+    "orchard-omni-tax-gis-specialist-austin-EXCLUDED": {
+      "title": "Geographic Information System (GIS) Specialist",
+      "company": "@Orchard LLC / Omni Tax Solutions",
+      "url": "https://www.linkedin.com/jobs/view/geographic-information-system-gis-specialist-at-omni-tax-solutions-4449438387",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live but EXCLUDED - role is explicitly 'contingent upon contract award' with NOAA, i.e. not a confirmed/funded vacancy. Austin TX."
+    },
+    "ripco-gis-analyst-manhattan": {
+      "title": "GIS Analyst - Manhattan",
+      "company": "RIPCO (RIPCO Real Estate)",
+      "url": "https://www.linkedin.com/jobs/view/gis-analyst-manhattan-at-ripco-4449669683",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live, posted ~1 week ago. Manhattan, NY. 2+ yrs required - matches candidate. Requires ArcGIS specifically (ArcGIS Desktop/Pro), not QGIS - software gap. Mid-sized regional real estate brokerage (~200-600 employees), no evidence of H-1B sponsorship track record - unlikely to sponsor. EU citizen candidate has no US work authorization."
+    },
+    "geosquare-be-gis-data-specialist": {
+      "title": "GIS Data Specialist",
+      "company": "GeoSquare Belgium",
+      "url": "https://be.linkedin.com/jobs/view/gis-data-specialist-at-geosquare-belgium-4442812539",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "new",
+      "notes": "Confirmed live, posted ~2 weeks ago, 64 applicants. Edegem, Belgium - EU member state. Associate level, general GIS toolset (Python, FME, spatial SQL) - not ArcGIS-specific. Good generalist fit."
+    },
+    "geosquare-be-gis-specialist": {
+      "title": "GIS Specialist",
+      "company": "GeoSquare Belgium",
+      "url": "https://be.linkedin.com/jobs/view/gis-specialist-at-geosquare-belgium-4433842163",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "new",
+      "notes": "Confirmed live, posted ~3 weeks ago. Edegem, Belgium (hybrid, Edegem/Gent/Leuven) - EU member state. Requires 3+ yrs GIS - exact match. Explicitly names both QGIS and ArcGIS as acceptable - strong software fit. Logged to job_search_tracker.csv as a top pick this run."
+    },
+    "yunojuno-gis-specialist-remote-eu": {
+      "title": "GIS Specialist (24-month contract)",
+      "company": "YunoJuno",
+      "url": "https://www.linkedin.com/jobs/view/gis-specialist-at-yunojuno-4446089139",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "new",
+      "notes": "Confirmed live, posted ~2 weeks ago, 200+ applicants. Remote, EU-wide (confirmed not UK). 3-5 yrs, matches candidate. 'QGIS or ArcGIS/Esri' explicitly both accepted. 24-month contract (full-time, not part-time) starting Aug 24 2026 - verify contract vs permanent preference before applying."
+    },
+    "brabant-water-gis-specialist-nl": {
+      "title": "GIS Specialist",
+      "company": "Brabant Water N.V.",
+      "url": "https://nl.linkedin.com/jobs/view/gis-specialist-at-brabant-water-n-v-4437451120",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live, posted ~1 month ago. Veghel, Netherlands - EU member state. 1-3 yrs, candidate fits. ArcGIS Pro required specifically, not QGIS - software gap."
+    },
+    "sweco-gis-fachkraft-germany": {
+      "title": "GIS-Fachkraft (m/w/x)",
+      "company": "Sweco",
+      "url": "https://de.linkedin.com/jobs/view/gis-fachkraft-m-w-x-at-sweco-4442084418",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "new",
+      "notes": "Confirmed live, posted ~1 day ago. Germany, same req posted separately for Berlin, Hamburg, Leipzig, Dortmund, Halle, Arnsberg - EU member state, multiple location options. Entry-level ('Berufseinstieg'), candidate's 3 yrs comfortably exceeds bar. General 'marktgängige GIS- und CAD-Systeme' - no ArcGIS mandate. German language requirement not confirmed - candidate has no stated German proficiency, verify before applying."
+    },
+    "aenor-geoespacial-lidar-madrid": {
+      "title": "Especialista en Datos Geoespaciales y Tecnología LiDAR",
+      "company": "AENOR",
+      "url": "https://es.linkedin.com/jobs/view/especialista-en-datos-geoespaciales-y-tecnología-lidar-at-aenor-4444572738",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live, posted ~1 week ago, 200+ applicants. Madrid, Spain - EU member state. Junior/entry level. QGIS and ArcGIS both listed as valued, not mandated. LiDAR specialization is a new skill area for candidate - verify fit. Spanish language requirement not confirmed."
+    },
+    "eon-cz-analytik-gis-systemu": {
+      "title": "Analytik GIS systémů (GIS Systems Analyst)",
+      "company": "E.ON CZ",
+      "url": "https://cz.linkedin.com/jobs/view/analytik-gis-systémů-at-e-on-cz-4442857534",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "new",
+      "notes": "Confirmed live, posted ~2 weeks ago. Czech Republic - EU member state. Entry-level, no minimum years stated - candidate's 3 yrs exceeds bar. General 'GIS systémů' - no ArcGIS mandate. Major European energy utility, strong domain alignment with candidate's energy-transition/CCS interest. Logged to job_search_tracker.csv as a top pick this run. Czech language requirement not confirmed."
+    },
+    "provincie-noord-holland-gis-specialist": {
+      "title": "GIS-specialist",
+      "company": "Provincie Noord-Holland",
+      "url": "https://nl.linkedin.com/jobs/view/gis-specialist-at-provincie-noord-holland-4441532735",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live, posted ~2 weeks ago. Haarlem, Netherlands - EU member state. 2+ yrs, matches candidate. ArcGIS preferred ('bij voorkeur ArcGIS Pro') - not QGIS. DEADLINE August 19, 2026 - apply immediately if interested."
+    },
+    "gek-terna-traffic-gis-analyst-greece": {
+      "title": "Traffic & GIS Analyst",
+      "company": "GEK TERNA Group of Companies",
+      "url": "https://gr.linkedin.com/jobs/view/traffic-gis-analyst-at-gek-terna-group-of-companies-4442720323",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live, posted ~3 weeks ago. Nea Erythraia, Greece - EU member state. Requires 4 yrs specifically as a titled 'GIS Analyst' - slightly above candidate's 3 yrs and her role wasn't titled GIS Analyst. Heavy ArcGIS specialization (ArcGIS Pro/Enterprise/Experience Builder, ArcPy) plus AutoCAD - significant software gap vs QGIS background. Marginal fit, stretch application."
+    },
+    "wlg-nato-gis-analyst-esri-belgium": {
+      "title": "GIS Analyst and Esri Enterprise Specialist for NATO",
+      "company": "WLG",
+      "url": "https://be.linkedin.com/jobs/view/gis-analyst-and-esri-enterprise-specialist-for-nato-with-security-clearance-at-wlg-4446761774",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live, posted ~1 week ago. Mons, Belgium - EU member state. 3+ yrs, matches candidate on paper, but heavily Esri Enterprise-specific (ArcGIS Pro/Portal/Server) - poor software fit vs QGIS background. Requires security clearance (Italy is NATO member so plausible in principle for an Italian citizen, but Esri Enterprise specialization gap is significant)."
+    },
+    "desri-analyst-gis-portland-me": {
+      "title": "Analyst, GIS",
+      "company": "DESRI (D. E. Shaw Renewable Investments)",
+      "url": "https://www.linkedin.com/jobs/view/analyst-gis-at-desri-4439467614",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live, posted ~1 week ago, 192 applicants. Portland, ME. 2+ yrs, matches candidate. ArcGIS Pro required specifically, not QGIS - software gap. $80-90K, hybrid 4 days/week in-office. Strong domain fit (renewable energy, aligns with candidate's energy-transition interest). No sponsorship language found; EU citizen candidate has no US work authorization - uncertain/unlikely for entry-level analyst role at US renewables developer."
+    },
+    "permian-resources-gis-analyst-midland": {
+      "title": "GIS Analyst",
+      "company": "Permian Resources",
+      "url": "https://www.linkedin.com/jobs/view/gis-analyst-at-permian-resources-4424256379",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live, posted ~2 months ago. Midland, TX. 3-5 yrs - candidate at low end of range. Esri ArcGIS Pro/Online required specifically, not QGIS - software gap. Oil & gas domain relevant to candidate's background. No sponsorship language found; EU citizen candidate has no US work authorization - Permian Basin operators sponsoring for a non-specialized GIS Analyst role is unlikely."
+    }
+  }
+}

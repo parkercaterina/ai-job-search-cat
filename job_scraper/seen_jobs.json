@@ -296,6 +296,96 @@
       "fit": "low",
       "status": "new",
       "notes": "Confirmed live via direct fetch. Pau, France (Pyrenees-Atlantiques) - EU member state. 3-7 yrs experience matches candidate's band, but role is specialist geochemistry (Rock-Eval, biomarkers, basin modelling) outside candidate's stated skillset, and explicitly requires a PhD in Organic/Petroleum Geochemistry - candidate holds an MSc, not a PhD. Domain and degree mismatch; low priority."
+    },
+    "cowi-senior-geotechnical-engineer-ref23780r": {
+      "title": "Senior Geotechnical Engineer (REF23780R)",
+      "company": "COWI",
+      "url": "https://www.cowi.com/emea/denmark/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via COWI job API. Lyngby, Copenhagen - ideal location. EXCLUDED: explicit minimum 6 years experience, BEng/geotechnical-engineering focus - well above candidate's 3 yrs. Deadline 11 Oct 2026."
+    },
+    "cowi-senior-geotekniker-id61122": {
+      "title": "Senior Geotekniker",
+      "company": "COWI",
+      "url": "https://www.cowi.com/emea/denmark/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via COWI job API (id 61122). Aalborg/Odense/Vejle - outside Sjaelland, plus Senior title exceeds candidate's level. Closes 30 Aug 2026."
+    },
+    "cowi-projektleder-geoteknisk-laboratorium-id61123": {
+      "title": "Projektleder for geoteknisk laboratorium",
+      "company": "COWI",
+      "url": "https://www.cowi.com/emea/denmark/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via COWI job API (id 61123). Aalborg/Aarhus/Lyngby. EXCLUDED: project-leader/senior scope, above candidate's level. Closes 30 Aug 2026."
+    },
+    "ramboll-senior-geotechnical-engineer-ref23780r": {
+      "title": "Senior Geotechnical Engineer (REF23780R)",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live, ref REF23780R. Koebenhavn S. EXCLUDED: minimum of 6 years experience, BEng in geotechnical/engineering geology plus Python - above candidate's level and adds a coding-tool gap. Deadline 11 Oct 2026."
+    },
+    "ramboll-senior-geotechnical-engineer-discipline-leader-ref23781t": {
+      "title": "Senior Geotechnical Engineer / Discipline Leader (REF23781T)",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live, ref REF23781T. Koebenhavn S. EXCLUDED: senior/discipline-lead scope, well above candidate's 3 yrs."
+    },
+    "ramboll-senior-hydrogeologist-ref20967b": {
+      "title": "Senior Hydrogeologist (REF20967B)",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed Active via Ramboll API. Koebenhavn S. EXCLUDED: 8-10 years' experience required, fluent Danish required (candidate B1/B2 only). Listed since April 2026 - likely evergreen/rolling posting."
+    },
+    "ramboll-tender-manager-efw-bioenergy-ccs-ref23566b": {
+      "title": "Tender Manager - Energy from Waste, Bioenergy & Carbon Capture (REF23566B)",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Preferred Hamburg, Copenhagen possible. CCS-adjacent but EXCLUDED: requires German fluency, and is a sales/tender-writing role not geoscience - poor domain and language fit."
+    },
+    "ramboll-fagtilsyn-jord-vej-afvanding-kalundborgmotorvejen-ref23236m": {
+      "title": "Fagtilsyn Jord, Vej og Afvanding - Kalundborgmotorvejen (REF23236M)",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Jyderup, Vestsjaelland - acceptable location. EXCLUDED as weak fit: construction-supervision role open broadly to engineer/constructor/technician backgrounds, not geoscience-specific."
+    },
+    "accenture-utilities-strategy-manager-copenhagen": {
+      "title": "Utilities Strategy Manager",
+      "company": "Accenture Nordics",
+      "url": "https://www.accenture.com/dk-en/careers",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Copenhagen. EXCLUDED: Manager title requiring minimum 5 years in top-tier management consulting and/or utilities, fluency in a Nordic language required - exceeds experience bar and isn't geology-adjacent (power-market strategy)."
+    },
+    "energinet-studentermedhjaelper-geoscience": {
+      "title": "Studentermedhjaelper til Geoscience",
+      "company": "Energinet",
+      "url": "https://en.energinet.dk/about-us/jobs/",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Denmark. EXCLUDED per candidate's hard constraint against part-time work: student-assistant position, inherently part-time and for enrolled students."
     }
   }
 }

@@ -233,6 +233,33 @@
       "fit": "medium",
       "status": "new",
       "notes": "Confirmed live, posted ~2 months ago. Midland, TX. 3-5 yrs - candidate at low end of range. Esri ArcGIS Pro/Online required specifically, not QGIS - software gap. Oil & gas domain relevant to candidate's background. No sponsorship language found; EU citizen candidate has no US work authorization - Permian Basin operators sponsoring for a non-specialized GIS Analyst role is unlikely."
+    },
+    "kleinfelder-entry-level-geologist-houston": {
+      "title": "Entry Level Geologist",
+      "company": "Kleinfelder",
+      "url": "https://jobs.localjobnetwork.com/job/detail/79093590/Entry-Level-Geologist",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted ~1 month ago, immediate opening. Houston, TX (Austin-proper scan found no new appropriately-leveled Austin postings this run; Houston logged as fallback per rule). 0-2 yrs required - candidate's 3 yrs exceeds range, entry-level title is a step down in seniority. Degree explicitly accepts 'geology, engineering or the sciences' (EIT preferred, not required) - no engineering-only barrier. Kleinfelder is a large national engineering/environmental consulting firm with multiple TX offices; no sponsorship language stated, entry-level reqs make sponsorship investment unlikely in practice. EU citizen candidate has no US work authorization."
+    },
+    "terracon-geotechnical-field-technician-in-training-austin": {
+      "title": "Geotechnical Field Technician In Training",
+      "company": "Terracon",
+      "url": "https://careers.terracon.com/job/austin/geotechnical-field-technician-in-training/37184/98849492256",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch. Austin, TX / Round Rock, TX. High school diploma or equivalent only, 6 months experience preferred but not required - a technician-level hourly role, not a professional Geologist title; a significant step backward from candidate's 3 yrs field experience + MSc. Terracon is a large domestic employee-owned firm (~8,000 employees) but this entry-level hourly role is very unlikely to come with visa sponsorship. EU citizen candidate has no US work authorization."
+    },
+    "schnabel-entry-level-geotechnical-engineer-austin": {
+      "title": "Entry-Level Geotechnical Engineer",
+      "company": "Schnabel Engineering",
+      "url": "https://www.ceecareers.com/jobs/87400-entry-level-geotechnical-engineer",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live (mirrored listing, last updated ~1 month ago; Schnabel's own career pages returned empty/403 for direct fetch). Austin, TX. 0-4 yrs - matches candidate's 3 yrs. Degree requirement explicitly requires a Bachelor's in Civil Engineering from an ABET-accredited institution - does NOT accept Geology/Geoscience 'or equivalent', a hard degree mismatch for candidate's MSc Geology. Schnabel is a mid-size employee-owned regional firm (~700 employees) - not a large multinational, unlikely to sponsor. EU citizen candidate has no US work authorization."
     }
   }
 }

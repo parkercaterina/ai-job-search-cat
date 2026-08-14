@@ -260,6 +260,42 @@
       "fit": "low",
       "status": "new",
       "notes": "Confirmed live (mirrored listing, last updated ~1 month ago; Schnabel's own career pages returned empty/403 for direct fetch). Austin, TX. 0-4 yrs - matches candidate's 3 yrs. Degree requirement explicitly requires a Bachelor's in Civil Engineering from an ABET-accredited institution - does NOT accept Geology/Geoscience 'or equivalent', a hard degree mismatch for candidate's MSc Geology. Schnabel is a mid-size employee-owned regional firm (~700 employees) - not a large multinational, unlikely to sponsor. EU citizen candidate has no US work authorization."
+    },
+    "exxonmobil-development-production-geoscientist-spring-tx": {
+      "title": "Development & Production Geoscientist",
+      "company": "ExxonMobil",
+      "url": "https://jobs.exxonmobil.com/job/Spring-Development-&-Production-Geoscientist-TX-77389/1419220500/",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch (Apply now button active) on ExxonMobil's own careers portal and independently corroborated on LinkedIn (posted 8 hrs prior to check). Spring, TX. Requires M.S. + 3+ years relevant industry experience - matches candidate's 3 yrs + MSc exactly. Genuine upstream O&G subsurface role: integrates seismic/log/core data for appraisal and field development planning - strong overlap with candidate's North Sea site investigation, facies analysis and 3D geological modelling background (GeoScene). US role: candidate is an EU citizen (Italian passport) with NO US work authorization. ExxonMobil is a major multinational with an established sponsorship track record for geoscience roles - plausible though not guaranteed. Logged to job_search_tracker.csv as this run's top pick."
+    },
+    "petro-hunt-geoscience-data-technician-dallas": {
+      "title": "Geoscience Data Technician",
+      "company": "Petro-Hunt L.L.C",
+      "url": "https://www.linkedin.com/jobs/view/geoscience-data-technician-at-petro-hunt-l-l-c-4451437778",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted 2 days prior, 78 applicants. Dallas-Fort Worth Metroplex (Uptown Dallas). 2-10 yrs preferred, explicitly open to recent grads too - broad band, candidate fits comfortably. Subsurface database management, QC of geological/geophysical data, Kingdom Suite seismic interpretation, prospect-generation map support - more data-management-oriented than candidate's wellsite/CPT-heavy role, but her QGIS/GeoScene/3D-modelling skills transfer directly. US role: candidate is an EU citizen (Italian passport) with NO US work authorization. Petro-Hunt is a privately held independent E&P company (mid-size, Dallas-based) - sponsorship plausibility low-moderate, less certain than a supermajor for a technician-level role."
+    },
+    "totalenergies-sedimentologue-pau": {
+      "title": "Sédimentologue (H/F/X)",
+      "company": "TotalEnergies",
+      "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/CDI-S-dimentologue-H-F-X/83138",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch. Pau, France (CSTJF) - EU member state. 3-7 yrs experience matches candidate's band, and domain (facies analysis, siliciclastic/carbonate sedimentology, reservoir characterization) overlaps strongly with candidate's North Sea/CPT/3D modelling background. HOWEVER explicitly requires a PhD in Sedimentology/Stratigraphy/Geology - candidate holds an MSc, not a PhD, a real qualification gap that likely disqualifies despite otherwise strong domain fit. Professional English C1 required."
+    },
+    "totalenergies-organic-geochemist-pau": {
+      "title": "Organic Geochemist (M/F/X)",
+      "company": "TotalEnergies",
+      "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/CDI-G-ochimiste-organique-H-F-X/83128",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch. Pau, France (Pyrenees-Atlantiques) - EU member state. 3-7 yrs experience matches candidate's band, but role is specialist geochemistry (Rock-Eval, biomarkers, basin modelling) outside candidate's stated skillset, and explicitly requires a PhD in Organic/Petroleum Geochemistry - candidate holds an MSc, not a PhD. Domain and degree mismatch; low priority."
     }
   }
 }

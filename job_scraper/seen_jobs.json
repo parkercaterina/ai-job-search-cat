@@ -620,6 +620,78 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed live via direct fetch. San Diego County, CA, USA, in-office. Final filing date 2026-08-17 (2 days out at time of scan). Entry-level classification, software unspecified - good level fit. EXCLUDED: California state government positions essentially never sponsor work visas; candidate is an EU citizen with no US work authorization, not realistically pursuable."
+    },
+    "coterra-geologist-midland-tx-EXPIRED": {
+      "title": "Geologist",
+      "company": "Coterra Energy",
+      "url": "https://www.diversityjobs.com (mirror)",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - posting explicitly states job posting expired (orig. posted Feb 2025). Coterra completed all-stock merger into Devon Energy 2026-05-07; standalone careers site now 404s. Midland, TX."
+    },
+    "eqt-ccus-geologist-canonsburg-pa-CLOSED": {
+      "title": "CCUS Geologist (II,III,Sr) / Geologist II/III/Sr",
+      "company": "EQT Corporation",
+      "url": "https://www.eqt.com/careers (Greenhouse board)",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "CLOSED - specific Greenhouse job URLs redirect to general Current Openings board; confirmed via full listing of EQTs 31 current openings that none include Geologist/Geoscientist in title. Canonsburg/Pittsburgh, PA."
+    },
+    "westcoast-geologic-junior-wellsite-mudlogger-santarosa-WRONGINDUSTRY": {
+      "title": "Junior Wellsite/Mud Logger Geologist",
+      "company": "West Coast Geologic",
+      "url": "company About page",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "WRONG INDUSTRY - verified via company About page this is a geothermal mud-logging firm, not oil & gas. Santa Rosa, CA."
+    },
+    "chevron-earth-scientist-houston-NOVISA": {
+      "title": "2025-2026 Earth Scientist Full Time",
+      "company": "Chevron",
+      "url": "job-board mirror (Chevron careers)",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live (active Apply button) but posting explicitly states Chevron will not sponsor employment visas unless candidate holds/is enrolled in a PhD - candidate has MSc only. Also targets <2 yrs post-grad exp, underfits candidates 3 yrs. Houston, TX."
+    },
+    "mol-wellsite-geologist-budapest-CLOSED": {
+      "title": "Well Site Geologist",
+      "company": "MOL Nyrt. (MOL Group)",
+      "url": "https://www.profession.hu (MOL careers)",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED - no longer accepting applications. Also required fluent Hungarian. Budapest, Hungary."
+    },
+    "mol-reservoir-geologist-budapest": {
+      "title": "Reservoir Geologist",
+      "company": "MOL Nyrt. (MOL Group)",
+      "url": "https://www.profession.hu/allas/reservoir-geologist-mol-nyrt-budapest-2957790",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live and currently accepting applications - Budapest, Hungary (EU, correct location). EXCLUDED on experience level: requires min. 5 years hands-on reservoir geology experience vs candidates 3 yrs + 2 internships. Otherwise reasonable technical overlap (Petrel/RMS/tNavigator, 3D geomodelling). Not CCS-specific, conventional O&G reservoir role. MSc Geology/Geophysics/Earth Sciences required, English fluency sufficient (no Hungarian requirement on this req, unlike the closed Well Site Geologist req at same company)."
+    },
+    "totalenergies-netherlands-multiple-reqs-404-EXPIRED": {
+      "title": "Multiple reqs: Géologue débutant #58728, Geologist RDG #76286, Geologist #74126, Confirmed Wellsite Geologist #76457, Reservoir Geologist #70227",
+      "company": "TotalEnergies",
+      "url": "jobs.totalenergies.com (various req IDs)",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "All confirmed EXPIRED/CLOSED via direct fetch (HTTP 404) - stale search-index entries, Netherlands-focused geology reqs no longer live."
+    },
+    "ineos-energy-development-geologist-geomodeller-denver-london-CLOSED": {
+      "title": "Development Geologist/Geoscientist; Geoscience Technician; Development Geologist/Geomodeller",
+      "company": "INEOS Energy",
+      "url": "INEOS careers portal",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Checked specifically due to candidates thesis tie to Project Greensand (Danish CCS). Two reqs found were actually Denver, CO (US unconventional assets) not Denmark, both closed. One Denmark-relevant posting mentioning Greensand was closed and actually London-based (UK, excluded). No live Denmark-based Greensand/CCS geology req currently posted."
     }
   }
 }

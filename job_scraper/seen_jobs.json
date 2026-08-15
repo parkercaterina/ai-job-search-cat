@@ -584,6 +584,42 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed FILLED via direct fetch ('Sorry, this position has been filled'). Copenhagen."
+    },
+    "skanderborg-kommune-gis-data-medarbejder": {
+      "title": "GIS- og data-medarbejder til Kort- og GIS-teamet",
+      "company": "Skanderborg Kommune",
+      "url": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1524&WebAdId=161956",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch. Deadline 2026-09-11. No strict years requirement, candidate's 3 yrs fine. ArcGIS Pro listed as primary tool, QGIS secondary - partial software gap. Skanderborg, Jylland (near Aarhus) - not a Copenhagen commute, would require relocation within Denmark."
+    },
+    "intrado-gis-analyst-longmont-co": {
+      "title": "GIS Analyst",
+      "company": "Intrado",
+      "url": "https://www.linkedin.com/jobs/view/4448458111/",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted ~1 week ago, rolling/no deadline stated. Longmont, CO, USA. Entry-level (years not stated, only degree requirement) - candidate's 3 yrs comfortably fits. Software explicitly lists 'ArcGIS, QGIS, or similar' - QGIS-friendly, no Esri-only barrier. US role: candidate is an EU citizen (Italian passport) with NO US work authorization. Intrado is a mid/large emergency-communications tech firm (thousands of staff, ex-West Corp) - plausibly large enough to sponsor, though not stated in posting. Logged to job_search_tracker.csv as this run's top pick."
+    },
+    "felt-gis-specialist-oakland": {
+      "title": "GIS Specialist",
+      "company": "Felt",
+      "url": "https://felt.com/careers",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, rolling (apply via email, no formal deadline). Oakland, CA, USA, in-office. Years not explicitly stated ('work experience and a degree in applied spatial work'). No ArcGIS/QGIS requirement - general spatial + Python/SQL skills, good software fit. Felt is a small geospatial-tech startup - sponsorship track record unclear/unlikely at this size. US role: candidate is an EU citizen (Italian passport) with NO US work authorization."
+    },
+    "calfire-gis-analyst-san-diego": {
+      "title": "Geographic Information System (GIS) Analyst (Research Data Analyst I)",
+      "company": "CAL FIRE (California state government)",
+      "url": "https://www.linkedin.com/jobs/view/4449055729/",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch. San Diego County, CA, USA, in-office. Final filing date 2026-08-17 (2 days out at time of scan). Entry-level classification, software unspecified - good level fit. EXCLUDED: California state government positions essentially never sponsor work visas; candidate is an EU citizen with no US work authorization, not realistically pursuable."
     }
   }
 }

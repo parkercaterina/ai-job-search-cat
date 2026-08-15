@@ -1,5 +1,104 @@
 {
   "seen": {
+    "spglobal-downstream-market-analyst-paris-london": {
+      "title": "Downstream Market Analyst",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://uk.linkedin.com/jobs/view/downstream-market-analyst-at-s-p-global-3715517875",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - LinkedIn redirects to generic 'expired_jd_redirect' search page. Was Paris/London, Fuels and Refining team."
+    },
+    "spglobal-research-analyst-na-power-renewables-boston": {
+      "title": "Research Analyst, North American Power and Renewables",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://www.linkedin.com/jobs/view/research-analyst-north-american-power-renewables-at-s-p-global-commodity-insights-3350403740",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - redirects to unrelated generic LinkedIn job search results (FedWriters listings), same expired-posting pattern. Was Boston, MA."
+    },
+    "spglobal-research-analyst-global-power-renewables-impact-graduate-london": {
+      "title": "Research Analyst, Global Power and Renewables - IMPACT Graduate programme",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://uk.linkedin.com/jobs/view/research-analyst-global-power-and-renewables-impact-graduate-programme-at-s-p-global-4196933417",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch: page explicitly states 'Sorry, this job was removed... Thursday, May 08, 2025'. Also London, UK - excluded location anyway."
+    },
+    "spglobal-research-analyst-fuels-refining-houston": {
+      "title": "Research Analyst, Fuels and Refining",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://www.linkedin.com/jobs/view/research-analyst-fuels-and-refining-at-s-p-global-3542865134",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - redirects to unrelated generic LinkedIn job search results (FedWriters listings). Was Houston, TX."
+    },
+    "spglobal-careers-portal-jobs-326990-326760-404": {
+      "title": "Research Analyst / Research Analyst II - Valuations (Multiple Locations)",
+      "company": "S&P Global",
+      "url": "https://careers.spglobal.com/jobs/326990?lang=en-us",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Both careers.spglobal.com job IDs (326990, 326760) returned HTTP 404 on direct fetch - listings no longer exist despite appearing in search results/snippets."
+    },
+    "woodmac-research-analyst-hydrogen-houston-madrid": {
+      "title": "Research Analyst - Hydrogen",
+      "company": "Wood Mackenzie",
+      "url": "https://www.linkedin.com/jobs/view/research-analyst-hydrogen-at-wood-mackenzie-2880166273",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Could not verify as currently live - only appears in stale cached search snippets (Madrid location mentioned in snippets only, not confirmed on a live page); Wood Mackenzie's own Workday careers portal (woodmac.wd3.myworkdayjobs.com) is in an outage/redirect loop and could not be browsed directly. Do not present as a live match without re-verification."
+    },
+    "woodmac-principal-analyst-wind-supply-chain-aarhus": {
+      "title": "Principal Analyst - Wind Supply Chain and Technology",
+      "company": "Wood Mackenzie",
+      "url": "https://www.linkedin.com/jobs/wood-mackenzie-jobs-worldwide?f_C=11510",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via LinkedIn company jobs listing. Aarhus, Denmark - EU member state, good location, but EXCLUDED: Principal-level title (well above candidate's 3 yrs) and wrong domain (wind supply chain, not subsurface/upstream/CCUS)."
+    },
+    "westwood-research-analyst": {
+      "title": "Research Analyst",
+      "company": "Westwood Global Energy Group",
+      "url": "https://uk.linkedin.com/jobs/view/research-analyst-at-westwood-global-energy-group-4224332968",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - LinkedIn redirects to generic 'expired_jd_redirect' search page. Original posting dated May 2025."
+    },
+    "rystad-chief-demand-analyst-amsterdam": {
+      "title": "Chief Demand Analyst",
+      "company": "Rystad Energy",
+      "url": "https://apply.workable.com/rystad-energy/",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Amsterdam, Netherlands - good EU location, but EXCLUDED: 'Chief' title is well above candidate's 3 yrs experience level."
+    },
+    "enverus-associate-subsurface-innovation-calgary": {
+      "title": "Associate, Subsurface Innovation",
+      "company": "Enverus",
+      "url": "https://jobs.jobvite.com/enverus/job/o57bAfwH",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live, 0-2 yrs required (good level fit) and strong domain match (CCUS/CCS, geothermal, natural hydrogen, DLE subsurface tech investment research) - but EXCLUDED on location: Calgary, Alberta, Canada is neither EU nor USA."
+    },
+    "enverus-data-analyst-global-intelligence-stonehouse-uk": {
+      "title": "Data Analyst, Global Intelligence",
+      "company": "Enverus",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-global-intelligence-22367-at-enverus-3145649768",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Stonehouse, England, United Kingdom - EXCLUDED per strict location rule: UK does not satisfy EU/USA constraint."
+    },
     "wwf-verdensnaturfonden-specialist-geospatial-data-gis-forest-carbon": {
       "title": "Specialist in Geospatial Data (GIS) and Forest Carbon",
       "company": "WWF Verdensnaturfonden",

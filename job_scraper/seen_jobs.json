@@ -268,25 +268,25 @@
       "first_seen": "2026-08-13",
       "fit": "high",
       "status": "new",
-      "notes": "Confirmed live, posted ~1 day ago. Germany, same req posted separately for Berlin, Hamburg, Leipzig, Dortmund, Halle, Arnsberg - EU member state, multiple location options. Entry-level ('Berufseinstieg'), candidate's 3 yrs comfortably exceeds bar. General 'marktgängige GIS- und CAD-Systeme' - no ArcGIS mandate. German language requirement not confirmed - candidate has no stated German proficiency, verify before applying."
+      "notes": "Confirmed live, posted ~1 day ago. Germany, same req posted separately for Berlin, Hamburg, Leipzig, Dortmund, Halle, Arnsberg - EU member state, multiple location options. Entry-level ('Berufseinstieg'), candidate's 3 yrs comfortably exceeds bar. General 'marktg\u00e4ngige GIS- und CAD-Systeme' - no ArcGIS mandate. German language requirement not confirmed - candidate has no stated German proficiency, verify before applying."
     },
     "aenor-geoespacial-lidar-madrid": {
-      "title": "Especialista en Datos Geoespaciales y Tecnología LiDAR",
+      "title": "Especialista en Datos Geoespaciales y Tecnolog\u00eda LiDAR",
       "company": "AENOR",
-      "url": "https://es.linkedin.com/jobs/view/especialista-en-datos-geoespaciales-y-tecnología-lidar-at-aenor-4444572738",
+      "url": "https://es.linkedin.com/jobs/view/especialista-en-datos-geoespaciales-y-tecnolog\u00eda-lidar-at-aenor-4444572738",
       "first_seen": "2026-08-13",
       "fit": "medium",
       "status": "new",
       "notes": "Confirmed live, posted ~1 week ago, 200+ applicants. Madrid, Spain - EU member state. Junior/entry level. QGIS and ArcGIS both listed as valued, not mandated. LiDAR specialization is a new skill area for candidate - verify fit. Spanish language requirement not confirmed."
     },
     "eon-cz-analytik-gis-systemu": {
-      "title": "Analytik GIS systémů (GIS Systems Analyst)",
+      "title": "Analytik GIS syst\u00e9m\u016f (GIS Systems Analyst)",
       "company": "E.ON CZ",
-      "url": "https://cz.linkedin.com/jobs/view/analytik-gis-systémů-at-e-on-cz-4442857534",
+      "url": "https://cz.linkedin.com/jobs/view/analytik-gis-syst\u00e9m\u016f-at-e-on-cz-4442857534",
       "first_seen": "2026-08-13",
       "fit": "high",
       "status": "new",
-      "notes": "Confirmed live, posted ~2 weeks ago. Czech Republic - EU member state. Entry-level, no minimum years stated - candidate's 3 yrs exceeds bar. General 'GIS systémů' - no ArcGIS mandate. Major European energy utility, strong domain alignment with candidate's energy-transition/CCS interest. Logged to job_search_tracker.csv as a top pick this run. Czech language requirement not confirmed."
+      "notes": "Confirmed live, posted ~2 weeks ago. Czech Republic - EU member state. Entry-level, no minimum years stated - candidate's 3 yrs exceeds bar. General 'GIS syst\u00e9m\u016f' - no ArcGIS mandate. Major European energy utility, strong domain alignment with candidate's energy-transition/CCS interest. Logged to job_search_tracker.csv as a top pick this run. Czech language requirement not confirmed."
     },
     "provincie-noord-holland-gis-specialist": {
       "title": "GIS-specialist",
@@ -379,7 +379,7 @@
       "notes": "Confirmed live via direct fetch, posted 2 days prior, 78 applicants. Dallas-Fort Worth Metroplex (Uptown Dallas). 2-10 yrs preferred, explicitly open to recent grads too - broad band, candidate fits comfortably. Subsurface database management, QC of geological/geophysical data, Kingdom Suite seismic interpretation, prospect-generation map support - more data-management-oriented than candidate's wellsite/CPT-heavy role, but her QGIS/GeoScene/3D-modelling skills transfer directly. US role: candidate is an EU citizen (Italian passport) with NO US work authorization. Petro-Hunt is a privately held independent E&P company (mid-size, Dallas-based) - sponsorship plausibility low-moderate, less certain than a supermajor for a technician-level role."
     },
     "totalenergies-sedimentologue-pau": {
-      "title": "Sédimentologue (H/F/X)",
+      "title": "S\u00e9dimentologue (H/F/X)",
       "company": "TotalEnergies",
       "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/CDI-S-dimentologue-H-F-X/83138",
       "first_seen": "2026-08-14",
@@ -493,16 +493,16 @@
       "first_seen": "2026-08-15",
       "fit": "medium",
       "status": "new",
-      "notes": "Confirmed live via direct fetch. Copenhagen (Kay Fiskers Plads 10, Ørestad) or Aarhus. Requires min. 3 years hydrogeological experience - exact match to candidate's level. CAUTION: degree requirement explicitly states 'diplom- eller civilingeniør med speciale i Geoteknik eller Hydrogeologi' (diploma or civil engineer specializing in Geotechnics or Hydrogeology) - does not explicitly list Geology/Geoscience as an accepted equivalent, a real degree-requirement gap vs candidate's MSc Geology background - verify directly with SYSTRA before applying."
+      "notes": "Confirmed live via direct fetch. Copenhagen (Kay Fiskers Plads 10, \u00d8restad) or Aarhus. Requires min. 3 years hydrogeological experience - exact match to candidate's level. CAUTION: degree requirement explicitly states 'diplom- eller civilingeni\u00f8r med speciale i Geoteknik eller Hydrogeologi' (diploma or civil engineer specializing in Geotechnics or Hydrogeology) - does not explicitly list Geology/Geoscience as an accepted equivalent, a real degree-requirement gap vs candidate's MSc Geology background - verify directly with SYSTRA before applying."
     },
     "artelia-projektleder-fagleder-miljo-natur-copenhagen": {
-      "title": "Projektleder/fagleder til Miljø og Natur",
+      "title": "Projektleder/fagleder til Milj\u00f8 og Natur",
       "company": "Artelia Denmark",
       "url": "https://bebee.com/dk/jobs/projektleder-fagleder-til-miljo-og-natur-i-artelia-artelia-denmark-copenhagen-capital-region-of--t7xk-754000703",
       "first_seen": "2026-08-15",
       "fit": "low",
       "status": "new",
-      "notes": "Confirmed live (posted ~1 month ago), deadline 6 Sept 2026. Copenhagen. Degree requirement explicitly accepts 'miljøingeniør, geolog eller tilsvarende' (environmental engineer, geologist or equivalent) - good fit for MSc Geology. However requires 5-10 years' experience in soil/groundwater/environmental technology - meaningfully above candidate's 3 years - and carries a subject-matter-lead ('fagleder') scope, so flagged low fit despite the good degree match."
+      "notes": "Confirmed live (posted ~1 month ago), deadline 6 Sept 2026. Copenhagen. Degree requirement explicitly accepts 'milj\u00f8ingeni\u00f8r, geolog eller tilsvarende' (environmental engineer, geologist or equivalent) - good fit for MSc Geology. However requires 5-10 years' experience in soil/groundwater/environmental technology - meaningfully above candidate's 3 years - and carries a subject-matter-lead ('fagleder') scope, so flagged low fit despite the good degree match."
     },
     "ineos-energy-geoscientist-copenhagen-greensand": {
       "title": "Geoscientist",
@@ -515,7 +515,7 @@
     },
     "orsted-geotechnical-engineer-offshore-wind-copenhagen": {
       "title": "Geotechnical Engineer for offshore wind projects",
-      "company": "Ørsted",
+      "company": "\u00d8rsted",
       "url": "https://europeanjobdays.eu/en/job/geotechnical-engineer-offshore-wind-projects-orsted-copenhagen",
       "first_seen": "2026-08-15",
       "fit": "low",
@@ -529,7 +529,7 @@
       "first_seen": "2026-08-15",
       "fit": "low",
       "status": "excluded",
-      "notes": "Confirmed EXPIRED via direct fetch ('Modtager ikke længere ansøgninger', posted ~2 years ago). Kongens Lyngby. Would have matched candidate's background (>3 yrs geotechnical engineer preferred) - worth checking GEO's careers page periodically for a re-post."
+      "notes": "Confirmed EXPIRED via direct fetch ('Modtager ikke l\u00e6ngere ans\u00f8gninger', posted ~2 years ago). Kongens Lyngby. Would have matched candidate's background (>3 yrs geotechnical engineer preferred) - worth checking GEO's careers page periodically for a re-post."
     },
     "geo-seniorprojektleder-jord-grundvandsforurening-lyngby": {
       "title": "Seniorprojektleder til jord- og grundvandsforurening",
@@ -538,7 +538,7 @@
       "first_seen": "2026-08-15",
       "fit": "low",
       "status": "excluded",
-      "notes": "Confirmed EXPIRED via direct fetch ('Dette job er udløbet', deadline was March 2025). Lyngby. Also would have been excluded on seniority - wants 7+ years' experience."
+      "notes": "Confirmed EXPIRED via direct fetch ('Dette job er udl\u00f8bet', deadline was March 2025). Lyngby. Also would have been excluded on seniority - wants 7+ years' experience."
     },
     "vattenfall-associate-geotechnical-engineer-kolding": {
       "title": "Associate Geotechnical Engineer",
@@ -559,7 +559,7 @@
       "notes": "Confirmed dead - HTTP 410 Gone. Copenhagen V. A sibling 'Consultant - Climate & Sustainability, Energy Transition' listing (careers.bcg.com/job/10063714) also could not be resolved to an active posting, and BCG's live Climate & Sustainability careers page showed no current Copenhagen openings - re-check BCG's careers search directly in a future run."
     },
     "dmr-projektleder-chef-geoteknikafdeling-sjaelland": {
-      "title": "Projektleder/-chef til geoteknikafdelingen på Sjælland",
+      "title": "Projektleder/-chef til geoteknikafdelingen p\u00e5 Sj\u00e6lland",
       "company": "DMR",
       "url": "https://www.jobindex.dk/jobannonce/r12390499/dmr-soeger-projektleder-chef-til-geoteknikafdelingen-paa-sjaelland",
       "first_seen": "2026-08-15",
@@ -676,7 +676,7 @@
       "notes": "Confirmed live and currently accepting applications - Budapest, Hungary (EU, correct location). EXCLUDED on experience level: requires min. 5 years hands-on reservoir geology experience vs candidates 3 yrs + 2 internships. Otherwise reasonable technical overlap (Petrel/RMS/tNavigator, 3D geomodelling). Not CCS-specific, conventional O&G reservoir role. MSc Geology/Geophysics/Earth Sciences required, English fluency sufficient (no Hungarian requirement on this req, unlike the closed Well Site Geologist req at same company)."
     },
     "totalenergies-netherlands-multiple-reqs-404-EXPIRED": {
-      "title": "Multiple reqs: Géologue débutant #58728, Geologist RDG #76286, Geologist #74126, Confirmed Wellsite Geologist #76457, Reservoir Geologist #70227",
+      "title": "Multiple reqs: G\u00e9ologue d\u00e9butant #58728, Geologist RDG #76286, Geologist #74126, Confirmed Wellsite Geologist #76457, Reservoir Geologist #70227",
       "company": "TotalEnergies",
       "url": "jobs.totalenergies.com (various req IDs)",
       "first_seen": "2026-08-15",
@@ -692,6 +692,78 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Checked specifically due to candidates thesis tie to Project Greensand (Danish CCS). Two reqs found were actually Denver, CO (US unconventional assets) not Denmark, both closed. One Denmark-relevant posting mentioning Greensand was closed and actually London-based (UK, excluded). No live Denmark-based Greensand/CCS geology req currently posted."
+    },
+    "wje-petrographer-2plus-years-austin": {
+      "title": "Petrographer (2+ Years)",
+      "company": "Wiss, Janney, Elstner Associates (WJE)",
+      "url": "https://www.indeed.com/viewjob?jk=9d6ccd37fbd6b6c8",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "rrc-power-energy-field-geologist-i-round-rock": {
+      "title": "Field Geologist I",
+      "company": "RRC Power & Energy",
+      "url": "https://www.indeed.com/viewjob?jk=e21879f60790424d",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "ensolum-staff-engineer-geologist-environmental-scientist-round-rock": {
+      "title": "Staff Engineer/Geologist/Environmental Scientist",
+      "company": "Ensolum, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=a4e2aa7a4c5009aa",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new"
+    },
+    "trileaf-environmental-project-scientist-austin": {
+      "title": "Environmental Project Scientist",
+      "company": "Trileaf Corporation",
+      "url": "https://www.linkedin.com/jobs/view/environmental-project-scientist-at-trileaf-corporation-4451466090",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "new"
+    },
+    "tetra-tech-staff-scientist-geologist-austin-houston": {
+      "title": "Staff Scientist/Geologist (Entry to Mid-level)",
+      "company": "Tetra Tech",
+      "url": "https://www.indeed.com/viewjob?jk=701c1084662dc9c1",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new"
+    },
+    "kleinfelder-entry-level-geotechnical-engineer-eit-austin": {
+      "title": "Entry-Level Geotechnical Engineer/EIT",
+      "company": "Kleinfelder",
+      "url": "https://www.indeed.com/viewjob?jk=97ff93cc5742019c",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "geo-logic-associates-hydrogeologist-austin-EXCLUDED": {
+      "title": "Project or Senior Level Hydrogeologist",
+      "company": "Geo-Logic Associates",
+      "url": "https://www.indeed.com/viewjob?jk=050e48a480cb9f58",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "intertek-psi-entry-level-lab-technician-austin-EXCLUDED": {
+      "title": "Entry-Level Laboratory Technician I",
+      "company": "Intertek (PSI)",
+      "url": "https://www.indeed.com/viewjob?jk=56bf956077fb3c21",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "schnabel-staff-civil-engineer-dams-austin-EXCLUDED": {
+      "title": "Staff Civil Engineer - Dams",
+      "company": "Schnabel Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=f263132e0dd013d9",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped"
     }
   }
 }

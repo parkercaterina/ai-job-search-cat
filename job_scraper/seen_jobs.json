@@ -485,6 +485,105 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed live. Denmark. EXCLUDED per candidate's hard constraint against part-time work: student-assistant position, inherently part-time and for enrolled students."
+    },
+    "systra-hydrogeolog-geotekniker-copenhagen": {
+      "title": "Hydrogeolog / Geotekniker",
+      "company": "SYSTRA",
+      "url": "https://dk.indeed.com/viewjob?jk=eeed9042421976cd",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch. Copenhagen (Kay Fiskers Plads 10, Ørestad) or Aarhus. Requires min. 3 years hydrogeological experience - exact match to candidate's level. CAUTION: degree requirement explicitly states 'diplom- eller civilingeniør med speciale i Geoteknik eller Hydrogeologi' (diploma or civil engineer specializing in Geotechnics or Hydrogeology) - does not explicitly list Geology/Geoscience as an accepted equivalent, a real degree-requirement gap vs candidate's MSc Geology background - verify directly with SYSTRA before applying."
+    },
+    "artelia-projektleder-fagleder-miljo-natur-copenhagen": {
+      "title": "Projektleder/fagleder til Miljø og Natur",
+      "company": "Artelia Denmark",
+      "url": "https://bebee.com/dk/jobs/projektleder-fagleder-til-miljo-og-natur-i-artelia-artelia-denmark-copenhagen-capital-region-of--t7xk-754000703",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live (posted ~1 month ago), deadline 6 Sept 2026. Copenhagen. Degree requirement explicitly accepts 'miljøingeniør, geolog eller tilsvarende' (environmental engineer, geologist or equivalent) - good fit for MSc Geology. However requires 5-10 years' experience in soil/groundwater/environmental technology - meaningfully above candidate's 3 years - and carries a subject-matter-lead ('fagleder') scope, so flagged low fit despite the good degree match."
+    },
+    "ineos-energy-geoscientist-copenhagen-greensand": {
+      "title": "Geoscientist",
+      "company": "INEOS Energy Denmark",
+      "url": "https://www.jobindex.dk/jobannonce/448680/geoscientist",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen, tied to Project Greensand CCS - strong domain match on paper, but link redirects to jobindex.dk's archive (jobindexarkiv.dk), confirming the posting is EXPIRED/no longer live."
+    },
+    "orsted-geotechnical-engineer-offshore-wind-copenhagen": {
+      "title": "Geotechnical Engineer for offshore wind projects",
+      "company": "Ørsted",
+      "url": "https://europeanjobdays.eu/en/job/geotechnical-engineer-offshore-wind-projects-orsted-copenhagen",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('This job offer has already expired') - stale mirror of a July 2020 deadline posting. Copenhagen, would otherwise have been a strong fit (2-5 yrs, MSc geotechnical/geoscience)."
+    },
+    "geo-geotechnical-engineer-copenhagen-lyngby": {
+      "title": "Geotechnical Engineer, Geo Copenhagen",
+      "company": "GEO",
+      "url": "https://dk.linkedin.com/jobs/view/geotechnical-engineer-geo-copenhagen-at-geo%C2%A0-3942663630",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Modtager ikke længere ansøgninger', posted ~2 years ago). Kongens Lyngby. Would have matched candidate's background (>3 yrs geotechnical engineer preferred) - worth checking GEO's careers page periodically for a re-post."
+    },
+    "geo-seniorprojektleder-jord-grundvandsforurening-lyngby": {
+      "title": "Seniorprojektleder til jord- og grundvandsforurening",
+      "company": "GEO",
+      "url": "https://techjob.dk/job/seniorprojektleder-til-jord-og-grundvandsforurening-i-geo-lyngby-100600",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Dette job er udløbet', deadline was March 2025). Lyngby. Also would have been excluded on seniority - wants 7+ years' experience."
+    },
+    "vattenfall-associate-geotechnical-engineer-kolding": {
+      "title": "Associate Geotechnical Engineer",
+      "company": "Vattenfall",
+      "url": "https://vattenfall.talentify.io/job/associate-geotechnical-engineer-kolding-region-of-southern-denmark-vattenfall-ref3494b",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead link - HTTP 410 Gone on both the original and redirected talentify.io URL. Kolding, Denmark. Associate-level offshore wind geotechnical role would otherwise have matched well - worth re-checking Vattenfall's careers site directly in a future run."
+    },
+    "bcg-consultant-nordics-copenhagen": {
+      "title": "Consultant - Nordics",
+      "company": "BCG",
+      "url": "https://careers.bcg.com/global/en/job/58157/Consultant-Nordics",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 410 Gone. Copenhagen V. A sibling 'Consultant - Climate & Sustainability, Energy Transition' listing (careers.bcg.com/job/10063714) also could not be resolved to an active posting, and BCG's live Climate & Sustainability careers page showed no current Copenhagen openings - re-check BCG's careers search directly in a future run."
+    },
+    "dmr-projektleder-chef-geoteknikafdeling-sjaelland": {
+      "title": "Projektleder/-chef til geoteknikafdelingen på Sjælland",
+      "company": "DMR",
+      "url": "https://www.jobindex.dk/jobannonce/r12390499/dmr-soeger-projektleder-chef-til-geoteknikafdelingen-paa-sjaelland",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - link redirects to jobindex.dk's archive (jobindexarkiv.dk, saved 2024-03-26). Distinct role/department from the previously-logged DMR 'Erfaren projektleder til jord- og grundvandsafdelingen' (tracker 2026-08-03, still open at last check)."
+    },
+    "rwe-senior-geotechnical-engineer-copenhagen-london": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "RWE",
+      "url": "https://jobs.rwe.com/RWE/job/London-Senior-Geotechnical-Engineer-City-EC2R-8HP/1380086533/",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed offline via direct fetch ('the job posting is offline'). Listed London/Swindon/Copenhagen on a globally distributed team; would also likely be excluded on seniority (Senior title)."
+    },
+    "royal-caribbean-sustainability-engineer-copenhagen": {
+      "title": "Sustainability Engineer (secondee at Maersk Mc-Kinney Moller Center for Zero Carbon Shipping)",
+      "company": "Royal Caribbean Group",
+      "url": "https://jobs.royalcaribbeangroup.com/job/Copenhagen-Sustainability-Engineer-(Copenhagen,-Denmark)-1472/1304570300/",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed FILLED via direct fetch ('Sorry, this position has been filled'). Copenhagen."
     }
   }
 }

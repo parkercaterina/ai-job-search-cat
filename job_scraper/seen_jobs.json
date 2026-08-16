@@ -836,6 +836,51 @@
       "first_seen": "2026-08-15",
       "fit": "low",
       "status": "skipped"
+    },
+    "fugro-project-geologist-land-houston-r0031482": {
+      "title": "Project Geologist - Land",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0031482-project-geologist-land",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch (Apply now button active). Houston, TX (Houston/Dallas fallback - no live, appropriately-leveled Austin-proper geology/geotechnical posting survived verification this run across AECOM, Fugro, RRC, Terracon, Kleinfelder, Langan, Intertek-PSI, TRC Companies, Schnabel Engineering, and HVJ Associates). Strong content fit: BS Geology required, MS in Geological Engineering or Geology explicitly preferred, 'Experienced Level' (no numeric year stated), responsibilities (site exploration planning, soil boring/test pit logging, in-situ geotechnical testing, drilling coordination) closely match candidate's CPT/site-investigation background. EXCLUDED despite strong fit: posting explicitly requires applicants be 'Legally Authorized to work in the United States, without restrictions' - equivalent to an explicit no-sponsorship statement (same treatment as the Chevron NOVISA exclusion logged 2026-08-xx). Candidate is an EU citizen (Italian passport) with NO US work authorization. Fugro is a large Dutch multinational that does sponsor visas for some US roles corporately, but this specific requisition's language rules it out as a viable target without a policy change or referral."
+    },
+    "aecom-geologist-2yrs-austin-EXPIRED-2026": {
+      "title": "Geologist - 2+ years experience",
+      "company": "AECOM",
+      "url": "https://aecom.jobs/austin-tx/geologist-2-years-experience/D16CB29589FE4AC0AFBF33D977ACDB52/job/?vs=28",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch of both this AECOM careers-portal URL and the mirrored SmartRecruiters listing (jobs.smartrecruiters.com/AECOM2/744000022365824-geologist) - both explicitly state 'this job has expired'. Would otherwise have been a strong Austin-proper match (title implies 2+ yrs, matching candidate's 3 yrs). A separate AECOM 'Geologist - 2+ years experience' requisition (744000013209466) also found this run is confirmed live but is located in Seattle, WA, not Texas - excluded on location. AECOM's own Austin location and Texas geologist-jobs listing pages (aecom.jobs/locations/austin-tx/jobs/, americas.aecom.jobs/geologist/jobs-in/texas/usa/jobs/) returned empty/JS-rendered content on direct fetch and could not be verified this run - worth a manual browser check next time given AECOM is a large multinational plausible sponsor."
+    },
+    "langan-geotechnical-engineer-austin-CLOSED-2026": {
+      "title": "Geotechnical Engineer",
+      "company": "Langan",
+      "url": "https://careers.langan.com/job/Austin-Geotechnical-Engineer-TX-78759/1350395300/",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - page states 'Sorry, this position has been filled.' Entry-level Geotechnical Engineer title (engineering-specific, not geology-open) in Austin, TX."
+    },
+    "hvj-associates-staff-geologist-austin-UNCONFIRMED-2026": {
+      "title": "Staff Geologist",
+      "company": "HVJ Associates",
+      "url": "https://hvj.hua.hrsmart.com/hr/ats/JobSearch/viewAll",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Could NOT confirm as currently live. A 'Staff Geologist, Austin, $80k-$100k' listing appears repeatedly in Google/ZipRecruiter search snippets, but a direct fetch of HVJ Associates' own live ATS portal (hvj.hua.hrsmart.com) shows only 6 currently open Austin, TX requisitions as of today: Geotechnical Project Manager (#532), CoMET Project Manager (#534), Field Technician II (#538), Staff Engineer (#571), GEO/Pave Intern (#572), and Business Development & Marketing Coordinator (#541) - no Staff Geologist req among them. Treating the aggregator listing as stale/expired per liveness rule; do not present to candidate."
+    },
+    "twdb-gw-modeler-geoscientist-hydrologist-austin-2026": {
+      "title": "GW Modeler (Geoscientist I-II/Hydrologist II-III), req 26-112",
+      "company": "Texas Water Development Board",
+      "url": "https://www.twdb.texas.gov/jobs/",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Texas state government agency position, Austin, TX. Domain is numerical groundwater flow modeling/water budgets, a partial (not close) fit to candidate's site-investigation/CPT/facies background. EXCLUDED primarily on sponsorship: Texas state agencies effectively never sponsor employment-based visas for civil-service positions - a harder blocker than most private-sector roles found this run. Candidate is an EU citizen (Italian passport) with NO US work authorization."
     }
   }
 }

@@ -944,6 +944,42 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Dublin, Ireland - EU member state (not UK), would otherwise be an appealing location. Direct fetch returned corrupted/incomplete content, could not confirm live status or exact requirements. EXCLUDED on likely eligibility mismatch regardless: this is a structured Graduate Programme role (2-year temporary, starts Sept 2026) typically restricted to recent graduates - candidate has 3+ years of professional post-MSc experience (graduated 2022), likely does not qualify as a 'graduate' entrant. Worth a second look if the eligibility window is broader than assumed."
+    },
+    "totalenergies-geologue-assistant-synthese-exploration-debutant-pau": {
+      "title": "Géologue assistant synthèse exploration débutant H/F",
+      "company": "TotalEnergies OneTech",
+      "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/G-ologue-assistant-synth-se-exploration-d-butant-H-F/83205",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, active Apply button. Pau, France (CSTJF) - EU member state. Genuine upstream exploration role (basin synthesis, petroleum geology, carbonates) - confirmed not mining, good skills overlap (QGIS, basin/facies correlation). CAUTION: this is a 'Contrat de Professionnalisation Temps Plein' (12-month French professional-training contract), explicitly targeted at recent graduates with <3 yrs experience seeking FIRST professional experience - a step down in contract type/seniority from candidate's 3 yrs, not a permanent CDI like the previously-logged TotalEnergies Pau Digital Geoscientist/Géophysicien roles. Starts Oct 2026. Requires France residency documentation covering 13+ months by hire date (satisfied as EU/Italian citizen)."
+    },
+    "totalenergies-geoscientiste-debutant-courbevoie": {
+      "title": "Géoscientiste - Débutant H/F",
+      "company": "TotalEnergies SE",
+      "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/G-oscientiste-D-butant-H-F/82876",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live (per research agent's direct fetch). Courbevoie, France - EU member state. Genuine exploration-support role (seismic/well data support for Indonesia assets) but leans more data/ML-support than core geology. CAUTION: same 'Contrat de Professionnalisation' 12-month training-contract type as the Pau geology req above, not a permanent CDI - targets recent grads with no prior experience, a contract-type downgrade vs candidate's 3 yrs. Starts Aug 2026."
+    },
+    "totalenergies-assistant-optimisation-grilles-geologiques-3d-pau": {
+      "title": "Assistant optimisation de l'algorithme de distorsion des grilles géologiques 3D - H/F",
+      "company": "TotalEnergies OneTech",
+      "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Assistant-optimisation-de-l-algorithme-de-distorsion-des-grilles-g-ologiques-3D-H-F/81586",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, active Apply button. Pau, France (CSTJF) - EU member state. 3D geological grid/subsurface modelling software role - good overlap with candidate's GeoScene 3D geomodelling background, but requires Java/C++/Python coding, a real skills gap. CAUTION: 'Contrat de Professionnalisation Temps Plein' 12-month training contract (100% en entreprise), not permanent CDI - targets recent grads <3 yrs experience, no visa sponsorship. Starts Sept 2026. Requires France residency documentation covering 13+ months by hire date."
+    },
+    "totalenergies-data-scientist-geoscientist-debutant-pau": {
+      "title": "Data Scientist or Geoscientist - Débutant H/F",
+      "company": "TotalEnergies OneTech",
+      "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Data-Scientist-or-Geoscientist-D-butant-H-F/82418",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live (per research agent's direct fetch); a duplicate-titled second req (82418 and 80799) also exists. Pau, France (CSTJF) - EU member state. Role is production-data QC / ML for multiphase flow rates - geoscience-adjacent but degree preference is Data Science/AI, not geology, a domain mismatch for candidate's profile. Same 'Contrat de Professionnalisation' 12-month training-contract type, targets <3 yrs experience. Starts Oct 2026."
     }
   }
 }

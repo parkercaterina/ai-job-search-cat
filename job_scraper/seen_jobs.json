@@ -693,6 +693,78 @@
       "status": "excluded",
       "notes": "Checked specifically due to candidates thesis tie to Project Greensand (Danish CCS). Two reqs found were actually Denver, CO (US unconventional assets) not Denmark, both closed. One Denmark-relevant posting mentioning Greensand was closed and actually London-based (UK, excluded). No live Denmark-based Greensand/CCS geology req currently posted."
     },
+    "spglobal-upstream-transformation-company-analyst-multiloc-EXPIRED": {
+      "title": "Upstream Transformation Company Analyst",
+      "company": "S&P Global",
+      "url": "https://careers.spglobal.com/jobs/327620?lang=en-us",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - HTTP 404 on direct fetch, despite appearing in fresh search-index results. Same expired-posting pattern as prior week's S&P Global checks."
+    },
+    "spglobal-principal-analyst-upstream-asset-valuation-EXPIRED": {
+      "title": "Principal Analyst, Upstream Asset Valuation",
+      "company": "S&P Global",
+      "url": "https://careers.spglobal.com/jobs/318816?lang=en-us",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - HTTP 404. Would also have been excluded on seniority (Principal-level, well above candidate's 3 yrs)."
+    },
+    "spglobal-associate-director-upstream-consulting-multiloc": {
+      "title": "Associate Director - Upstream Consulting",
+      "company": "S&P Global",
+      "url": "https://careers.spglobal.com/jobs/330716?lang=en-us",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Page returns HTTP 200 (live) but content did not render locations/details via fetch. EXCLUDED regardless on seniority - Associate Director title is well above candidate's 3 yrs experience level."
+    },
+    "spglobal-consultant-early-careers-impact-calgary-mexicocity-CLOSED": {
+      "title": "Consultant (Early Careers) - IMPACT Graduate Program",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://builtin.com/job/consultant-early-careers/7491046 and /7493788",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Both Calgary, Canada and Mexico City, Mexico reqs confirmed CLOSED/removed via direct fetch. Neither location is EU/USA anyway."
+    },
+    "westwoodenergy-onshore-research-analyst-404": {
+      "title": "Onshore Research Analyst - Energy Services",
+      "company": "Westwood Global Energy Group",
+      "url": "https://www.westwoodenergy.com/careers/onshore-research-analyst-energy-services",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - HTTP 404 on direct fetch despite appearing in current careers listing crawl. Only live posting on Westwood's own careers page this run was 'Senior Analyst - Offshore Energy Services' (Aberdeen, Scotland, UK - excluded on both seniority and location)."
+    },
+    "enverus-jobvite-stale-analyst-links-CLOSED": {
+      "title": "Various stale Jobvite Analyst/Research links (Power Market Analyst, Associate/Analyst Intelligence Research, Analyst Operator Intelligence)",
+      "company": "Enverus",
+      "url": "https://jobs.jobvite.com/enverus and /drillinginfo (multiple job codes)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED - 'The job listing no longer exists' on direct fetch. Live Enverus board this run showed only Calgary/Director/Principal/Manager-level analyst roles plus one UK (Stonehouse) Data Analyst role - none EU/USA at appropriate level."
+    },
+    "rystad-senior-analysts-gas-lng-oil-houston-EXCLUDED": {
+      "title": "Senior Market Analyst, Gas and LNG / Senior Regional Oil Market Analyst",
+      "company": "Rystad Energy",
+      "url": "https://apply.workable.com/j/371BD8220A and /049236811A",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via Rystad's Workable API (11 total open reqs company-wide this run). Houston, TX - good location, but EXCLUDED: both Senior-level, above candidate's 3 yrs. No CCUS/Subsurface/entry-mid Research Analyst reqs currently open at Rystad in EU or USA - most current reqs are Oslo, Norway (excluded location) internships/grad programs."
+    },
+    "woodmac-research-analyst-macro-oils-oil-supply-mexicocity": {
+      "title": "Research Analyst - Macro Oils / Research Analyst - Oil Supply",
+      "company": "Wood Mackenzie",
+      "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers (JR3195-1, JR2985)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via Wood Mackenzie's own Workday jobs API. Mexico City, MX - EXCLUDED on location (not EU/USA). Full API sweep this run (searchText='Analyst', 'CCUS', 'Subsurface', 'Upstream Analyst', 'Research Analyst') found zero live CCUS or Subsurface-titled reqs company-wide, and no EU/USA Research/Upstream Analyst req at an appropriate (non-Senior/Principal/Director) level."
+    },
     "wje-petrographer-2plus-years-austin": {
       "title": "Petrographer (2+ Years)",
       "company": "Wiss, Janney, Elstner Associates (WJE)",

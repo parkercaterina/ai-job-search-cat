@@ -873,6 +873,105 @@
       "status": "excluded",
       "notes": "Could NOT confirm as currently live. A 'Staff Geologist, Austin, $80k-$100k' listing appears repeatedly in Google/ZipRecruiter search snippets, but a direct fetch of HVJ Associates' own live ATS portal (hvj.hua.hrsmart.com) shows only 6 currently open Austin, TX requisitions as of today: Geotechnical Project Manager (#532), CoMET Project Manager (#534), Field Technician II (#538), Staff Engineer (#571), GEO/Pave Intern (#572), and Business Development & Marketing Coordinator (#541) - no Staff Geologist req among them. Treating the aggregator listing as stale/expired per liveness rule; do not present to candidate."
     },
+    "banedanmark-fagtilsyn-geoteknik-sjaelland": {
+      "title": "Fagtilsyn til Geoteknik – Sjælland",
+      "company": "Banedanmark",
+      "url": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=166570&DepartmentId=19780&MediaId=5107",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch. Copenhagen/Ringsted (Hillerød station project), Sjælland. Deadline 2026-09-07. Requires min. 3 years as engineer/geotechnician 'or other relevant technical background' - degree flexible, does not strictly require engineering, good fit for MSc Geology. No SQL/Python/BI/PM-cert gap identified. Danish language requirement not explicitly stated but likely needed in practice for a Danish rail authority QA/inspection role - verify before applying. Role is geotechnical QA/inspection (fagtilsyn) rather than core exploration geology - a narrowing from candidate's background but consistent with her pivot toward more office-based/strategic scope. Salary 42-45k DKK/month. Best fit found this run - flagged medium (not high) due to unverified Danish requirement and inspection-vs-exploration scope narrowing."
+    },
+    "dmr-erfaren-projektleder-jord-grundvand-sjaelland-DUPLICATE": {
+      "title": "Erfaren projektleder til jord- og grundvandsafdelingen på Sjælland",
+      "company": "DMR A/S",
+      "url": "https://dk.linkedin.com/jobs/view/erfaren-projektleder-til-jord-og-grundvandsafdelingen-p%C3%A5-sj%C3%A6lland-at-dansk-milj%C3%B8r%C3%A5dgivning-a-s-4412397544",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "DUPLICATE - same company+title already logged in job_search_tracker.csv on 2026-08-04 (found via dmr.dk direct fetch). Confirmed still live via LinkedIn this run. Not re-added to tracker."
+    },
+    "wsp-danmark-erfaren-grundvandsmedarbejder-taastrup": {
+      "title": "Erfaren grundvandsmedarbejder",
+      "company": "WSP Danmark",
+      "url": "https://dk.linkedin.com/jobs/view/erfaren-grundvandsmedarbejder-at-wsp-danmark-4452911591",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live, posted 2 days ago. Taastrup, Sjælland. EXCLUDED-level concern: requires min. 5 years experience, exceeds candidate's 3 yrs. Degree explicitly accepts 'ingeniør, geolog eller lignende' - good fit for MSc Geology, no engineering-only barrier. No Danish language level stated. No SQL/Python/PM-cert gap identified."
+    },
+    "veolia-project-engineer-soil-remediation-soborg": {
+      "title": "Project Engineer Soil Remediation",
+      "company": "Veolia (Remediation Europe)",
+      "url": "https://dk.linkedin.com/jobs/view/project-engineer-soil-remediation-at-veolia-4453152135",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live, 42 applicants. Søborg, Copenhagen. Title explicitly open to 'Environmental Engineers, Geologists, or Hydrogeologists' - good degree fit. EXCLUDED-level concern: framed as entry-level/newly graduated, a step down from candidate's 3 yrs. Requires excellent written/spoken Danish - candidate is B1/B2, a real gap. No SQL/Python/dedicated BI/PM-cert requirement beyond general IT/project tools."
+    },
+    "jacobs-fagleder-geoteknik-infrastruktur-copenhagen": {
+      "title": "Fagleder for Geoteknik til Infrastrukturprojekter",
+      "company": "Jacobs",
+      "url": "https://careers.jacobs.com/ (Copenhagen - exact req URL not captured this run)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Copenhagen. EXCLUDED: requires 15 years' experience, far above candidate's 3 yrs."
+    },
+    "jacobs-senior-geoteknisk-ingenior-infrastruktur-copenhagen": {
+      "title": "Senior Geoteknisk Ingeniør til Infrastrukturprojekter",
+      "company": "Jacobs",
+      "url": "https://careers.jacobs.com/ (Copenhagen - exact req URL not captured this run)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Copenhagen. EXCLUDED: Senior title, above candidate's 3 yrs level."
+    },
+    "wsp-danmark-senior-geotekniker-taastrup": {
+      "title": "Senior Geotekniker",
+      "company": "WSP Danmark",
+      "url": "https://www.wsp.com/da-dk/karriere (Taastrup - exact req URL not captured this run)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Taastrup, Sjælland. EXCLUDED: Senior title. Degree stated as 'teknisk uddannelse, fx som ingeniør' - engineering-leaning, would also be a degree-fit risk."
+    },
+    "sweco-geoteknisk-specialist-projektleder-esbjerg": {
+      "title": "Geoteknisk specialist og projektleder",
+      "company": "Sweco",
+      "url": "https://www.sweco.dk/karriere (Esbjerg - exact req URL not captured this run)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Esbjerg, Jutland - outside Sjælland/acceptable commute range. EXCLUDED: min. 5 yrs experience, strict engineering degree stated."
+    },
+    "artelia-projektleder-fagleder-jord-grundvandsforurening-copenhagen": {
+      "title": "Projektleder/fagleder til Jord- og grundvandsforurening",
+      "company": "Artelia Denmark",
+      "url": "https://www.arteliagroup.com/en/careers (Copenhagen - exact req URL not captured this run)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Copenhagen. Distinct posting from previously-logged Artelia 'Projektleder/fagleder til Miljø og Natur' req. EXCLUDED: requires 5-10 years' experience, above candidate's 3 yrs."
+    },
+    "wsp-danmark-projektleder-miljo-jordhaandtering-taastrup": {
+      "title": "Projektleder inden for miljø- og jordhåndteringsprojekter",
+      "company": "WSP Danmark",
+      "url": "https://www.wsp.com/da-dk/karriere (Taastrup - exact req URL not captured this run)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Taastrup, Sjælland. EXCLUDED: requires 10 years' experience, well above candidate's 3 yrs."
+    },
+    "norconsult-boreformand-miljo-geoteknik-smorum": {
+      "title": "Boreformand til Miljø & Geoteknik – Smørum",
+      "company": "Norconsult Sverige",
+      "url": "https://www.norconsult.com/careers (Smørum, Sjælland - exact req URL not captured this run)",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Smørum, Sjælland. EXCLUDED: job function mismatch - manual drilling-crew foreman role requiring drilling certificate/truck licence, not a geoscientist/analyst position."
+    },
     "twdb-gw-modeler-geoscientist-hydrologist-austin-2026": {
       "title": "GW Modeler (Geoscientist I-II/Hydrologist II-III), req 26-112",
       "company": "Texas Water Development Board",

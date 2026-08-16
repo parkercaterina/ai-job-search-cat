@@ -881,6 +881,69 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Texas state government agency position, Austin, TX. Domain is numerical groundwater flow modeling/water budgets, a partial (not close) fit to candidate's site-investigation/CPT/facies background. EXCLUDED primarily on sponsorship: Texas state agencies effectively never sponsor employment-based visas for civil-service positions - a harder blocker than most private-sector roles found this run. Candidate is an EU citizen (Italian passport) with NO US work authorization."
+    },
+    "nyc-lpc-data-gis-analyst-manhattan-EXPIRED": {
+      "title": "Data and GIS Analyst",
+      "company": "NYC Landmarks Preservation Commission",
+      "url": "https://cityjobs.nyc.gov/job/data-and-gis-analyst-in-manhattan-jid-25692",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('This vacancy has now expired'). Manhattan, NY. Would also have required min. 4 yrs + full Esri ArcGIS suite (ArcMap/ArcCatalog/ArcGIS Pro) - software gap."
+    },
+    "gemeente-hilversum-gis-specialist-nl-CLOSED": {
+      "title": "GIS specialist",
+      "company": "Gemeente Hilversum",
+      "url": "https://werkenbij.hilversum.nl/vacatures/381936/gis-specialist",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch ('Deze vacature is gesloten', deadline was July 12 2026). Hilversum, Netherlands. Would also have been excluded: min. 5 yrs required (above candidate's 3), ArcGIS Online/Pro specifically - software gap."
+    },
+    "parsons-geospatial-analyst-gis-austin-r179759-UNVERIFIED": {
+      "title": "Geospatial Analyst (GIS)",
+      "company": "Parsons Corporation",
+      "url": "https://jobs.parsons.com/jobs/geospatial-analyst-gis-austin-r-179759-jobs",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "COULD NOT VERIFY LIVENESS - jobs.parsons.com direct link returns HTTP 404, parsons.jobs and Workday mirrors render blank (JS-only), LinkedIn link redirects to a generic search page. Multiple independent aggregator snippets (ZipRecruiter, Indeed mirrors) consistently describe: Austin, TX (Austin Airport improvements project), requires 4 yrs GIS experience (candidate has 3, slightly under), ESRI ArcGIS Pro/Enterprise Portal/Survey123 required specifically - software gap. Do not present as confirmed-live without re-verification."
+    },
+    "aecom-gis-specialist-ii-austin-UNVERIFIED": {
+      "title": "GIS Specialist II",
+      "company": "AECOM",
+      "url": "https://aecom.jobs/austin-tx/gis-specialist-iv/36ECC1BA1C3544C9A698DB45BEC6C8D1/job/",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "COULD NOT VERIFY LIVENESS - aecom.jobs listing pages render blank (JS-only, no fetchable content); a corresponding AECOM GIS/Data Specialist LinkedIn link also redirected to a generic search page (same expired-posting pattern seen repeatedly with AECOM/LinkedIn this week). Aggregator snippets (JobGet, VelvetJobs, MyGISJobs) describe Austin, TX, entry-level (as little as 6 months relevant experience/coursework), but heavily ESRI-specific (ArcPy, Experience Builder, Field Maps, ARCADE) - real software gap vs QGIS background. Do not present as confirmed-live without re-verification."
+    },
+    "arcadis-gis-configuration-specialist-gateway-hudson-tunnel-ny-EXCLUDED": {
+      "title": "GIS Configuration Specialist (Gateway Hudson Tunnel Project)",
+      "company": "Arcadis",
+      "url": "https://jobs.arcadis.com/careers/job/563671530946512",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "New York, NY area (Gateway Hudson Tunnel infrastructure project). EXCLUDED: requires minimum 5 years BIM/GIS configuration experience on large infrastructure projects (above candidate's 3 yrs), plus Revit/AutoCAD Civil 3D/Navisworks - a real skills gap beyond GIS. Direct fetch of jobs.arcadis.com returned only site config/JSON, could not independently confirm live status."
+    },
+    "txdot-gis-analyst-austin-INCONCLUSIVE": {
+      "title": "GIS Analyst I/II/IV/V",
+      "company": "Texas Department of Transportation (TxDOT)",
+      "url": "https://fa009.taleo.net/careersection/ex/jobsearch.ftl",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Could not locate a specific, directly-fetchable job requisition (TxDOT's Taleo career section requires interactive navigation, not a stable deep link). Aggregator snippets suggest multiple GIS Analyst levels (I through V) are periodically open on Texas state government's GIS team, Austin, TX. EXCLUDED regardless: Texas state government agency - essentially never sponsors work visas (same pattern as CAL FIRE, logged 2026-08-15); candidate is an EU citizen with no US work authorization."
+    },
+    "dublincitycouncil-graduate-gis-analyst-INCONCLUSIVE": {
+      "title": "Graduate GIS Analyst (Temporary 2 Years)",
+      "company": "Dublin City Council",
+      "url": "https://careers.dublincity.ie/Job/JobDetail?JobId=789",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Dublin, Ireland - EU member state (not UK), would otherwise be an appealing location. Direct fetch returned corrupted/incomplete content, could not confirm live status or exact requirements. EXCLUDED on likely eligibility mismatch regardless: this is a structured Graduate Programme role (2-year temporary, starts Sept 2026) typically restricted to recent graduates - candidate has 3+ years of professional post-MSc experience (graduated 2022), likely does not qualify as a 'graduate' entrant. Worth a second look if the eligibility window is broader than assumed."
     }
   }
 }

@@ -1493,6 +1493,60 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Staffing-agency contract explicitly requiring existing US work authorization (GC/USC/GC EAD/H4EAD/H1B, 'must be local') - no viable path for candidate, an EU citizen with no US work authorization. New York, NY."
+    },
+    "vejdirektoratet-erfaren-geotekniker-fremtidens-vejprojekter-hedehusene": {
+      "title": "Erfaren geotekniker til fremtidens vejprojekter",
+      "company": "Vejdirektoratet (Danish Road Directorate)",
+      "url": "https://jobdanmark.dk/job/erfaren-geotekniker-til-fremtidens-vejprojekter",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, deadline 31 Aug 2026. Two location options: Skanderborg (Jutland) or Guldalderen 12, Hedehusene (Greater Copenhagen, in-scope). Years not stated numerically ('solid experience' from consultant/contractor background) - plausible fit for candidate's 3 yrs. Degree stated as 'ingeniør eller geotekniker' (engineer or geotechnician) - does NOT explicitly mention geologist/geoscience, ambiguous fit for MSc Geology. Danish government agency, Danish language assumed required though not explicitly stated. Road-infrastructure geotechnics, not subsurface/offshore/CCS domain - a narrowing from candidate's background."
+    },
+    "ramboll-geotechnical-engineer-aarhus-4yrs": {
+      "title": "Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/55ebdc4f-0773-4da5-4fd4-08debbd6ce98",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Aarhus (flexible Aalborg/Vejle/Odense) - Jutland, outside Sjaelland/Copenhagen commute range, would require relocation. EXCLUDED: requires min. 4 years' experience (above candidate's 3), and degree stated strictly as 'civil engineering with specialization in geotechnics' with no 'or equivalent'/geology-acceptance language - hard degree gap. Distinct requisition from the previously-logged Senior-level Ramboll Copenhagen geotechnical postings."
+    },
+    "paconsulting-consultant-analyst-risk-compliance-copenhagen": {
+      "title": "Consultant Analyst - Risk, Compliance & Financial Crime Prevention",
+      "company": "PA Consulting",
+      "url": "https://www.paconsulting.com/jobs/consultant-analyst-risk-compliance-financial-crime-prevention-744000143822039",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Copenhagen (Nordhavn). Min. 2 yrs required - candidate's 3 yrs fits. EXCLUDED: role is financial-services risk/compliance/financial-crime, no energy/subsurface/CCS relevance whatsoever - pure domain mismatch. Also requires fluent Danish (written and spoken)."
+    },
+    "epconsult-green-energy-transition-consultant-copenhagen": {
+      "title": "Green Energy Transition Consultant",
+      "company": "EPConsult Energies",
+      "url": "https://epconsultenergies.com/job/green-energy-transition-consultant",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live, open until filled. Copenhagen (4-5 days/week in office). Good domain fit (energy transition) but EXCLUDED: requires 10 years' professional experience in engineering/technical consulting - far above candidate's 3 yrs, effectively a senior/principal-level role."
+    },
+    "wsp-danmark-projektleder-indledende-forureningsundersogelser-viby": {
+      "title": "Projektleder til indledende forureningsundersøgelser",
+      "company": "WSP Denmark",
+      "url": "https://dk.jooble.org/desc/-6485109653127937744",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via Jooble mirror. Viby (Aarhus area), Jutland - outside Sjaelland/Copenhagen commute range. Degree accepts 'geolog, ingeniør eller lignende' (good fit) but EXCLUDED on location plus requires fluent Danish (written/spoken)."
+    },
+    "miljostyrelsen-miljofaglig-medarbejder-kystbeskyttelse-lemvig": {
+      "title": "Miljøfaglig medarbejder til bygherreansøgninger ved kystbeskyttelse",
+      "company": "Miljøstyrelsen (Danish EPA)",
+      "url": "https://dk.jooble.org/desc/4276660898711666422",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Deadline 11 Sept 2026, confirmed open. Lemvig, West Jutland - far outside Sjaelland/Copenhagen commute range, would require relocation. Degree accepts master's in biology, geology, geography or similar (good fit) but EXCLUDED on location."
     }
   }
 }

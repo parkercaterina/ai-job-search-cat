@@ -1196,6 +1196,132 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed HTTP 404 via direct fetch. Would also have been excluded on seniority (Principal-level)."
+    },
+    "eni-senior-reservoir-geologist-villahermosa-mexico-EXCLUDED": {
+      "title": "Senior Reservoir Geologist",
+      "company": "Eni",
+      "url": "jobs.eni.com/en/sites/CX_1004/job/31570",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via Google-index cross-check (jobs.eni.com itself is Cloudflare-blocked to automated fetch). Villahermosa, Mexico - not EU. Also Senior-level, above candidate's 3 yrs. Only two Eni geoscience-titled postings indexed anywhere right now, both Mexico-based (see also Wellsite Geologist entry) - no EU-based Eni geology openings currently exist despite candidate's real 2019 Eni internship connection."
+    },
+    "eni-wellsite-geologist-mexico-EXCLUDED": {
+      "title": "Wellsite Geologist",
+      "company": "Eni (ENI International Resources)",
+      "url": "job aggregator mirror",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Mexico-based - not EU. jobs.eni.com direct portal is Cloudflare-blocked to automated verification; Rigzone's Eni-filtered geologist search independently returned zero results, corroborating no live Eni EU geology postings currently exist."
+    },
+    "wintershalldea-zero-openings-EXCLUDED": {
+      "title": "N/A - company-wide check",
+      "company": "Wintershall Dea",
+      "url": "wintershalldea.com/en/careers",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch: page explicitly states 'Currently there are no open vacancies available. Please refrain from speculative applications.' Zero postings of any kind company-wide, not just geology-specific."
+    },
+    "conocophillips-intern-geology-geophysics-2027-us-EXCLUDED": {
+      "title": "Intern, Geology & Geophysics 2027",
+      "company": "ConocoPhillips",
+      "url": "careers.conocophillips.com/job-search-results/",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch of full current listing. Houston TX / Anchorage AK / Midland TX - all US, and an internship not a professional role. Only geoscience-titled req company-wide; no EU-based ConocoPhillips geoscience roles found - matches expectation of limited EU upstream presence."
+    },
+    "equinor-graduate-programme-2027-norway-petroleum-geosciences-EXCLUDED": {
+      "title": "Graduate Programme 2027 Norway - Petroleum Engineering & Geosciences",
+      "company": "Equinor",
+      "url": "equinor.wd3.myworkdayjobs.com/wday/cxs/equinor/EQNR/jobs",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via Equinor's own Workday API (14 total open reqs company-wide). All 5 posting locations are Norwegian cities (Stavanger, Harstad, Rotvoll, Sandsli, Stjordal) - Norway excluded per location rule. Also a graduate programme, not matching 3-yr-experience profile. No other geology/geoscience titles among Equinor's 14 open roles."
+    },
+    "devon-energy-senior-geologist-pittsburgh-EXCLUDED": {
+      "title": "Senior Geologist",
+      "company": "Devon Energy",
+      "url": "https://www.ihireutilities.com/jobs/view/529560781",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed via job description. Pittsburgh, PA. EXCLUDED: requires 10+ years upstream O&G experience, 'seasoned geoscientist' - well above candidate's 3 yrs. Large multinational, would plausibly sponsor, but experience mismatch excludes it."
+    },
+    "eog-resources-sr-geologist-geological-advisor-multiloc-EXCLUDED": {
+      "title": "Sr. Geologist (Houston) / Geological Advisor (Houston, 15 yrs) / Geological Specialist-Geochemical Advisor (Denver)",
+      "company": "EOG Resources",
+      "url": "EOG careers site (multiple reqs)",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Houston TX and Denver CO. All three reqs EXCLUDED on seniority: Sr. Geologist requires min. 5 yrs + MS (borderline/excluded), Geological Advisor requires 15 yrs, Geological Specialist/Geochemical Advisor ($180-380K bands) is clearly senior/advisor level. No entry/mid-level EOG geologist req currently open."
+    },
+    "bp-lead-geoscientist-denver-EXCLUDED": {
+      "title": "Lead Geoscientist",
+      "company": "bp",
+      "url": "bp careers site",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Denver, CO. EXCLUDED: requires 15 years experience, well above candidate's 3 yrs."
+    },
+    "sm-energy-sr-operations-geologist-sr-geologist-texas-bd-denver-EXCLUDED": {
+      "title": "Sr. Operations Geologist (Utah/Denver) / Sr. Geologist - Texas Business Development (Denver)",
+      "company": "SM Energy (post-merger with Civitas Resources, Jan 2026)",
+      "url": "sm-energy.com careers",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Both Senior-level, above candidate's 3 yrs. Note for future scans: Civitas Resources' careers URL now redirects to sm-energy.com following the Jan 30 2026 merger - search 'SM Energy' going forward, not 'Civitas'."
+    },
+    "warwick-investment-group-geologist-oklahoma-city-EXCLUDED": {
+      "title": "Geologist (MidCon and Eagle Ford desks)",
+      "company": "Warwick Investment Group",
+      "url": "company careers page",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Oklahoma City, OK. EXCLUDED: requires 5+ years experience, above candidate's 3 yrs; also a small independent, sponsorship implausible."
+    },
+    "diamondback-energy-operations-geologist-midland-UNCONFIRMED": {
+      "title": "Operations Geologist",
+      "company": "Diamondback Energy",
+      "url": "stale aggregator listings only (Zippia/Ladders/Glassdoor)",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "COULD NOT VERIFY LIVENESS - only appears in stale aggregator summaries. Direct fetch of Diamondback's live Indeed listings for Midland (~15 postings) shows no geologist role, only technician/legal/admin roles. Posting appears expired or filled - not counted as verified live."
+    },
+    "totalenergies-vie-geologue-copenhagen-EXPIRED": {
+      "title": "VIE - Geologue (H/F) - Danemark",
+      "company": "TotalEnergies",
+      "url": "jobs.totalenergies.com",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - page marked 'Expires soon', desired start date listed as July 1, 2019 (stale/archived listing). Would otherwise have been a strong match: Copenhagen, Denmark. TotalEnergies' own Denmark careers portal confirmed zero current geologist/geophysicist openings in Denmark."
+    },
+    "omv-operations-geologist-vienna-NOLONGERLISTED": {
+      "title": "Operations Geologist",
+      "company": "OMV",
+      "url": "careers.omv.com",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Previously-seen 3rd-party aggregator listing is NOT currently live on OMV's own careers portal - direct search on careers.omv.com for 'geologist' returned zero matching positions company-wide. Would also have required 5+ yrs experience, excluding candidate anyway."
+    },
+    "one-dyas-neptune-energy-zero-openings-EXCLUDED": {
+      "title": "N/A - company-wide checks",
+      "company": "ONE-Dyas / Neptune Energy",
+      "url": "company career pages",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "ONE-Dyas (NL/German North Sea independent) career page explicitly states 'Currently we don't have any open positions.' Neptune Energy's main domain now fails DNS resolution, consistent with its 2024 absorption into Eni's upstream business (same Cloudflare-blocked/no-EU-postings pattern already flagged for Eni)."
     }
   }
 }

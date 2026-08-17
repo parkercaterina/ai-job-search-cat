@@ -1,5 +1,68 @@
 {
   "seen": {
+    "raba-kistner-geotechnical-logger-dallas": {
+      "title": "Geotechnical Logger",
+      "company": "Raba Kistner, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/geotechnical-logger-at-raba-kistner-inc-4453042483",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted 5 days ago. Dallas/Grand Prairie, TX. Requires only 1 yr experience - field technician/logger role, a step down from candidate's 3 yrs + MSc. Bachelor's in Geology/Geoscience + G.I.T. certification listed as 'preferred' not required (HS diploma is the hard minimum) - geology-friendly but junior tier, pay band ~$19-26/hr comparable to Austin listing. Small regional TX/Mexico firm (~850 employees) - unlikely to sponsor. EU citizen candidate has no US work authorization. Companion Austin, TX listing for the same title confirmed CLOSED."
+    },
+    "mottmacdonald-geotechnical-engineer-austin-r15210": {
+      "title": "Geotechnical Engineer (ref. 15210)",
+      "company": "Mott MacDonald",
+      "url": "https://apply.mottmac.com/job/Austin-Geotechnical-Engineer-TX-73301/1364486057/",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch - active Apply now, named recruiter contact. Austin, TX. Requires 5-10 yrs experience (candidate has 3) - overqualified. Requires Bachelor's in Civil/Geotechnical Engineering plus a Texas PE license (or ability to obtain) - wrong credential track for an MSc Geology, non-PE candidate. Mott MacDonald is a large UK-headquartered multinational, plausible sponsor in general, but this role's requirements disqualify it regardless. EU citizen candidate has no US work authorization."
+    },
+    "fugro-deep-foundation-technician-land-houston-r0031784": {
+      "title": "Deep Foundation Technician - Land",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0031784-deep-foundation-technician-land",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch (req R0031784), active Apply now. Houston, TX. Entry-level field technician role - HS diploma required, Associate's preferred, no formal years-of-experience stated - well below candidate's MSc Geology + 3 yrs professional level. Fugro is a large Dutch multinational generally plausible as a sponsor, but this specific requisition explicitly requires being 'Legally Authorized to work in the United States, without restrictions' - i.e. not sponsoring this role. EU citizen candidate has no US work authorization."
+    },
+    "terracon-geotechnical-engineering-technician-i-houston": {
+      "title": "Geotechnical Engineering Technician I",
+      "company": "Terracon",
+      "url": "https://careers.terracon.com/job/houston/geotechnical-engineering-technician-i/37184/98571701088",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, active Apply link (Oracle Cloud). Houston, TX. Entry-level technician role, 6 months experience, HS diploma only (no degree specified) - well below candidate's MSc Geology + 3 yrs professional level. Terracon is a mid-size (~8,000 employee), 100%-employee-owned US firm, not a global multinational - no sponsorship indication for a technician-tier role. EU citizen candidate has no US work authorization."
+    },
+    "terracon-geotechnical-project-engineer-austin": {
+      "title": "Geotechnical Project Engineer",
+      "company": "Terracon",
+      "url": "https://careers.terracon.com/job/austin/geotechnical-project-engineer/37184/95013364352",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch. Austin, TX. Requires 5-8 yrs experience (candidate has 3) and Bachelor's in Engineering plus an active PE license - explicitly engineering-only, not geoscience-friendly. Excluded on both overqualification and degree-mismatch grounds. EU citizen candidate has no US work authorization."
+    },
+    "schnabel-mid-level-geotechnical-engineer-austin-UNCONFIRMED": {
+      "title": "Mid-Level Geotechnical Engineer",
+      "company": "Schnabel Engineering",
+      "url": "Corroborated only via aggregators (career.io, ZipRecruiter, Glassdoor) - schnabel-eng.com blocks direct fetch with a CAPTCHA/bot wall",
+      "first_seen": "2026-08-17",
+      "fit": "medium",
+      "status": "unconfirmed",
+      "notes": "Corroborated across 3 independent aggregators with consistent detail: 3-8 yrs professional consulting geotechnical experience, $73k-$110k - fits candidate's 3 yrs at the low end, best experience-level match found this run. Could NOT independently confirm live/Apply-button status per this run's liveness-verification rule - source site and all aggregator pages returned 403/CAPTCHA on direct fetch. Degree requirement unclear (other Schnabel offices' postings vary between ABET-engineering-only and combined 'Engineer/Geologist' titles). NOT reported as a confirmed match this run - recommend a manual browser check next run before excluding or pursuing. Schnabel is a ~700-employee, 31-office US regional firm - unlikely to sponsor a visa."
+    },
+    "aecom-gis-specialist-ii-houston-UNVERIFIED": {
+      "title": "GIS Specialist II",
+      "company": "AECOM",
+      "url": "https://www.linkedin.com/jobs/view/4391923906 (aecom.jobs SPA blocks direct verification)",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Distinct from the already-logged Austin GIS Specialist II listing - this one is Houston, TX. aecom.jobs is a fully client-rendered React SPA; 6+ direct-fetch attempts (WebFetch and curl) returned empty/blocked content this run - a tooling limitation, not evidence it's dead. Not reported as confirmed live per verification rule. AECOM is a large multinational, plausible sponsor in general."
+    },
     "spglobal-downstream-market-analyst-paris-london": {
       "title": "Downstream Market Analyst",
       "company": "S&P Global Commodity Insights",

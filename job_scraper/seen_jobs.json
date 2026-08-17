@@ -1079,6 +1079,60 @@
       "fit": "low",
       "status": "new",
       "notes": "Confirmed live (per research agent's direct fetch); a duplicate-titled second req (82418 and 80799) also exists. Pau, France (CSTJF) - EU member state. Role is production-data QC / ML for multiphase flow rates - geoscience-adjacent but degree preference is Data Science/AI, not geology, a domain mismatch for candidate's profile. Same 'Contrat de Professionnalisation' 12-month training-contract type, targets <3 yrs experience. Starts Oct 2026."
+    },
+    "woodmac-jr2739-research-analyst-upstream-research-kualalumpur": {
+      "title": "Research Analyst, Upstream Research",
+      "company": "Wood Mackenzie",
+      "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers (JR2739); also LinkedIn 4375167231",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via Wood Mackenzie's own Workday API and LinkedIn. EXCLUDED on location: Kuala Lumpur, Malaysia - not EU/USA."
+    },
+    "woodmac-lower48-upstream-analyst-houston-CLOSED": {
+      "title": "Lower 48 Upstream Analyst",
+      "company": "Wood Mackenzie",
+      "url": "WayUp mirror listing, Houston TX",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED - 'no longer accepting applications' via direct fetch of WayUp mirror. Would otherwise have been Houston, TX (USA, acceptable location)."
+    },
+    "spglobal-sr-analyst-data-integration-workflows-netherlands-328065": {
+      "title": "Sr Analyst, Data Integration & Workflows",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://spgi.wd5.myworkdayjobs.com (req 328065)",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via S&P Global's own Workday API. Virtual, Netherlands - EU location OK, but EXCLUDED: data/IT integration role, not a research/upstream/subsurface analyst position; also senior-tagged."
+    },
+    "enverus-analyst-intelligence-25128-CLOSED": {
+      "title": "Analyst, Intelligence",
+      "company": "Enverus",
+      "url": "builtin.com mirror (req 25128)",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed removed/expired via direct fetch."
+    },
+    "enverus-intelligence-analyst-25443-CLOSED": {
+      "title": "Intelligence Analyst",
+      "company": "Enverus",
+      "url": "builtin.com mirror (req 25443)",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed removed/expired via direct fetch."
+    },
+    "enverus-principal-research-analyst-subsurface-CLOSED": {
+      "title": "Principal Research Analyst - Subsurface",
+      "company": "Enverus",
+      "url": "builtin.com mirror",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed HTTP 404 via direct fetch. Would also have been excluded on seniority (Principal-level)."
     }
   }
 }

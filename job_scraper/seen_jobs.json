@@ -1655,6 +1655,123 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Re-confirmed live, still the only open role on Westwood's careers page. Aberdeen, Scotland, UK - excluded (UK location) and Senior-level - too senior."
+    },
+    "hvj-associates-geotechnical-staff-engineer-houston-4382145160": {
+      "title": "Geotechnical Staff Engineer",
+      "company": "HVJ Associates®",
+      "url": "https://www.linkedin.com/jobs/view/geotechnical-staff-engineer-at-hvj-associates%C2%AE-4382145160",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted ~3 weeks ago, 101 applicants. Houston, TX. Distinct from the already-excluded HVJ Associates Staff Geologist (Austin) req - different title, different city. Years of experience not explicitly stated (seniority level 'Not Applicable'). Degree requirement: 'Bachelor's Degree in Civil Engineering or related field, Master's Degree preferred' - does not explicitly name Geology/Geoscience but also does not restrict to a strict ABET-only Civil Engineering degree; 'related field' leaves some room for MSc Geology, worth a direct inquiry. No visa sponsorship or work-authorization language found in the posting. HVJ is the largest minority-owned specialty engineering firm in Texas, mid-size regional - sponsorship unlikely but not explicitly ruled out. EU citizen candidate has no US work authorization. A companion req 'Staff Geotechnical Engineer' (linkedin id 4266795934) was checked and is EXPIRED (redirects to generic 1,000+ jobs search)."
+    },
+    "gsi-environmental-mid-level-env-eng-scientist-geologist-austin-UNCONFIRMED": {
+      "title": "Mid-Level Environmental Engineer/Scientist/Geologist",
+      "company": "GSI Environmental Inc.",
+      "url": "https://www.linkedin.com/jobs/view/mid-level-environmental-engineer-scientist-geologist-at-gsi-environmental-inc-3302211207",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "unconfirmed",
+      "notes": "LinkedIn URL redirects to a generic 1,000+ jobs search page (expired-posting pattern), and gsienv.com's own careers/individual-posting pages returned only a bot-verification loading screen on direct fetch (could not confirm current listing). Level would be a strong fit for candidate's 3 yrs if still open - recommend a manual browser check of gsienv.com/careers/ before excluding. Austin, TX. Not reported as a confirmed match this run."
+    },
+    "ninyo-moore-socotec-project-geotechnical-engineer-houston-UNCONFIRMED": {
+      "title": "Project Geotechnical Engineer (PGE-HOU)",
+      "company": "Ninyo & Moore, A SOCOTEC Company",
+      "url": "https://ninyoandmoore.com/careers/jobs/72-project-geotechnical-engineer-houston-tx-pge-hou (also linkedin.com/jobs/view/project-geotechnical-engineer-at-ninyo-moore-a-socotec-company-4283383997)",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Could not confirm live/apply status via direct fetch - ninyoandmoore.com returns a bot-verification loading screen, LinkedIn direct job view and a JobTarget mirror both failed (JobTarget 404, LinkedIn returned only generic search results). Per aggregator snippets: requires a LICENSED PROFESSIONAL ENGINEER (PE) with 4+ years geotechnical consulting experience - a hard barrier for candidate regardless of confirmation (no PE, non-US-citizen path to TX PE is long). Houston, TX. Not pursued further this run."
+    },
+    "rrc-geotechnical-engineer-pe-pm-round-rock-EXPIRED": {
+      "title": "Geotechnical Engineer PE/PM",
+      "company": "RRC Power and Energy",
+      "url": "https://www.indeed.com/viewjob?jk=04cbeb05aa442cbf",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('This job has expired on Indeed'). Round Rock, TX 78681. Would also have been excluded on degree grounds: requires 'Bachelor of Science in Civil or Geotechnical Engineering' plus a PE license, no Geology/Geoscience equivalency stated. 3-5 yrs experience would otherwise have matched candidate."
+    },
+    "geosyntec-early-career-geotechnical-engineer-houston-EXPIRED": {
+      "title": "Early-Career Geotechnical Engineer / Entry-Level Geotechnical Engineer",
+      "company": "Geosyntec Consultants",
+      "url": "https://careers-geosyntec.icims.com/jobs/4612 and /3130 and /3973 (all Houston, TX variants)",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "All 3 known Geosyntec Houston icims req IDs for this title returned HTTP 410 Gone. A live Indeed search of current Geosyntec Houston postings (checked directly) shows only Project Administrator, Principal EHS Consultant, and Principal Air Quality Practice Leader roles - no Geotechnical Engineer or Geologist req currently listed. Confirmed no longer live."
+    },
+    "ges-entry-level-geologist-environmental-scientist-dallas-UNCONFIRMED": {
+      "title": "Entry Level Geologist or Environmental Scientist",
+      "company": "Groundwater & Environmental Services, Inc. (GES)",
+      "url": "gesonline.com/careers (specific posting URL not found)",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Only appears in stale-looking aggregator snippets; GES's own careers page (gesonline.com/careers/careers-glance) lists no specific open reqs directly and routes to an external ADP portal that could not be located/verified. Dallas, TX. Could not confirm as currently live - not reported as a confirmed match."
+    },
+    "txdot-tceq-gis-analyst-austin-STATEGOV-UNCONFIRMED": {
+      "title": "GIS Analyst I/II (TxDOT Traffic Section) and GIS Analyst - Work Lead (TCEQ)",
+      "company": "Texas Department of Transportation / Texas Commission on Environmental Quality",
+      "url": "capps.taleo.net (legacy portal, migrated to erphcmprd.cpa.texas.gov - old links dead)",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Could not confirm current live requisition - Texas state government's CAPPS careers portal migrated to a new platform and all discoverable direct links are dead. Even if refiled and live, EXCLUDED per established precedent (see CAL FIRE, 2026-08-15 run): Texas state government agencies essentially never sponsor work visas; candidate is an EU citizen with no US work authorization. Austin, TX."
+    },
+    "freese-nichols-gis-analyst-fort-worth-EXPIRED": {
+      "title": "GIS Analyst",
+      "company": "Freese and Nichols",
+      "url": "https://builtin.com/job/gis-analyst/4589219",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - posting explicitly shows removal date 2025-04-07. Fort Worth, TX (Dallas fallback area). Companion 'Geologist I' (Water Resources Dam & Levee Design group, Fort Worth, new-grad-oriented) mentioned in search snippets could not be resolved to any live, fetchable URL - not confirmed."
+    },
+    "intera-geologist-hydrogeologist-groundwater-modeler-austin-DEAD-LINKS": {
+      "title": "Geologist/Hydrogeologist; Mid-Level Groundwater Modeler; Environmental Scientist/Geologist/Engineer",
+      "company": "INTERA Incorporated",
+      "url": "interacareers.com/jobDesc.asp?JobID=292, JobID=394, JobID=417; recruiting.paylocity.com/.../4248861",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "All known direct req links returned HTTP 404 or 'that job does not exist or is not currently active.' INTERA's main interacareers.com listing page also 404s. Austin, TX - would be a strong domain fit (aquifer characterization, groundwater) if a live req resurfaces; worth re-checking interacareers.com directly in a future run."
+    },
+    "langan-senior-pm-geotechnical-engineering-austin-1376517800": {
+      "title": "Senior Project Manager - Geotechnical Engineering",
+      "company": "Langan",
+      "url": "https://careers.langan.com/job/Austin-Senior-Project-Manager-Geotechnical-Engineering-TX-78759/1376517800/",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, active Apply now button. Austin, TX 78759. EXCLUDED: requires 10+ years related geotechnical experience, well above candidate's 3 yrs. Degree requires Master's in Geotechnical Engineering + Bachelor's in Civil Engineering or related field - does not explicitly accept Geology/Geoscience. No visa sponsorship language found. EU citizen candidate has no US work authorization."
+    },
+    "langan-geotechnical-engineer-austin-1367656400": {
+      "title": "Geotechnical Engineer",
+      "company": "Langan",
+      "url": "https://careers.langan.com/job/Austin-Geotechnical-Engineer-TX-78759/1367656400/",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, active Apply now button. Austin, TX 78759. Requires 2+ years work-related experience - good level match for candidate's 3 yrs. EXCLUDED on degree: requires Bachelor's in Civil or Geotechnical Engineering specifically, does not list Geology/Geoscience as an accepted equivalent - hard degree mismatch for candidate's MSc Geology. No visa sponsorship language found. EU citizen candidate has no US work authorization."
+    },
+    "langan-geotechnical-engineer-entry-level-austin-1375030500": {
+      "title": "Geotechnical Engineer - Entry Level",
+      "company": "Langan",
+      "url": "https://careers.langan.com/job/Austin-Geotechnical-Engineer-Entry-Level-TX-78759/1375030500/",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, active Apply now button. Austin, TX 78759 (also posted for Houston, TX 77024). 0-2 years work-related experience - a step down from candidate's 3 yrs. EXCLUDED on degree: requires Bachelor's in Civil or Geotechnical Engineering (Master's w/ geotech specialty preferred), Geology/Geoscience not listed as acceptable. No visa sponsorship language found. EU citizen candidate has no US work authorization."
+    },
+    "langan-project-environmental-permitting-compliance-austin-1391737100": {
+      "title": "Project Environmental Permitting & Compliance Engineer, Scientist or Manager",
+      "company": "Langan",
+      "url": "https://careers.langan.com/job/Austin-Project-Environmental-Permitting-%26-Compliance-Engineer%2C-Scientist-or-Manager-TX-78759/1391737100/",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, active Apply now button. Austin, TX 78759; Dallas, TX 75019. EXCLUDED: requires 6+ years in multimedia environmental permitting/compliance consulting, above candidate's 3 yrs. Degree accepts Environmental or Chemical Engineering, Environmental Science, or closely related field - broader language but does not explicitly name Geology/Geoscience. No visa sponsorship language found. EU citizen candidate has no US work authorization."
     }
   }
 }

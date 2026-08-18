@@ -1547,6 +1547,114 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Deadline 11 Sept 2026, confirmed open. Lemvig, West Jutland - far outside Sjaelland/Copenhagen commute range, would require relocation. Degree accepts master's in biology, geology, geography or similar (good fit) but EXCLUDED on location."
+    },
+    "woodmac-principal-analyst-aluminium-markets-gurugram-EXCLUDED": {
+      "title": "Principal Analyst - Aluminium Markets",
+      "company": "Wood Mackenzie",
+      "url": "Wood Mackenzie Workday board",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Gurugram, India - wrong location (not EU/USA) and Principal-level - too senior."
+    },
+    "woodmac-principal-analyst-zinc-markets-london-EXCLUDED": {
+      "title": "Principal Analyst - Zinc Markets",
+      "company": "Wood Mackenzie",
+      "url": "Wood Mackenzie Workday board",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. London, UK - excluded location (UK) and Principal-level - too senior."
+    },
+    "woodmac-principal-analyst-north-american-lng-houston-EXCLUDED": {
+      "title": "Principal Analyst - North American LNG",
+      "company": "Wood Mackenzie",
+      "url": "Wood Mackenzie Workday board",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Houston, TX - good location, but Principal-level - too senior for candidate's 3 yrs."
+    },
+    "woodmac-senior-research-analyst-global-power-market-EXCLUDED": {
+      "title": "Senior Research Analyst - Global Power Market",
+      "company": "Wood Mackenzie",
+      "url": "Wood Mackenzie Workday board",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live. Senior-level - too senior for candidate's 3 yrs."
+    },
+    "woodmac-research-analyst-ngls-EXPIRED": {
+      "title": "Research Analyst - NGLs",
+      "company": "Wood Mackenzie",
+      "url": "BuiltIn mirror",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed 404/expired via BuiltIn mirror."
+    },
+    "woodmac-unverifiable-copper-midstream-supplychain-analysts": {
+      "title": "Research Analyst - Copper Assets (JR2344) / Energy Supply Chain Research Analyst (JR2804-1) / Research Analyst - Midstream (JR2581)",
+      "company": "Wood Mackenzie",
+      "url": "Wood Mackenzie Workday board (JS-rendered, could not confirm)",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Wood Mackenzie's Workday job pages are pure JS-rendered SPAs returning empty content to WebFetch/curl; CXS JSON API returned 403; third-party mirrors also 403/404. Could NOT verify liveness or location this run - worth a manual browser re-check in a future run."
+    },
+    "spglobal-research-analyst-esg-324011-EXPIRED": {
+      "title": "Research Analyst - ESG",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://careers.spglobal.com/jobs/324011?lang=en-us",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - HTTP 404 on direct fetch."
+    },
+    "spglobal-survey-research-analyst-327613-EXPIRED": {
+      "title": "Survey Research Analyst",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://careers.spglobal.com/jobs/327613?lang=en-us",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - HTTP 404 on direct fetch."
+    },
+    "spglobal-research-analyst-intern-fuels-chemicals-320543-EXPIRED": {
+      "title": "Research Analyst Intern - Fuels & Chemicals",
+      "company": "S&P Global Commodity Insights",
+      "url": "https://careers.spglobal.com/jobs/320543?lang=en-us",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - HTTP 404 on direct fetch."
+    },
+    "rystad-gulf-of-mexico-ep-analyst-houston-EXPIRED": {
+      "title": "Gulf of Mexico E&P Analyst",
+      "company": "Rystad Energy",
+      "url": "LinkedIn (redirects to expired_jd_redirect)",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - LinkedIn URL redirects to generic expired-job search page. Houston, TX would otherwise have been a good location."
+    },
+    "enverus-analyst-board-sweep-2026-08-18-EXCLUDED": {
+      "title": "Data Analyst/Energy Analyst (Stonehouse UK) / Application Support Analyst / Senior GRC Analyst (Bangalore) / Principal Analyst Large Load Intelligence (Calgary) / Principal Analyst Power Markets (Calgary) / Research Associate x2 Semiconductors & AI Infrastructure (Calgary)",
+      "company": "Enverus",
+      "url": "Enverus Jobvite board (7 open Analyst reqs)",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Full sweep of Enverus's live Jobvite 'Analyst' search (7 reqs). All excluded: wrong location (UK, Bangalore, Calgary/Canada), too senior (Principal-level), or wrong domain (IT support, semiconductors/AI infra). No EU/USA, appropriately-leveled, geoscience/upstream-analyst req currently open."
+    },
+    "westwood-senior-analyst-offshore-energy-services-aberdeen-DUPLICATE": {
+      "title": "Senior Analyst - Offshore Energy Services",
+      "company": "Westwood Global Energy Group",
+      "url": "Westwood careers page",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Re-confirmed live, still the only open role on Westwood's careers page. Aberdeen, Scotland, UK - excluded (UK location) and Senior-level - too senior."
     }
   }
 }

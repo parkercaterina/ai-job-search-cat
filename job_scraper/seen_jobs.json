@@ -1934,6 +1934,24 @@
       "fit": "low",
       "status": "new",
       "notes": "Confirmed live via direct fetch, posted ~1 week ago, 98 applicants. Gorinchem, Netherlands - EU member state but outside Copenhagen/Sjaelland target geography, would require relocation. Requires 2-5 yrs experience - fits candidate's 3 yrs well. Degree requirement explicitly 'Master's or Bachelor's degree in Geo-Engineering or Offshore Engineering' - does NOT explicitly accept Geology/Geoscience as equivalent, a real degree gap (role is pile-foundation design engineering using Plaxis/GRLWEAP/OPILE/Python, not geological site characterization). No Danish/Dutch language requirement (English only). Low-medium fit: good level and EU-citizen sponsorship non-issue, but degree-track mismatch and requires relocation."
+    },
+    "orsted-geotechnical-engineer-gentofte-4457145615": {
+      "title": "Geotechnical Engineer",
+      "company": "Ørsted",
+      "url": "https://dk.linkedin.com/jobs/view/geotechnical-engineer-at-ørsted-4457145615",
+      "first_seen": "2026-08-25",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted ~7 hrs ago, rolling/continuous interviews, no fixed deadline. Gentofte, Greater Copenhagen - ideal location. Seniority listed as 'Ikke relevant' (not relevant) - no explicit years-of-experience floor stated, plausible fit for candidate's 3 yrs. Degree requirement (verbatim): 'M.Sc. or a Ph.D. degree in civil/geotechnical engineering (or equivalent)' - does NOT explicitly name Geology/Geoscience as an accepted equivalent; ambiguous 'or equivalent' wording is the same disqualifier pattern seen repeatedly at engineering-titled postings - verify directly with Ørsted before applying whether an MSc Geology qualifies. MATLAB/Python and PLAXIS/FLAC geotechnical software mentioned as desired/nice-to-have skills, not stated as hard requirements. No Danish language requirement stated. Strong domain fit otherwise: offshore wind geotechnical/site investigation work closely mirrors candidate's North Sea CPT and site investigation background at GEO. Companion posting also live in Fredericia (see below). Logged to job_search_tracker.csv as this run's top pick given location + domain match, with degree-equivalency flagged as the item to verify."
+    },
+    "orsted-geotechnical-engineer-fredericia-4457142800": {
+      "title": "Geotechnical Engineer",
+      "company": "Ørsted",
+      "url": "https://dk.linkedin.com/jobs/view/geotechnical-engineer-at-ørsted-4457142800",
+      "first_seen": "2026-08-25",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted ~7 hrs ago, rolling/continuous interviews, no fixed deadline. Fredericia, Denmark (Jutland) - outside Sjaelland/Copenhagen commute range, would require relocation within Denmark. Identical role/requirements to the companion Gentofte posting logged separately (same degree-equivalency ambiguity: 'M.Sc. or a Ph.D. degree in civil/geotechnical engineering (or equivalent)', no explicit Geology/Geoscience acceptance stated). No Danish language requirement stated. Same strong offshore-wind-geotechnical domain fit as the Gentofte posting, but lower priority due to relocation requirement."
     }
   }
 }

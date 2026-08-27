@@ -1952,6 +1952,78 @@
       "fit": "medium",
       "status": "new",
       "notes": "Confirmed live via direct fetch, posted ~7 hrs ago, rolling/continuous interviews, no fixed deadline. Fredericia, Denmark (Jutland) - outside Sjaelland/Copenhagen commute range, would require relocation within Denmark. Identical role/requirements to the companion Gentofte posting logged separately (same degree-equivalency ambiguity: 'M.Sc. or a Ph.D. degree in civil/geotechnical engineering (or equivalent)', no explicit Geology/Geoscience acceptance stated). No Danish language requirement stated. Same strong offshore-wind-geotechnical domain fit as the Gentofte posting, but lower priority due to relocation requirement."
+    },
+    "geo-geoteknisk-ingenior-lyngby-2586641607-EXPIRED": {
+      "title": "Geoteknisk ingeniør",
+      "company": "GEO",
+      "url": "https://dk.linkedin.com/jobs/view/geoteknisk-ingeni%C3%B8r-at-geo%C2%A0-2586641607",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Modtager ikke længere ansøgninger'). Archived posting from 2021 (deadline July 2, 2021) still surfacing in search results. Lyngby-Taarbaek."
+    },
+    "fugro-geotechnical-engineer-r0029238-404": {
+      "title": "Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0029238-geotechnical-engineer",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "HTTP 404 on direct fetch - requisition no longer exists despite appearing in search results/snippets."
+    },
+    "fugro-geotechnical-engineer-r0029996-404": {
+      "title": "Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0029996-geotechnical-engineer",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "HTTP 404 on direct fetch - requisition no longer exists despite appearing in search results/snippets."
+    },
+    "ramboll-geo-structural-marine-engineer-copenhagen-UNCONFIRMED": {
+      "title": "Geo-structural Marine Engineer",
+      "company": "Ramboll",
+      "url": "https://www.ceecareers.com/jobs/64039-geo-structural-marine-engineer (mirror; direct ramboll.com/careers link could not be resolved to this specific req)",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Could not confirm live/open status this run - direct ramboll.com/en-us/careers link attempts redirected to the generic 1200+ result search listing rather than this specific requisition. Ports, Marine and Coastal Engineering dept, Copenhagen HQ (one source suggested Delft as actual base - location unclear). Would likely be EXCLUDED regardless: requires a Master's degree specifically in Civil Engineering (or similar) - no Geology/Geoscience equivalency mentioned, a real degree-track mismatch for candidate's MSc Geology."
+    },
+    "ramboll-senior-geoscience-managers-geophysicists-3ac4fee1-EXPIRED": {
+      "title": "Senior Geoscience Managers / Senior Geophysicists",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/en-us/careers/3ac4fee1-40b9-4b2a-ae71-08db6ea5941c",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Direct link now redirects to Ramboll's generic 1200+ result careers search page rather than this specific req - posting appears removed/filled. Also would have been excluded on seniority (Senior title) above candidate's 3 yrs regardless."
+    },
+    "assens-kommune-ingenior-geolog-myndighedsopgaver-h1596512-EXPIRED": {
+      "title": "Ingeniør eller geolog til myndighedsopgaver inden for jordforurening og industrimiljø",
+      "company": "Assens Kommune",
+      "url": "https://www.jobindex.dk/vis-job/h1596512",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!'). Assens, Fyn - outside Sjaelland/Copenhagen commute range regardless."
+    },
+    "geo-medarbejder-jordforurening-raastof-lyngby-h1635024-EXPIRED": {
+      "title": "Medarbejder til jordforurening og råstof i Geo Lyngby",
+      "company": "GEO",
+      "url": "https://www.jobindex.dk/vis-job/h1635024",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!'). Posted Feb 2026, Lyngby - would have been a good location/domain fit (soil contamination, raw materials) had it still been open."
+    },
+    "ineos-ccr-operator-greensand-EXPIRED": {
+      "title": "CCR Operatør",
+      "company": "INEOS Energy (Project Greensand)",
+      "url": "https://www.jobindex.dk/jobannonce/391658/ccr-operatoer?lang=da",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - redirects to jobindexarkiv.dk archive. Also would have been a poor role-type fit regardless (control-room operator, not a geoscience/subsurface role) despite Project Greensand CCS domain relevance."
     }
   }
 }

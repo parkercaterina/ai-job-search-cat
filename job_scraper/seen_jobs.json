@@ -2024,6 +2024,42 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed EXPIRED - redirects to jobindexarkiv.dk archive. Also would have been a poor role-type fit regardless (control-room operator, not a geoscience/subsurface role) despite Project Greensand CCS domain relevance."
+    },
+    "wood-thilsted-geotechnical-engineer-copenhagen-4447524655": {
+      "title": "Geotechnical Engineer",
+      "company": "Wood Thilsted",
+      "url": "https://dk.linkedin.com/jobs/view/geotechnical-engineer-at-wood-thilsted-4447524655",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted ~6 days ago, 57 applicants, no fixed deadline (closes once enough candidates apply - apply soon). Copenhagen, Denmark. Wood Thilsted is a specialist offshore wind foundation engineering consultancy - role covers offshore geotechnical site investigation campaigns, lab test result processing, geotechnical interpretive reports, soil-structure interaction - very strong domain overlap with candidate's North Sea CPT acquisition/site investigation/facies analysis background. Min 2 yrs professional experience 'advantageous, not mandatory' - candidate's 3 yrs fits. CAUTION - degree requirement is 'Master's degree or PhD in civil engineering, geotechnical engineering, or equivalent' - does not explicitly list Geology/Geoscience; 'or equivalent' wording is ambiguous whether an MSc Geology qualifies (per lesson-learned #3) - verify directly with Wood Thilsted before applying."
+    },
+    "hofor-grundvandsspecialist-barselsvikariat-copenhagen-4455782268": {
+      "title": "Grundvandsspecialist til Danmarks største vandforsyning (barselsvikariat)",
+      "company": "HOFOR",
+      "url": "https://dk.linkedin.com/jobs/view/grundvandsspecialist-til-danmarks-st%C3%B8rste-vandforsyning-barselsvikariat-at-hofor-4455782268",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted ~1 week ago. Copenhagen, Denmark. Degree requirement explicitly lists 'miljøingeniør, geolog, biolog eller lignende' (environmental engineer, GEOLOGIST, biologist or similar) - direct degree match. Entry-level/newly graduated acceptable, candidate's 3 yrs comfortably exceeds bar. Full-time (not part-time - satisfies hard constraint), but is a ~1-year maternity leave cover (barselsvikariat): 'et år frem, opstart i november 2026' (~1 year starting Nov 2026, covering a colleague's leave from December). Role: QC and reporting on groundwater data from ~500 monitoring boreholes; QGIS listed as primary GIS tool - direct software match to candidate's stated QGIS skill. Deadline 2026-09-11 - apply soon if interested. Fixed-term nature is worth flagging to candidate before applying."
+    },
+    "arup-senior-geotechnical-engineer-copenhagen-32753": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "Arup",
+      "url": "https://jobs.arup.com/jobs/senior-geotechnical-engineer-32753",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch (active Apply button). Copenhagen, Denmark. EXCLUDED: requires minimum 6 years of geotechnical experience on medium-to-large Nordic projects - well above candidate's 3 yrs. Also Master's in civil/geotechnical/structural engineering specified, not Geology."
+    },
+    "arup-geotechnical-engineer-copenhagen-28102-CLOSED": {
+      "title": "Geotechnical Engineer",
+      "company": "Arup",
+      "url": "https://jobs.arup.com/jobs/geotechnical-engineer-28102",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - page explicitly states 'Unfortunately this position has been closed'. Copenhagen, Denmark. Would otherwise have been worth checking for level fit (non-senior title)."
     }
   }
 }

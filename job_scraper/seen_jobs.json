@@ -2060,6 +2060,150 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed CLOSED via direct fetch - page explicitly states 'Unfortunately this position has been closed'. Copenhagen, Denmark. Would otherwise have been worth checking for level fit (non-senior title)."
+    },
+    "sweco-geolog-geotekniker-ledningskrydsning-kobenhavn-404": {
+      "title": "Geolog/Geotekniker til ledningskrydsningsprojekter til Swecos jernbaneafdeling i København",
+      "company": "Sweco",
+      "url": "https://www.sweco.dk/karriere/ledige-stillinger/geologgeotekniker-til-ledningskrydsningsprojekter-til-swecos-jernbaneafdeling-i-kobenhavn/",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED/dead via direct fetch - page returns HTTP 404. Would have been an excellent match (title explicitly 'Geolog/Geotekniker', Copenhagen, Sweco's railway/utility-crossing team - direct degree and location match) had it still been live. Not counted as new/live; re-check in future runs in case reposted under a new URL."
+    },
+    "sweco-fagspecialist-ledningskrydsning-jernbane-expired": {
+      "title": "Fagspecialist til ledningskrydsningsprojekter i Swecos jernbaneafdeling",
+      "company": "Sweco",
+      "url": "https://www.sweco.dk/ledige_stillinger/fagspecialist-til-ledningskrydsningsprojekter-i-swecos-jernbaneafdeling/",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - URL resolves to Sweco's generic careers landing page rather than a specific job posting (no title/requirements/apply button present, per rule 4a on generic-redirect exclusion). Related railway utility-crossing team role in Copenhagen; re-check in future runs in case reposted."
+    },
+    "sweco-ingenior-geoteknisk-design-baeredygtige-losninger-expired": {
+      "title": "Ingeniør til geoteknisk design af fremtidens bæredygtige løsninger",
+      "company": "Sweco",
+      "url": "https://www.sweco.dk/ledige_stillinger/ingenioer-til-geoteknisk-design-af-fremtidens-baeredygtige-loesninger/",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - redirects to generic Sweco careers landing page, no specific posting content retrievable. Title specifies 'Ingeniør' (engineer) which may indicate a Civil/Geotechnical Engineering degree requirement rather than Geology - would need re-verification if reposted."
+    },
+    "ramboll-manager-energy-transition-ccus-strategy-f3581e42-expired": {
+      "title": "Manager - Energy Transition & CCUS Strategy",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/en-us/careers/f3581e42-4de5-4bab-225f-08dd52332ac2",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - the specific req URL redirects to Ramboll's generic 1,124-listing careers search page rather than the individual posting (no location, degree, or deadline retrievable). CCUS/energy-transition-strategy content would have been a strong domain fit, but 'Manager' title likely requires materially more than candidate's 3 yrs experience regardless. Re-check if reposted with a live req ID."
+    },
+    "ramboll-senior-consultant-global-energy-transition-sustainability-473ea9f0-expired": {
+      "title": "Senior Consultant - Global Energy Transition and Sustainability",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/en-gb/careers/473ea9f0-0e7f-4aab-d29d-08dc2087fdb5",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - req URL redirects to Ramboll's generic careers search listing, not the specific posting. 'Senior Consultant' title likely exceeds candidate's 3 yrs experience regardless. Re-check if reposted with a live req ID."
+    },
+    "geo-seniorprojektleder-jordforurening-aarhus-404": {
+      "title": "Seniorprojektleder inden for jordforureningsområdet til Geo Aarhus",
+      "company": "GEO",
+      "url": "https://www.geo.dk/karriere-i-geo/ledige-jobs/seniorprojektleder-inden-for-jordforureningsomraadet-til-geo-aarhus/",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch (curl, HTTP 404). Would also have exceeded candidate's level ('Senior' project-leader title) and is in Aarhus (Jutland), not Copenhagen/Sjælland."
+    },
+    "cowi-senior-geotechnical-engineer-id61121-unconfirmed": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "COWI",
+      "url": "https://www.cowi.com/your-career/open-vacancies/vacancy/?id=61121",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Could not confirm content via direct fetch - COWI's vacancy page is a JS single-page app and returns an essentially empty shell to both WebFetch and curl (no data without executing client-side JS). Req ID 61121 sits immediately adjacent to two already-tracked COWI postings (id 61122 'Senior Geotekniker' and id 61123 'Projektleder for geoteknisk laboratorium'), both excluded for exceeding candidate's level and both closed 30 Aug 2026 - today is 3 Sep 2026, so this is very likely the same batch and also now closed. 'Senior' title would exceed candidate's 3 yrs regardless. Re-verify manually via cowi.com search if pursuing."
+    },
+    "vanoord-geological-engineer-offshore-wind-1586-404": {
+      "title": "Geological Engineer Offshore Wind",
+      "company": "Van Oord",
+      "url": "https://careers.vanoord.com/vacancies/geological-engineer-offshore-wind-1586",
+      "first_seen": "2026-09-03",
+      "fit": "medium",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - HTTP 404. Would have been a strong domain fit (interpreting geological datasets for Offshore Wind Projects) had it been live; based at Van Oord's Gorinchem office, Netherlands (EU, but outside Denmark - would require relocation, per profile's EU/USA relocation constraint this is technically acceptable but deprioritized vs. Copenhagen). Re-check if reposted."
+    },
+    "maersk-sustainability-analyst-r172771-copenhagen-expired": {
+      "title": "Sustainability Analyst",
+      "company": "Maersk",
+      "url": "https://www.maersk.com/careers/vacancies/wd/Sustainability-Analyst_R172771/jt-sustainability-analyst",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED - req R172771 does not appear in Maersk's live Workday jobs API (queried directly via their public search endpoint; 263 total open reqs returned for a 'sustainability' search, none matching this title/ID). Copenhagen-based, but role would likely require dedicated sustainability-reporting/ESG data tooling rather than candidate's geology/subsurface skillset - would need gap-flagging (rule d) even if reopened."
+    },
+    "rwe-project-lead-offshore-wind-denmark-81956-410": {
+      "title": "Project Lead Offshore Wind Denmark",
+      "company": "RWE",
+      "url": "https://www.talentify.io/job/project-lead-offshore-wind-denmark-copenhagen-capital-rwe-81956",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - HTTP 410 Gone. Also confirmed directly via RWE's own careers search (jobs.rwe.com public search endpoint) that RWE currently has ZERO open postings matching 'geotechnical' or 'geoscientist' company-wide - the previously-tracked RWE Senior Geotechnical Engineer role (Copenhagen/Gentofte/Skærbæk/London, deadline 19 Aug 2026) has now closed with no replacement live. 'Project Lead' title is also management-level, above candidate's scope."
+    },
+    "gekterna-site-investigation-manager-offshore-wind-workable-404": {
+      "title": "Site Investigation Manager - Offshore Wind",
+      "company": "GEK TERNA Group",
+      "url": "https://apply.workable.com/gek-terna/j/2B7FC04E7A/",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch (curl) - URL 302-redirects to '?not_found=true' on the Workable job board. 'Manager' title also likely above candidate's 3 yrs level. GEK TERNA is Greece-headquartered (EU); company already has an unrelated GIS analyst role tracked (Greece-based)."
+    },
+    "jobindex-geoteknisk-ingenior-infrastrukturprojekter-r12945660-archived": {
+      "title": "Geoteknisk ingeniør til infrastrukturprojekter",
+      "company": "Unknown (jobindex listing, company not resolved before archival)",
+      "url": "https://www.jobindex.dk/jobannonce/r12945660/geoteknisk-ingenioer-til-infrastrukturprojekter",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - jobindex.dk 301-redirects this listing to jobindexarkiv.dk, Jobindex's archive for closed postings (same pattern as the previously-logged 'jobindex-geoscientist-448680-archived' entry). Not live."
+    },
+    "dmr-projektmedarbejder-leder-geoteknikafdeling-herlev-410": {
+      "title": "Projektmedarbejder/-leder til geoteknikafdelingen i Herlev",
+      "company": "DMR (Dansk Miljørådgivning A/S)",
+      "url": "https://www.ofir.dk/jobs/dmr-soeger-dmr-as-herlev-2688008/",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - HTTP 410 Gone. Herlev, Sjælland - would have been a good location match had it still been live; re-check DMR's career page in future runs."
+    },
+    "ncc-tilbudsingeniorer-hercules-arhus-soborg-14876-404": {
+      "title": "Tilbudsingeniører til Hercules i Århus og Søborg",
+      "company": "NCC Danmark",
+      "url": "https://www.ncc.dk/arbejd-hos-ncc/ledige-job/job/14876/",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - HTTP 404. 'Tilbudsingeniør' (tender/budget engineer) is an engineering-estimating role for NCC's foundation-contracting arm (Hercules Fundering) - would likely require a Civil/Structural Engineering degree rather than Geology (rule c degree-mismatch flag), even though currently dead."
+    },
+    "aogh-civilingenior-geoteknik-404": {
+      "title": "Civilingeniør i Geoteknik",
+      "company": "Andreasen & Hvidberg A/S",
+      "url": "https://aogh.dk/civilingenioer-i-geoteknik/",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - HTTP 404. Title explicitly 'Civilingeniør' (civil engineer) with FEM-calculation/bracing-structure design focus - a Civil Engineering degree requirement, not Geology (rule c). Company already has an unrelated 'Geoteknisk Projektleder' role logged as applied in job_search_tracker.csv."
+    },
+    "cowi-capture-coordinator-manager-proposal-lyngby-aarhus-notfit": {
+      "title": "Capture Coordinator / Capture Manager (Proposal & Business Development, Infrastructure)",
+      "company": "COWI",
+      "url": "https://dk.linkedin.com/jobs/view/capture-coordinator-at-cowi-4451135273",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Checked via search snippets and job description text - 'Capture' here refers to business-development/proposal capture (bid coordination for tenders/EOIs/PQQs), not carbon capture/CCS despite the name resembling a CCS role. Requires fluent Danish writing/speech and MS Office proficiency; no geology/subsurface technical content at all. Not a fit for candidate's profile. Live with deadline 6 Sep 2026 per LinkedIn, excluded purely on relevance grounds, not liveness."
     }
   }
 }

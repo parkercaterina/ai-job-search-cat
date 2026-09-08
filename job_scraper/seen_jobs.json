@@ -2204,6 +2204,42 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Checked via search snippets and job description text - 'Capture' here refers to business-development/proposal capture (bid coordination for tenders/EOIs/PQQs), not carbon capture/CCS despite the name resembling a CCS role. Requires fluent Danish writing/speech and MS Office proficiency; no geology/subsurface technical content at all. Not a fit for candidate's profile. Live with deadline 6 Sep 2026 per LinkedIn, excluded purely on relevance grounds, not liveness."
+    },
+    "wsp-danmark-teamchef-havne-geoteknik-hoje-taastrup": {
+      "title": "Teamchef indenfor Havne og Geoteknik i Høje Taastrup",
+      "company": "WSP Danmark",
+      "url": "https://dk.linkedin.com/jobs/view/teamchef-indenfor-havne-og-geoteknik-i-høje-taastrup-at-wsp-danmark-4387389703",
+      "first_seen": "2026-09-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted within 24h. Taastrup, Greater Copenhagen. This is a team-manager role explicitly requiring \"Ledelseserfaring\" (people-management experience) - candidate has 3 yrs technical experience (Assistant Site Manager on offshore campaigns, not a formal team-lead/people-manager role) - management seniority mismatch. Accepts engineering or masters degree in geoteknik/anlæg \"eller tilsvarende\" so degree itself would likely be fine."
+    },
+    "wsp-danmark-senior-miljo-felttekniker-viby": {
+      "title": "Senior miljø- / felttekniker inden for jord- og grundvandsforurening",
+      "company": "WSP Danmark",
+      "url": "https://dk.linkedin.com/jobs/view/senior-miljø-felttekniker-inden-for-jord-og-grundvandsforurening-at-wsp-danmark-4460978939",
+      "first_seen": "2026-09-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted 5 days ago. Based in Viby (Central/South Jutland) with fieldwork primarily in Jutland - well outside Copenhagen/Sjælland target area, deprioritized per location filter. No explicit degree requirement stated; field-technician level, not a step up from candidate's current level."
+    },
+    "banedanmark-teknisk-designer-geotekniske-tegninger-broer-jernbane": {
+      "title": "Teknisk designer til geotekniske tegninger og projektering af broer og konstruktioner til jernbaneprojekter",
+      "company": "Banedanmark",
+      "url": "https://dk.linkedin.com/jobs/view/teknisk-designer-til-geotekniske-tegninger-og-projektering-af-broer-og-konstruktioner-til-jernbaneprojekter-at-banedanmark-4462770980",
+      "first_seen": "2026-09-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted 4 days ago. Copenhagen (Carsten Niebuhrgade), remote-friendly. Role is a CAD/BIM technical-drawing position (MicroStation/AutoCAD, OpenRoads/OpenRail, 3D modelling of bridges and geotechnical structures) aimed at technical drafters/building constructors, not a geology/geoscience degree track - candidate has no stated CAD/drafting background, so this is a skills mismatch despite the geotechnical subject matter."
+    },
+    "sweco-projektleder-raastofprojekter-miljo-natur-baeredygtighed": {
+      "title": "Projektleder til råstofprojekter – Miljø, Natur og Bæredygtighed",
+      "company": "Sweco Denmark",
+      "url": "https://www.sweco.dk/ledige_stillinger/projektleder-til-raastofprojekter-natur-miljoe-og-baeredygtighed/",
+      "first_seen": "2026-09-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch. Location \"Hele landet\" (nationwide Denmark, flexible office). Deadline 2026-09-20. Degree explicitly accepts \"biologi, miljøvidenskab, geologi, ingeniørvidenskab eller lignende\" - good degree match. However requires minimum 5 years of project-management experience specifically in the raw-materials/permitting sector - candidate has 3 yrs and has not held a formal project-manager title (Assistant Site Manager role is adjacent but not equivalent), so this is a real experience-level gap per lesson-learned #2."
     }
   }
 }

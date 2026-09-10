@@ -2240,6 +2240,51 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed live via direct fetch. Location \"Hele landet\" (nationwide Denmark, flexible office). Deadline 2026-09-20. Degree explicitly accepts \"biologi, miljøvidenskab, geologi, ingeniørvidenskab eller lignende\" - good degree match. However requires minimum 5 years of project-management experience specifically in the raw-materials/permitting sector - candidate has 3 yrs and has not held a formal project-manager title (Assistant Site Manager role is adjacent but not equivalent), so this is a real experience-level gap per lesson-learned #2."
+    },
+    "vejdirektoratet-geotekniker-skanderborg-h1586658": {
+      "title": "Geotekniker",
+      "company": "Vejdirektoratet (Danish Road Directorate)",
+      "url": "https://www.jobindex.dk/vis-job/h1586658",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - page states 'Annoncen er udløbet!' (the announcement has expired). Skanderborg, Denmark with remote-work options. Distinct requisition from the already-logged 'Erfaren geotekniker til fremtidens vejprojekter' Vejdirektoratet posting."
+    },
+    "orsted-head-of-geotechnical-engineering-fredericia": {
+      "title": "Head of Geotechnical Engineering",
+      "company": "Ørsted A/S",
+      "url": "https://www.oneoiljobsearch.com/jobs/head-of-geotechnical-engineering-fredericia-denmark/",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Fredericia, Denmark. Could not independently confirm live status - source aggregator returned HTTP 503 and Ørsted's own careers portal is a JS-rendered SPA that WebFetch cannot query directly. Excluded regardless on seniority grounds: 'Head of' department-leadership title is far above candidate's 3 yrs experience (LinkedIn corroborates the department head role is already filled by an existing Ørsted director)."
+    },
+    "vattenfall-lead-geotechnical-engineer-offshore-ba-wind": {
+      "title": "Lead Geotechnical Engineer Offshore, BA Wind",
+      "company": "Vattenfall",
+      "url": "https://www.euroengineerjobs.com/job_display/148901/Lead_Geotechnical_Engineer_Offshore_in_BA_Wind_Vattenfall_London_Hamburg_or_Kolding_Multiple_Countries",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Kolding, Denmark (or Hamburg/London/Amsterdam). Aggregator listing confirmed EXPIRED per search snippet. Excluded regardless on seniority grounds: 'Lead' title well above candidate's 3 yrs experience."
+    },
+    "bcg-associate-denmark-56285": {
+      "title": "Associate, Denmark",
+      "company": "Boston Consulting Group",
+      "url": "https://careers.bcg.com/global/en/job/56285/Associate-Denmark",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - page states the position has been filled. Copenhagen, Denmark."
+    },
+    "pa-consulting-energy-transition-strategy-consultant-copenhagen-UNCONFIRMED": {
+      "title": "Experienced strategy consultants for our Energy Transition team",
+      "company": "PA Consulting",
+      "url": "https://builtin.com/job/experienced-strategy-consultants-our-energy-transition-team-copenhagen/2663583 (dead - 404)",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Copenhagen, Denmark - would otherwise be a strong domain/career-pivot match (energy transition strategy consulting, CCUS/offshore wind sub-teams). Aggregator link (builtin.com) returned 404. Checked PA Consulting's own careers site directly (paconsulting.com/jobs, filtered by Denmark) - zero current Denmark-based postings of any kind are listed, so this posting is stale/removed. Not reported as a live match per verification rule; worth re-checking PA Consulting's Denmark careers page again in a future run since this team is described as actively growing."
     }
   }
 }

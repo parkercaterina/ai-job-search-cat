@@ -2285,6 +2285,168 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "Copenhagen, Denmark - would otherwise be a strong domain/career-pivot match (energy transition strategy consulting, CCUS/offshore wind sub-teams). Aggregator link (builtin.com) returned 404. Checked PA Consulting's own careers site directly (paconsulting.com/jobs, filtered by Denmark) - zero current Denmark-based postings of any kind are listed, so this posting is stale/removed. Not reported as a live match per verification rule; worth re-checking PA Consulting's Denmark careers page again in a future run since this team is described as actively growing."
+    },
+    "christensen-kromann-ingenior-geolog-jordforurening-bjerringbro-h1640524-EXPIRED": {
+      "title": "Ingeniør, geolog eller lignende med interesse/erfaring indenfor jord- og grundvandsforurening samt bygningsscreening",
+      "company": "Christensen/Kromann ApS",
+      "url": "https://www.jobindex.dk/vis-job/h1640524",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!'). Bjerringbro, Jutland - outside Sjælland/Copenhagen range regardless. Distinct posting from the already-tracked ckgeo.dk 'Jordnær geotekniker til Bjerringbro eller Roskilde' role at the same firm."
+    },
+    "ncc-danmark-geolog-raastoftilladelser-aarhus-h1661824-EXPIRED": {
+      "title": "Geolog eller lignende med en naturfaglig baggrund søges til arbejdet med at opnå råstoftilladelser",
+      "company": "NCC Danmark",
+      "url": "https://www.jobindex.dk/vis-job/h1661824",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch. Aarhus V, Jutland - outside Sjælland/Copenhagen range regardless. Raw-material permitting geologist role, good degree fit on paper but dead and wrong location."
+    },
+    "geosyd-geolog-laboratoriearbejde-geoteknisk-rapportering-herlev-h1657829-EXPIRED": {
+      "title": "Geolog til laboratoriearbejde og geoteknisk rapportering på Sjælland",
+      "company": "GEOSYD A/S",
+      "url": "https://www.jobindex.dk/vis-job/h1657829",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted April 21, 2026). Herlev, Sjælland - would have been a good location match (lab + geotechnical reporting) had it still been open. New company not previously logged."
+    },
+    "jja-geotekniker-fredericia-h1622914-EXPIRED": {
+      "title": "Vi søger en geotekniker",
+      "company": "Jens Johan Andersen Rådgivende Ingeniørfirma A/S",
+      "url": "https://www.jobindex.dk/vis-job/h1622914",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch. Fredericia, Jutland - outside Sjælland/Copenhagen range regardless."
+    },
+    "cowi-senior-geotechnical-engineer-offshore-wind-linkedin-3351228097-CLOSED": {
+      "title": "Senior Geotechnical Engineer - Offshore Wind",
+      "company": "COWI",
+      "url": "https://dk.linkedin.com/jobs/view/ingen%C3%B8rd-senior-geotechnical-engineer-offshore-wind-at-cowi-3351228097",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - stale cached posting from Dec 2022 ('Modtager ikke længere ansøgninger', posted 3 years ago). Lyngby/Aarhus/Aalborg/Hamburg. Would also have been excluded on seniority (Senior, PhD/post-doc advantageous) regardless. Distinct URL from other already-tracked COWI Senior Geotechnical/Geotekniker entries."
+    },
+    "fugro-geotechnical-engineer-r0029996-404": {
+      "title": "Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0029996-geotechnical-engineer",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404 on direct fetch. Requisition/location could not be determined before removal; surfaced via a general Fugro-Denmark search this run."
+    },
+    "ramboll-geotechnical-engineer-aarhus-55ebdc4f": {
+      "title": "Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/55ebdc4f-0773-4da5-4fd4-08debbd6ce98",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, active Apply now. Aarhus, Denmark (flexible from Aalborg/Vejle/Odense) - Jutland, outside Sjælland/Copenhagen priority area. EXCLUDED: requires 'a degree in civil engineering with a specialization in geotechnics' (not Geology/Geoscience) and minimum 4 years' experience - both a degree-track mismatch and a location miss vs candidate's MSc Geology profile."
+    },
+    "ineos-development-geologist-geomodeller-london-14886-CLOSED": {
+      "title": "Development Geologist/Geomodeller",
+      "company": "INEOS Energy",
+      "url": "https://careers.ineos.com/jobs/development-geologistgeomodeller_14886/details",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch ('You cannot apply for this job because applications are now closed', posted Aug 2023). London, UK - would also be excluded on location (UK is neither EU nor USA per candidate's hard constraint) even if reopened. Description explicitly references Project Greensand (candidate's MSc thesis topic) - good domain resonance, worth re-checking if INEOS reposts a Denmark-based equivalent."
+    },
+    "energistyrelsen-miljomedarbejder-ccs-geoenergi-lagring-h1610349-EXPIRED": {
+      "title": "Miljømedarbejder med viden om havet til miljøteamet i Energistyrelsens Center for Geoenergi og lagring (barselsvikariat)",
+      "company": "Energistyrelsen (Danish Energy Agency)",
+      "url": "https://www.jobindex.dk/vis-job/h1610349",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted Nov 2025). København V - good location, CCS/marine domain relevant to candidate's Project Greensand thesis background, but dead. Checked Energistyrelsen's own careers page (ens.dk/om-os/karriere-i-energistyrelsen/ledige-stillinger) and jobindex.dk company listing directly this run - no current CCS/geologist-titled vacancy found in the agency's live postings."
+    },
+    "energistyrelsen-generalist-undergrundsenhed-h1447324-EXPIRED": {
+      "title": "Dygtig generalist (fuldmægtig) til Energistyrelsens Undergrundsenhed",
+      "company": "Energistyrelsen (Danish Energy Agency)",
+      "url": "https://www.jobindex.dk/vis-job/h1447324",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted Feb 2024). København V. Policy/EU-regulation generalist role for the Underground Unit, not a geoscience technical post - would likely have been a weak fit even if live."
+    },
+    "frederiksberg-kommune-geodata-specialist-gis-h817167-EXPIRED": {
+      "title": "Geodata-specialist til GIS og geodata",
+      "company": "Frederiksberg Kommune",
+      "url": "https://www.jobindex.dk/vis-job/h817167",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - stale listing from August 2018. Frederiksberg, Copenhagen - good location, but posting is many years dead."
+    },
+    "vattenfall-geoscience-project-manager-kolding-ofir-410": {
+      "title": "Geoscience Project Manager",
+      "company": "Vattenfall",
+      "url": "https://www.ofir.dk/jobs/geoscience-project-vattenfall-kolding-2450291/",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 410 Gone. Kolding, Denmark (BA Wind Geoscience department). Project-manager scope and title suggest above candidate's level even if reopened; degree fit (geology/geophysics/geotechnics accepted) would otherwise have been good - worth re-checking Vattenfall's careers site directly in a future run."
+    },
+    "vattenfall-advanced-engineer-geotechnical-site-investigation-kolding-ofir-410": {
+      "title": "Advanced Engineer – Geotechnical Site Investigation",
+      "company": "Vattenfall",
+      "url": "https://www.ofir.dk/jobs/advanced-engineer-vattenfall-kolding-2367204/",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 410 Gone. Kolding, Denmark (BA Wind Geoscience department, offshore site investigation). 'Advanced Engineer' title likely above candidate's 3 yrs even if reopened - re-check Vattenfall's careers site directly for a live equivalent-level posting."
+    },
+    "banedanmark-geoteknisk-projektejer-geografisk-fagspecialist-h1537736-EXPIRED": {
+      "title": "Geoteknisk Projektejer og Geografisk Fagspecialist",
+      "company": "Banedanmark",
+      "url": "https://www.jobindex.dk/vis-job/h1537736",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted Feb 2025). Aarhus C/Fredericia/Ringsted - Jutland/Sjælland-adjacent but outside Copenhagen core, and dead regardless. Distinct role from the already-tracked Banedanmark 'Teknisk designer' CAD/drafting posting."
+    },
+    "plan-landdistriktsstyrelsen-gis-specialist-plandata-digitalisering-r13802718-EXPIRED": {
+      "title": "GIS-specialist til Team Plandata og Digitalisering",
+      "company": "Plan- og Landdistriktsstyrelsen",
+      "url": "https://www.jobindex.dk/vis-job/r13802718",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted May 13, 2026). København V - good location, government GIS role. Dead by this run."
+    },
+    "odense-by-kulturforvaltningen-gis-specialist-digitalisering-data-r13301917-ARCHIVED": {
+      "title": "GIS-specialist til Digitalisering og Data i By- og Kulturforvaltningen",
+      "company": "Odense Kommune (By- og Kulturforvaltningen)",
+      "url": "https://www.jobindex.dk/jobannonce/r13301917/gis-specialist-til-digitalisering-og-data-i-by-og-kulturforvaltningen",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - redirects to jobindexarkiv.dk archive. Odense, Fyn - outside Sjælland/Copenhagen commute range regardless."
+    },
+    "deme-group-geologist-zwijndrecht-UNCONFIRMED": {
+      "title": "Geologist",
+      "company": "DEME Group",
+      "url": "https://www.deme-group.com/jobs/geologist-4",
+      "first_seen": "2026-09-15",
+      "fit": "medium",
+      "status": "unconfirmed",
+      "notes": "deme-group.com blocks direct fetch (403 on repeated attempts, both this URL and the /jobs listing page). Search snippets describe it as published July 3, 2026, marine/offshore geological team, Zwijndrecht HQ, Belgium (EU member state - satisfies location constraint but requires relocation). Distinct from an older, confirmed-closed 2023 LinkedIn cache of a similarly-titled DEME Geologist role (job id 3937584442). Strong domain fit in principle (marine/offshore dredging geology, degree line historically 'Master's in engineering-geology or geophysics, marine geology preferred') but NOT reported as a confirmed live match per verification rule - recommend a manual browser check next run before pursuing or excluding."
+    },
+    "deme-group-geotechnical-engineer-UNCONFIRMED": {
+      "title": "Geotechnical Engineer",
+      "company": "DEME Group",
+      "url": "https://www.deme-group.com/jobs/geotechnical-engineer-11",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "deme-group.com blocks direct fetch (403). Cable-route/offshore-wind geotechnical engineering role per search snippets, Breda-based engineering department. Belgium/Netherlands, EU. NOT reported as a confirmed live match per verification rule - re-check manually if pursuing DEME."
     }
   }
 }

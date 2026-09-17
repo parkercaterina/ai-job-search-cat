@@ -2447,6 +2447,24 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "deme-group.com blocks direct fetch (403). Cable-route/offshore-wind geotechnical engineering role per search snippets, Breda-based engineering department. Belgium/Netherlands, EU. NOT reported as a confirmed live match per verification rule - re-check manually if pursuing DEME."
+    },
+    "energinet-product-owner-gis-platform-fredericia": {
+      "title": "Product Owner til GIS-platform og -applikationer",
+      "company": "Energinet",
+      "url": "https://www.jobindex.dk/vis-job/h1697914",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted 2026-09-11, no deadline listed. Fredericia, Jylland - would require relocation from Copenhagen. EXCLUDED on role-type mismatch: this is a Product Owner/IT-product-management role for Energinet's 'Location Intelligence' team (ArcGIS Enterprise), not a technical GIS or geoscience position - candidate has no Product Owner/Scrum/IT-product background. Domain (GIS in energy-transition infrastructure) is relevant but the role itself isn't a fit."
+    },
+    "pwc-danmark-konsulent-energi-forsyningssektoren-aarhus": {
+      "title": "Konsulent – vær med til at rådgive energi- og forsyningssektoren",
+      "company": "PwC Danmark",
+      "url": "https://dk.linkedin.com/jobs/view/konsulent-%E2%80%93-v%C3%A6r-med-til-at-r%C3%A5dgive-energi-og-forsyningssektoren-at-pwc-danmark-4460638820",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted ~2 weeks ago, 58 applicants, actively interviewing. Aarhus, Denmark - not Copenhagen. EXCLUDED: role is regulatory-economics advisory for the utilities sector (tariff/revenue-framework analysis), and explicitly requires a degree in economics or law (cand.merc./cand.merc.(jur)/cand.oecon.) - hard mismatch vs MSc Geology, no technical-subsurface substitution indicated. Posting is entirely in Danish and concerns Danish utility regulation, implying working fluency well beyond candidate's B1/B2 Danish."
     }
   }
 }

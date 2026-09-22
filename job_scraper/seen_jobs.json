@@ -440,6 +440,285 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed live via direct fetch, posted ~2 weeks ago, 58 applicants, actively interviewing. Aarhus, Denmark - not Copenhagen. EXCLUDED: role is regulatory-economics advisory for the utilities sector (tariff/revenue-framework analysis), and explicitly requires a degree in economics or law (cand.merc./cand.merc.(jur)/cand.oecon.) - hard mismatch vs MSc Geology, no technical-subsurface substitution indicated. Posting is entirely in Danish and concerns Danish utility regulation, implying working fluency well beyond candidate's B1/B2 Danish."
+    },
+    "geus-koordinator-logistik-lagerenhed-taastrup-r13981645": {
+      "title": "Koordinator til Logistik og Lagerenhed (Kernemagasin)",
+      "company": "GEUS (De Nationale Geologiske Undersøgelser for Danmark og Grønland)",
+      "url": "https://www.jobindex.dk/jobannonce/r13981645/er-du-den-nye-koordinator-til-vores-logistik-og-lagerenhed",
+      "first_seen": "2026-09-22",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted 2026-09-04, deadline 2026-10-18. Taastrup, Greater Copenhagen - ideal location. Degree explicitly accepts 'geolog eller anden relevant naturvidenskabelig kandidatuddannelse' (geologist or other relevant natural-science master's) - direct degree match. Not an engineer-titled role. Years not numerically specified, no hard senior bar - candidate's 3 yrs fits. No SQL/Python/BI/PM-cert gap identified. Role is core-sample/storage logistics coordination for GEUS's Denmark and Greenland field campaigns (English fluency required) - a lateral logistics/management move rather than technical subsurface work, so rated medium not high given candidate's stated pivot toward more strategic/analytical scope."
+    },
+    "fugro-geotechnical-engineer-r0030923-404": {
+      "title": "Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0030923-geotechnical-engineer",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404 on direct fetch."
+    },
+    "fugro-geotechnical-engineer-r0025934-404": {
+      "title": "Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0025934-geotechnical-engineer",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404 on direct fetch."
+    },
+    "fugro-geotechnical-engineer-r0026986-404": {
+      "title": "Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0026986-geotechnical-engineer",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404 on direct fetch."
+    },
+    "fugro-assistant-geologist-engineer-site-investigation-r0027874-404": {
+      "title": "Assistant Geologist/Assistant Engineer, Site Investigation",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0027874",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404. Cached snippet indicated 5 yrs relevant post-qualification experience required - likely too senior anyway even if reposted."
+    },
+    "fugro-principal-marine-geologist-geoscientist-r0028740-404": {
+      "title": "Principal (Marine) Geologist/Geoscientist",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0028740",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404. 'Principal' title well above candidate's 3 yrs regardless."
+    },
+    "fugro-senior-geotechnical-engineer-r0027316-404": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0027316",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404. 'Senior' title above candidate's 3 yrs regardless."
+    },
+    "fugro-project-geologist-land-houston-r0031482": {
+      "title": "Project Geologist - Land",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0031482-project-geologist-land",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live, Apply now active. Houston, TX, USA - not Denmark/Sjælland (this run's location scope), deprioritized. Bachelor's in Geology explicitly accepted; satisfies candidate's EU-or-USA relocation constraint in principle but out of scope for this Copenhagen/DK-focused run."
+    },
+    "cowi-projektleder-geotekniske-konstruktioner-techjob-43067-expired": {
+      "title": "Projektleder til geotekniske konstruktioner",
+      "company": "COWI",
+      "url": "https://www.techjob.dk/job/43067",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Dette job er udløbet', stale from 2018). Lyngby. Would also have required 10+ yrs and a civil-engineering-only degree."
+    },
+    "cowi-nyutdannet-geotekniker-2026-id59662-unconfirmed": {
+      "title": "Nyutdannet Geotekniker 2026",
+      "company": "COWI",
+      "url": "https://www.cowi.com/your-career/open-vacancies/vacancy/?id=59662",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "COWI's vacancy page is a JS SPA, blocked to WebFetch/curl. Search snippets contradictory on location (DK cities mentioned alongside likely COWI Norway postings); Norwegian spelling 'Nyutdannet' (Danish would be 'Nyuddannet') suggests this is a COWI Norway posting, not Denmark. Also entry-level/newly-graduated target, below candidate's 3 yrs. Recommend manual browser check if pursuing."
+    },
+    "geo-geotechnical-engineer-geo-copenhagen-archived": {
+      "title": "Geotechnical Engineer, Geo Copenhagen",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.geo.dk/karriere-i-geo/ledige-jobs/old-stuff/",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "URL path contains '/old-stuff/', clearly archived. GEO's main careers page returned HTTP 503 on repeated attempts this run - could not confirm any current live GEO Copenhagen postings."
+    },
+    "orsted-geotechnical-engineer-offshore-wind-europeanjobdays-expired": {
+      "title": "Geotechnical Engineer for offshore wind projects",
+      "company": "Ørsted",
+      "url": "https://europeanjobdays.eu/en/job/geotechnical-engineer-offshore-wind-projects",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('This job offer has already expired', deadline 16 July 2020 - stale aggregator cache). Distinct from the already-tracked live Ørsted Gentofte req logged 2026-08-25."
+    },
+    "ramboll-geotechnical-engineer-f1fb21d2-expired": {
+      "title": "Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/f1fb21d2-64b4-4d97-a791-08de049d7755",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - redirects to Ramboll's generic careers landing page."
+    },
+    "ramboll-engineer-geotechnical-bridges-civils-rec-fb7e9b17-expired": {
+      "title": "Engineer, Geotechnical Bridges & Civils REC",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/fb7e9b17-19b1-4384-fb2f-08db8e925354",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - redirects to Ramboll's generic careers landing page."
+    },
+    "ramboll-senior-geotechnical-engineer-ad9ff5c0-expired": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/ad9ff5c0-45ad-4923-bce1-08dbd61818b2",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - redirects to Ramboll's generic careers landing page. 'Senior' title also above candidate's level."
+    },
+    "ramboll-senior-geotechnical-engineer-4fbaf753-expired": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/4fbaf753-dce1-4a21-2255-08dd52332ac2",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - redirects to Ramboll's generic careers landing page. 'Senior' title also above candidate's level."
+    },
+    "systra-hydrogeolog-geotekniker-orestad-aarhus-expired": {
+      "title": "Hydrogeolog/Geotekniker",
+      "company": "SYSTRA",
+      "url": "https://www.systra.com/careers/hydrogeolog-geotekniker",
+      "first_seen": "2026-09-22",
+      "fit": "medium",
+      "status": "excluded",
+      "notes": "Confirmed DEAD on both primary URL (404 'Page non trouvée') and icims.com mirror (410 Gone). Would have been a strong fit - degree explicitly accepted diploma/civil-engineering degree specialized in Geotechnics or Hydrogeology, min. 3 yrs hydrogeological experience, Ørestad (Copenhagen) or Aarhus option. Re-check in future runs in case reposted."
+    },
+    "systra-senior-geotekniker-orestad-aarhus": {
+      "title": "Senior Geotekniker",
+      "company": "SYSTRA",
+      "url": "https://www.systra.com/careers/senior-geotekniker",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch (active 'Søg jobbet' button). Ørestad (Copenhagen) or Aarhus. EXCLUDED: requires 'over 10 års erfaring' (10+ years) - far above candidate's 3 yrs. Degree also civil-engineering/PhD-in-Geotechnics only, no geology equivalence stated."
+    },
+    "vattenfall-associate-geotechnical-engineer-ref3494b-kolding-unconfirmed": {
+      "title": "Associate Geotechnical Engineer",
+      "company": "Vattenfall",
+      "url": "https://www.talentify.io/job/associate-geotechnical-engineer-vattenfall-ref3494b",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "talentify.io aggregator returned HTTP 525 on 4 attempts. Vattenfall's own live careers search (258 total open reqs) returned zero matches for 'geotechnical' or 'geoscience' this run - consistent with prior runs confirming Vattenfall's Kolding Geoscience-dept postings have all closed. Likely dead."
+    },
+    "geus-professor-applied-basin-research-structural-geology-kobenhavn": {
+      "title": "Professor in applied basin research and structural geology",
+      "company": "GEUS",
+      "url": "https://earthworks-jobs.com/geus-professor-basin-research-structural-geology",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "København K. EXCLUDED regardless of liveness: full Professor research-faculty position requiring PhD and strong publication record, far above candidate's 3 yrs industry / MSc-only profile."
+    },
+    "ineos-development-geologist-geoscientist-denver-14952-expired": {
+      "title": "Development Geologist/Geoscientist",
+      "company": "INEOS Energy",
+      "url": "https://careers.ineos.com/jobs/development-geologistgeoscientist_14952/details",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('applications are now closed', posted 2023, deadline March 2024). Denver, CO, USA. Also requires 5+ yrs upstream unconventional-reservoir experience, exceeds candidate's level. Distinct from previously-tracked req 14886 (also confirmed dead)."
+    },
+    "bcg-consultant-climate-sustainability-energy-transition-copenhagen-10063714-expired": {
+      "title": "Consultant – Climate & Sustainability, Energy Transition",
+      "company": "Boston Consulting Group",
+      "url": "https://careers.bcg.com/job/10063714/Consultant-Climate-Sustainability-Energy-Transition",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (WebFetch and curl both redirect to BCG's generic careers homepage rather than the specific req)."
+    },
+    "epconsult-green-energy-transition-consultant-copenhagen": {
+      "title": "Green Energy Transition Consultant",
+      "company": "EPConsult Energies",
+      "url": "https://epconsultenergies.com/job/green-energy-transition-consultant",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live, Open Until Filled. Copenhagen, in-office 4-5 days/week. EXCLUDED: requires 10 years of professional experience in engineering/technical consulting or an operator organisation - far above candidate's 3 yrs. Degree line (Engineering, Naval Architecture, Marine Engineering, Renewable Energy or similar) also does not mention Geology."
+    },
+    "epconsult-graduate-green-energy-transition-consultant-london-expired": {
+      "title": "Graduate Green Energy Transition Consultant",
+      "company": "EPConsult Energies",
+      "url": "https://epconsultenergies.com/job/graduate-green-energy-transition-consultant",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (deadline 17 July 2024). London, UK - also wrong location (not Denmark, and UK is neither EU nor USA per candidate's relocation constraint)."
+    },
+    "epconsult-senior-green-energy-transition-consultant-london-expired": {
+      "title": "Senior Green Energy Transition Consultant",
+      "company": "EPConsult Energies",
+      "url": "https://epconsultenergies.com/job/senior-green-energy-transition-consultant",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (deadline 13 March 2025). London, UK - wrong location and would have required 5-10 yrs regardless."
+    },
+    "energistyrelsen-ingenior-center-geoenergi-lagring-hrmanager-offline": {
+      "title": "Ingeniør til Energistyrelsens Center for geoenergi og lagring",
+      "company": "Energistyrelsen (Danish Energy Agency)",
+      "url": "https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=5001&departmentId=6148&ProjectId=193664&MediaId=5&SkipAdvertisement=false",
+      "first_seen": "2026-09-22",
+      "fit": "medium",
+      "status": "excluded",
+      "notes": "Confirmed DEAD via direct fetch - page states 'Stillingen er ikke online' (position not online). Would be a strong CCS/geoenergi domain fit directly tied to candidate's Project Greensand thesis background - Denmark's CCS sector (Ørsted Kalundborg, INEOS/Wintershall Greensand which began commercial offshore CO2 storage operations this month) is actively growing. Worth re-checking for a repost in future runs."
+    },
+    "energistyrelsen-juridisk-specialkonsulent-gron-omstilling-h1630164-expired": {
+      "title": "Juridisk special- eller chefkonsulent til den grønne omstilling",
+      "company": "Energistyrelsen (Danish Energy Agency)",
+      "url": "https://www.jobindex.dk/vis-job/h1630164",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!', posted 16 Jan 2026). København V. Also a legal/lawyer role, not geoscience - wrong degree track regardless."
+    },
+    "deloitte-nordic-senior-consultants-sustainability-esg-climate-expired": {
+      "title": "Senior Consultants to Sustainability & ESG/Climate specialization",
+      "company": "Deloitte Nordic",
+      "url": "https://jobsinenglish.dk/ads/deloitte-nordic-senior-consultants-to-sustainability-esg-climate-specialization-20260107/",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 410 Gone. 'Senior' title would also have exceeded candidate's level."
+    },
+    "accenture-nordics-utilities-strategy-manager-copenhagen-r00309437": {
+      "title": "Utilities Strategy Manager",
+      "company": "Accenture Nordics",
+      "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00309437_en",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via mirror (dreamworkhq.com), posted ~3 days ago, active Apply CTA. Copenhagen, Denmark. EXCLUDED: requires minimum 5 years of professional experience within top-tier management consulting and/or utilities-sector industry experience - exceeds candidate's 3 yrs and she lacks a consulting background. Degree line (Master's in engineering/economics/business from a top-tier university) does not mention Geology. Domain (energy-transition/utilities strategy) is relevant but level/background mismatch is real."
+    },
+    "peakwind-senior-commercial-operations-consultant-multi-location-expired": {
+      "title": "Senior Commercial & Operations Consultant",
+      "company": "PEAK Wind",
+      "url": "https://rejobs.org/en/renewable-energy-jobs/153444-senior-commercial-operations-consultant-peak-wind",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 410 Gone. Glasgow/London/Copenhagen/Hamburg/Aarhus. 'Senior' title would also have exceeded candidate's level."
+    },
+    "maersk-renewable-fuels-advisor-copenhagen-r95826-unconfirmed": {
+      "title": "Renewable Fuels Advisor",
+      "company": "Maersk",
+      "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/DK---Copenhagen/Renewable-Fuels-Advisor_R95826",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Maersk's Workday SPA blocks WebFetch (empty JS shell) and the internal Workday JSON API via curl (403 permission denied) - could not verify liveness, experience requirement, or degree fit this run. DK - Copenhagen. Fuels/decarbonization-advisory role (not CCS/geology-specific), likely a stretch fit even if live. Recommend manual browser check if pursuing."
     }
   }
 }

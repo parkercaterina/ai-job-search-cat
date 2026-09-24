@@ -719,6 +719,96 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "Maersk's Workday SPA blocks WebFetch (empty JS shell) and the internal Workday JSON API via curl (403 permission denied) - could not verify liveness, experience requirement, or degree fit this run. DK - Copenhagen. Fuels/decarbonization-advisory role (not CCS/geology-specific), likely a stretch fit even if live. Recommend manual browser check if pursuing."
+    },
+    "jacobs-senior-geoteknisk-ingenior-infrastrukturprojekter-copenhagen-4434454956": {
+      "title": "Senior Geoteknisk Ingeniør til Infrastrukturprojekter",
+      "company": "Jacobs",
+      "url": "https://dk.linkedin.com/jobs/view/4434454956",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted 1 day prior to check. Copenhagen. EXCLUDED: requires minimum 10 years' experience - far above candidate's 3 yrs."
+    },
+    "niras-underground-engineer-tunnels-underground-structures-copenhagen-4466668372": {
+      "title": "Underground Engineer for tunnels and underground structures",
+      "company": "NIRAS",
+      "url": "https://dk.linkedin.com/jobs/view/4466668372",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted 5 days prior to check, 75 applicants. Copenhagen. EXCLUDED: requires 5-15 years' design experience and 'MSc in Civil or Structural Engineering, or an equivalent background' with no geology/geoscience equivalence language stated - both experience-level and degree-track mismatch."
+    },
+    "wsp-danmark-senior-geotekniker-taastrup-4376096009": {
+      "title": "Senior Geotekniker",
+      "company": "WSP Danmark",
+      "url": "https://dk.linkedin.com/jobs/view/4376096009",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted 2 weeks prior to check, 38 applicants. Taastrup, Greater Copenhagen. EXCLUDED: Senior title, 'teknisk uddannelsesbaggrund, fx som ingeniør' (engineering-leaning degree line), senior scope above candidate's 3 yrs level."
+    },
+    "fugro-geotechnical-engineer-r0029238-404": {
+      "title": "Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0029238-geotechnical-engineer",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404 on direct fetch. Same pattern as 6 other Fugro DK reqs already logged dead."
+    },
+    "wsp-denmark-geolog-geoteknisk-modellering-kortlaegning-aarhus-6123553-410": {
+      "title": "Geolog - Geoteknisk modellering og kortlægning",
+      "company": "WSP Denmark",
+      "url": "https://wspdenmark.teamtailor.com/jobs/6123553",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 410 Gone. Would have been a strong degree-match (explicit 'Geolog' title) had it still been live, but Aarhus (Jutland) location was outside Sjælland/Copenhagen scope regardless."
+    },
+    "ramboll-geotechnical-project-manager-1cbcd8fd-expired": {
+      "title": "Geotechnical Project Manager",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/1cbcd8fd-64b4-4d97-a791-08de049d7755",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - redirects to Ramboll's generic 1,006-listing careers search page, same pattern as other expired Ramboll reqs already logged."
+    },
+    "hofor-strategikonsulent-regulering-interessevaretagelse-energiomraadet-h1697977": {
+      "title": "Strategikonsulent med fokus på regulering og interessevaretagelse på energiområdet",
+      "company": "HOFOR",
+      "url": "https://www.jobindex.dk/vis-job/h1697977",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted 2026-09-11, deadline 2026-10-01. Ørestads Boulevard 35, København S - ideal location. EXCLUDED: explicit degree requirement is 'en samfundsfaglig uddannelse' (a social-science degree), no natural-science equivalence offered - hard mismatch vs MSc Geology. Also requires prior experience in a similar regulatory/policy role at a trade org, utility, or municipal administration, which candidate does not have."
+    },
+    "bcg-consultant-nordics-58157-filled": {
+      "title": "Consultant - Nordics",
+      "company": "Boston Consulting Group",
+      "url": "https://careers.bcg.com/global/en/job/58157",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed FILLED via direct fetch. Copenhagen V."
+    },
+    "bcg-platinion-ai-tech-consultant-copenhagen-52299-filled": {
+      "title": "AI Tech Consultant / IT Consultant, BCG Platinion",
+      "company": "Boston Consulting Group (Platinion)",
+      "url": "https://careers.bcg.com/global/en/job/52299",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed FILLED via direct fetch. Copenhagen."
+    },
+    "energistyrelsen-jurist-center-geoenergi-lagring-h1679500-expired": {
+      "title": "Jurist til Center for geoenergi og lagring",
+      "company": "Energistyrelsen (Danish Energy Agency)",
+      "url": "https://www.jobindex.dk/vis-job/h1679500",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!'). København V - good location, CCS/geoenergi domain-adjacent, but a lawyer (jura) role, not geoscience - would have been a degree mismatch regardless."
     }
   }
 }

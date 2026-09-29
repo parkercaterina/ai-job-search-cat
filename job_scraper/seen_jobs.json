@@ -809,6 +809,168 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!'). København V - good location, CCS/geoenergi domain-adjacent, but a lawyer (jura) role, not geoscience - would have been a degree mismatch regardless."
+    },
+    "geo-projektleder-raastof-jordforurening-lyngby-h1701382": {
+      "title": "Projektleder råstof og jordforurening, Geo København",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.jobindex.dk/vis-job/h1701382",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted 2026-09-24 (5 days old), Ansøg/Apply button active, no deadline stated. Maglebjergvej 1, Lyngby - candidate's own former employer (GEO Engineering Consultancy), ideal location. Degree explicitly accepts 'biolog, geolog, ingeniør eller lignende' - direct degree match, no engineering-only barrier. No years-of-experience figure stated. Role: advising private raw-material extractors, drafting raw-material permits/screening decisions and regional resource-plan input in Geo's environmental department - a project-leader/advisory title but no explicit seniority bar in the visible text, worth verifying scope directly given 'Projektleder' framing. No SQL/Python/BI/PM-cert gap identified."
+    },
+    "geo-projektleder-jord-grundvandsforurening-lyngby-h1701380": {
+      "title": "Projektleder jord- og grundvandsforurening, Geo København",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.jobindex.dk/vis-job/h1701380",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch, posted 2026-09-24 (5 days old), Ansøg/Apply button active, no deadline stated. Maglebjergvej 1, Lyngby - candidate's former employer, ideal location. Degree explicitly names 'erfaren ingeniør, cand.scient eller lignende' (EXPERIENCED engineer, cand.scient or similar) - degree track is fine (cand.scient covers MSc Geology) but the word 'erfaren' signals a seniority bar above entry/mid-level; exact years not stated - flag as a possible experience-level gap per lesson-learned #2, verify directly before applying. Project leadership for construction/development soil-and-groundwater-contamination projects and field activities. No SQL/Python/BI/PM-cert gap identified."
+    },
+    "geo-fullstack-udvikler-koebenhavn-not-a-fit": {
+      "title": "Full Stack Udvikler til Geo, København",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.geo.dk/karriere-i-geo/ledige-jobs/full-stack-udvikler-geo-koebenhavn/",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Surfaced via search while checking GEO's live postings this run - not fetched directly (geo.dk main careers listing page again returned HTTP 503 this run as in prior runs). Software-developer role, not geoscience - not a fit for candidate's profile regardless of liveness."
+    },
+    "arup-geoteknisk-ingenior-copenhagen-15206-closed": {
+      "title": "Geoteknisk ingeniør",
+      "company": "Arup",
+      "url": "https://jobs.arup.com/jobs/geoteknisk-ingeni%C3%B8r-15206",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - 'Unfortunately this position has been closed' (Req COP000044). Copenhagen. Distinct requisition from the two already-tracked Arup Copenhagen reqs (32753 senior-excluded, 28102 closed)."
+    },
+    "orsted-geoscience-graduate-gentofte-linkedin-3375308796-EXPIRED": {
+      "title": "Geoscience Graduate",
+      "company": "Ørsted",
+      "url": "https://www.linkedin.com/jobs/view/3375308796",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - stale cached posting from ~3 years ago ('No longer accepting applications', deadline 12 Jan 2023). Gentofte. Would have been a strong degree match (Master's in geology/geophysics/geoscience) had a current cohort been open - Ørsted's annual Graduate Programme is worth re-checking each autumn for a fresh cohort posting."
+    },
+    "orsted-geoscience-graduate-gentofte-techjob-94164-EXPIRED": {
+      "title": "Geoscience Graduate",
+      "company": "Ørsted",
+      "url": "https://techjob.dk/job/geoscience-graduate-94164?trackid=693",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Dette job er udløbet', posted Nov 2023, deadline 7 Jan 2024). Gentofte/Skærbæk/Kuala Lumpur. Distinct stale cache of the same 2022-2023 Graduate Programme cohort as the LinkedIn 3375308796 entry above."
+    },
+    "wood-thilsted-geophysicist-copenhagen-talentify-196-404": {
+      "title": "Geophysicist",
+      "company": "Wood Thilsted",
+      "url": "https://www.talentify.io/job/geophysicist-copenhagen-capital-region-of-denmark-wood-thilsted-196",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Confirmed DEAD on this specific aggregator mirror (HTTP 404). A live equivalent could not be located on LinkedIn or Wood Thilsted's own site this run - search results describe Wood Thilsted as 'currently hiring Geophysicists to join their offshore wind SI and GM team in the UK or Denmark' but no working direct link was found. Would be a strong domain fit (same firm as the already-tracked live Geotechnical Engineer role) if reposted live - re-check Wood Thilsted's own careers page directly next run."
+    },
+    "cadeler-copenhagen-hq-no-geo-roles-2026-09-29": {
+      "title": "N/A - checked Cadeler Copenhagen HQ listings, no geoscience/geotechnical roles currently open",
+      "company": "Cadeler A/S",
+      "url": "https://career.cadeler.com/locations/copenhagen-hq",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed via direct fetch - only 2 current openings at Copenhagen HQ, both non-technical (Technical Sales Engineer WTG/FOU, VP Head of Operational Finance). No Student Assistant Geotechnical or similar role currently live despite search snippets referencing one historically. Worth re-checking Cadeler (offshore wind installation vessel operator, Copenhagen HQ) in future runs as a not-yet-heavily-checked company."
+    },
+    "subsea7-denmark-no-openings-2026-09-29": {
+      "title": "N/A - checked Subsea7 careers site filtered to Denmark, zero open positions",
+      "company": "Subsea7",
+      "url": "https://careers.subsea7.com/search/?q=&locationsearch=Denmark",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed via direct fetch - page explicitly states 'There are currently no open positions matching Denmark'. Subsea7's live geotechnical/survey roles are based in Stavanger (Norway), Zoetermeer (Netherlands), etc., not Denmark. Re-check in future runs as a not-yet-heavily-checked target company."
+    },
+    "systra-hydrogeolog-geotekniker-da-10224-404": {
+      "title": "Hydrogeolog / Geotekniker",
+      "company": "SYSTRA",
+      "url": "https://www.systra.com/denmark/job-offers/hydrogeolog-geotekniker-da-10224/",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed DEAD via direct fetch - HTTP 404. Distinct URL/ID from the already-tracked expired SYSTRA hydrogeolog-geotekniker posting; would have been a strong fit (Ørestad/Aarhus, min. 3 yrs hydrogeology) had it been live. Re-check in future runs in case reposted a third time."
+    },
+    "dmr-projektmedarbejder-sjaelland-frederikssund-404": {
+      "title": "Nyuddannet projektmedarbejder til jord- og grundvandsafdelingen på Sjælland",
+      "company": "DMR (Dansk Miljørådgivning A/S)",
+      "url": "https://www.dmr.dk/job/projektmedarbejder-sjaelland/",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed DEAD via direct fetch - HTTP 404. Frederiksund, Sjælland. 'Nyuddannet' (recently-graduated) entry-level title - would be a step down from candidate's 3 yrs but degree line (ingeniør, geolog, naturgeograf, landskabsforvalter, miljøteknolog eller lignende) is a strong match. Re-check DMR's own careers page in future runs."
+    },
+    "franck-miljo-geoteknik-projektleder-miljoraadgiver-404": {
+      "title": "Projektleder/Miljørådgiver",
+      "company": "Franck Miljø- og Geoteknik AS",
+      "url": "https://www.geoteknik.dk/kontakt/ledige-stillinger/projektleder-miljoradgiver/",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed DEAD via direct fetch - HTTP 404. New company not previously logged; worth a fresh check of geoteknik.dk's current vacancy list in a future run."
+    },
+    "ramboll-projektchef-geoteknik-hydrogeologi-oerestad-stale": {
+      "title": "Projektchef/Senior projektleder til Geoteknik og hydrogeologi afdelingen",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Search snippet shows this posting last updated 27.03.2026 with deadline the same day - stale/closed by now (today is 2026-09-29). Would also be above candidate's level ('Projektchef/Senior projektleder' management title) regardless. Ørestad, Copenhagen."
+    },
+    "ramboll-senior-hydrogeologist-copenhagen-stale": {
+      "title": "Senior Hydrogeologist",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Search snippet shows closing deadline 19 June 2026 - stale/closed by now. 'Senior' title also above candidate's level regardless. 2300 København."
+    },
+    "pa-consulting-managing-consultant-energy-utilities-copenhagen": {
+      "title": "Managing Consultant, Energy & Utilities",
+      "company": "PA Consulting",
+      "url": "https://www.paconsulting.com/jobs",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen. EXCLUDED on seniority: 'Managing Consultant' title is well above candidate's 3 yrs / non-consulting-background level. Not independently fetched to a specific req URL - PA Consulting's Denmark careers listing should be re-checked directly (paconsulting.com/jobs filtered to Denmark) in a future run since this team is described as actively growing and the firm was flagged unconfirmed last run too."
+    },
+    "energistyrelsen-no-ccs-geo-roles-2026-09-29": {
+      "title": "N/A - checked Energistyrelsen's live careers page, no CCS/geoenergi/geolog roles currently open",
+      "company": "Energistyrelsen (Danish Energy Agency)",
+      "url": "https://ens.dk/om-os/karriere-i-energistyrelsen/ledige-stillinger",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed via direct fetch - only 3 open positions currently (Indonesia power-sector advisor, strategic-management special consultant, grants Application Manager), none geoscience/CCS-related. Consistent with prior runs finding the Center for Geoenergi og lagring roles repeatedly expired with no live repost yet."
+    },
+    "mckinsey-mbain-no-fit-roles-2026-09-29": {
+      "title": "N/A - checked McKinsey Denmark and Bain Denmark career pages, no relevant technical/analyst-level openings found",
+      "company": "McKinsey & Company / Bain & Company (Denmark)",
+      "url": "https://www.mckinsey.com/dk/careers ; https://www.bain.com/offices/copenhagen/",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "McKinsey Copenhagen's current open reqs found via search are QuantumBlack tech roles (Data Scientist, Software/Data Engineer) and a Junior Associate - Tech & AI position - not a geoscience/energy-transition fit and likely requires 5+ yrs post-Master's per McKinsey's stated experienced-hire bar. Bain Copenhagen's postings are graduate/intern pipeline programmes (Junior Associate Consultant, Associate Consultant Intern) rather than a specific open req matching candidate's profile/experience level. Neither firm yielded a specific live req worth reporting as a candidate match this run."
+    },
+    "equinor-shell-bp-denmark-no-listings-found-2026-09-29": {
+      "title": "N/A - checked Equinor, Shell, and BP for Denmark-specific geoscience/geotechnical openings",
+      "company": "Equinor / Shell / BP",
+      "url": "https://www.equinor.com/careers ; https://shell.wd3.myworkdayjobs.com/Careers ; https://www.bp.com/en/global/corporate/careers",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Equinor's own career search page did not render specific listings via WebFetch (JS-driven, dynamic results not present in static HTML) and no Denmark-specific geoscience req was found via search either - Equinor does not appear to have a Denmark office/subsurface hiring presence (Norway-centric). Shell's Workday careers URL returned HTTP 404 on direct fetch. BP's careers search returned HTTP 403 (blocked). None of the three yielded a confirmable live Denmark-based geoscience/geotechnical requisition this run - recommend a manual browser check of Equinor's and Shell's JS-rendered career portals in a future run if continuing to prioritize these companies."
     }
   }
 }

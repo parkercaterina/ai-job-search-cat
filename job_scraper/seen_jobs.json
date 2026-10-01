@@ -971,6 +971,78 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "Equinor's own career search page did not render specific listings via WebFetch (JS-driven, dynamic results not present in static HTML) and no Denmark-specific geoscience req was found via search either - Equinor does not appear to have a Denmark office/subsurface hiring presence (Norway-centric). Shell's Workday careers URL returned HTTP 404 on direct fetch. BP's careers search returned HTTP 403 (blocked). None of the three yielded a confirmable live Denmark-based geoscience/geotechnical requisition this run - recommend a manual browser check of Equinor's and Shell's JS-rendered career portals in a future run if continuing to prioritize these companies."
+    },
+    "banedanmark-geolog-ingenior-ledningsanlaeg-under-banen-h1623610-EXPIRED": {
+      "title": "Geolog eller ingeniør til håndtering af ledningsanlæg under banen",
+      "company": "Banedanmark",
+      "url": "https://www.jobindex.dk/vis-job/h1623610",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!', posted Dec 2025). Ringsted/Fredericia/Aarhus with remote options. Explicitly accepts 'Geolog eller ingeniør' - would have been a good degree match had it still been live."
+    },
+    "dmr-geotekniker-beregningsopgaver-odense-r12791478-EXPIRED": {
+      "title": "Geotekniker med fokus på beregningsopgaver",
+      "company": "Dansk Miljørådgivning A/S (DMR)",
+      "url": "https://www.jobindex.dk/vis-job/r12791478",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted Oct 2024). Odense S, Fyn - outside Sjælland/Copenhagen scope regardless."
+    },
+    "banedanmark-fagtilsyn-geoteknik-sjaelland-h1688427-EXPIRED": {
+      "title": "Fagtilsyn til Geoteknik - Sjælland",
+      "company": "Banedanmark",
+      "url": "https://www.jobindex.dk/vis-job/h1688427",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted Aug 2026). Sjælland - Hillerød station rail-renewal supervision role. Degree/experience requirements not visible before expiry."
+    },
+    "dmr-projektleder-jord-grundvand-sjaelland-r13910754-ARCHIVED": {
+      "title": "Projektleder til vores jord- og grundvandsafdeling på Sjælland",
+      "company": "Dansk Miljørådgivning A/S (DMR)",
+      "url": "https://www.jobindex.dk/jobannonce/r13910754/dmr-soeger-projektleder-til-vores-jord-og-grundvandsafdeling-paa-sjaelland",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed ARCHIVED - jobindex.dk 301-redirects to jobindexarkiv.dk. Likely a repost/distinct req from the already-tracked 2026-08-04 'Erfaren projektleder' DMR entry in job_search_tracker.csv - re-check DMR's own site directly for a current live equivalent."
+    },
+    "banedanmark-geoteknisk-anlaegsingenior-beregninger-h1575501-EXPIRED": {
+      "title": "Geoteknisk anlægsingeniør til beregninger af geotekniske konstruktioner",
+      "company": "Banedanmark",
+      "url": "https://www.jobindex.dk/vis-job/h1575501",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted Jun 2025). Fredericia/København V/Aarhus C. Search snippets suggest the field prefers a building/construction-engineer background (statics/geotechnical structures) over geology - likely degree-track mismatch even if reposted."
+    },
+    "european-energy-senior-geotechnical-engineer-earthworks-soborg-dead": {
+      "title": "Senior Geotechnical Engineer - Earthworks",
+      "company": "European Energy A/S",
+      "url": "https://europeanenergy.wd103.myworkdayjobs.com/en-US/European_Energy",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Search snippets referenced this role (Søborg, posted ~1 week prior) but European Energy's own live Workday jobs API returned zero results for 'geotechnical', 'earthworks', or 'geology' this run - not currently live. 'Senior' title would also likely exceed candidate's 3 yrs. New company not previously logged - worth re-checking their Workday board directly in future runs."
+    },
+    "geo-geoteknisk-ingenior-lyngby-linkedin-2586641607-CLOSED": {
+      "title": "Geoteknisk ingeniør",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://dk.linkedin.com/jobs/view/geoteknisk-ingeniør-at-geo%C2%A0-2586641607",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - stale cached posting from 2021 ('Modtager ikke længere ansøgninger', deadline 2 Jul 2021). Lyngby-Tårbæk. Distinct from other already-tracked GEO Lyngby postings (h1701382, h1701380, both still live/new)."
+    },
+    "geo-careers-page-503-2026-10-01": {
+      "title": "N/A - GEO main careers listing page (geo.dk/karriere-i-geo/ledige-jobs/) returned HTTP 503 again this run",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.geo.dk/karriere-i-geo/ledige-jobs/",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Third consecutive run (2026-09-22, 2026-09-29, 2026-10-01) where GEO's own careers listing page is unreachable (HTTP 503) via direct fetch. The two already-tracked live GEO Lyngby postings (h1701382 Projektleder råstof, h1701380 Projektleder jord-/grundvandsforurening, both first_seen 2026-09-29) were found via jobindex.dk instead and remain the best available signal of GEO's current openings."
     }
   }
 }

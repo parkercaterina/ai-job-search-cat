@@ -1043,6 +1043,78 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "Third consecutive run (2026-09-22, 2026-09-29, 2026-10-01) where GEO's own careers listing page is unreachable (HTTP 503) via direct fetch. The two already-tracked live GEO Lyngby postings (h1701382 Projektleder råstof, h1701380 Projektleder jord-/grundvandsforurening, both first_seen 2026-09-29) were found via jobindex.dk instead and remain the best available signal of GEO's current openings."
+    },
+    "dmr-projektleder-chef-geoteknikafdeling-sjaelland-r12390499-archived": {
+      "title": "Projektleder/-chef til geoteknikafdelingen på Sjælland",
+      "company": "DMR (Dansk Miljørådgivning A/S)",
+      "url": "https://www.jobindex.dk/jobannonce/r12390499",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed ARCHIVED - jobindex.dk redirects to jobindexarkiv.dk. Also out of scope on seniority (project leader/chief, management level) even if reposted."
+    },
+    "dmr-feltmedarbejder-jord-grundvand-herlev-r13571761-expired": {
+      "title": "Feltmedarbejder til jord- og grundvandsafdelingen",
+      "company": "DMR (Dansk Miljørådgivning A/S)",
+      "url": "https://www.jobindex.dk/jobannonce/r13571761",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (posted 2026-01-22). Herlev, Sjælland - would have been a good location match had it still been live."
+    },
+    "geus-research-assistant-computational-geology-aarhus-r13785767-archived": {
+      "title": "Research Assistant within Computational Geology",
+      "company": "GEUS",
+      "url": "https://www.jobindex.dk/jobannonce/r13785767",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed ARCHIVED - jobindex.dk redirects to jobindexarkiv.dk. Aarhus, Jutland - outside Sjælland/Copenhagen scope regardless; also a research-assistant academic post, likely requiring PhD-track enrollment, not an industry fit."
+    },
+    "greenpowerdenmark-konsulent-intelligent-energi-h1576020-expired": {
+      "title": "Konsulent til intelligent Energi",
+      "company": "Green Power Denmark",
+      "url": "https://www.jobindex.dk/vis-job/h1576020",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet'). Copenhagen K - good location, energy-transition trade-association domain, but dead."
+    },
+    "teknologisk-institut-konsulent-fremtidens-energisystemer-lagringsteknologier-aarhus-h1582846-expired": {
+      "title": "Konsulent til fremtidens energisystemer og lagringsteknologier",
+      "company": "Teknologisk Institut",
+      "url": "https://www.jobindex.dk/vis-job/h1582846",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch. Aarhus, Jutland - outside Sjælland/Copenhagen scope regardless."
+    },
+    "hofor-baeredygtighedskonsulent-cirkulaer-ressourceudnyttelse-h1583930-expired": {
+      "title": "Erfaren bæredygtighedskonsulent med ansvar for cirkulær ressourceudnyttelse",
+      "company": "HOFOR",
+      "url": "https://www.jobindex.dk/vis-job/h1583930",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch. Copenhagen S - good location, sustainability-consultant domain adjacent, but dead and titled 'Erfaren' (experienced) - likely a seniority bar above candidate's 3 yrs even if reposted."
+    },
+    "hofor-baeredygtighedskonsulent-lca-h1583933-unconfirmed": {
+      "title": "Erfaren bæredygtighedskonsulent med ansvar for LCA",
+      "company": "HOFOR",
+      "url": "https://www.jobindex.dk/vis-job/h1583933",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Direct fetch rate-limited (HTTP 429) - not independently confirmed, but same posting batch (dated 28-07-2025) as the confirmed-expired sibling HOFOR listing h1583930, so very likely also expired. 'Erfaren' (experienced) title also suggests a seniority bar above candidate's 3 yrs. Re-verify directly if pursuing."
+    },
+    "cowi-geotechnical-specialist-modelling-digital-engineering-multi-location-unconfirmed": {
+      "title": "Geotechnical Specialist: Modelling & Digital Engineering",
+      "company": "COWI A/S",
+      "url": "https://karrierevejviser.dk/en/companies/12282/jobs/cowi-as/",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Could not confirm via direct fetch of cowi.com (JS SPA, returns empty shell). Corroborated by karrierevejviser.dk aggregator (mirrors COWI's live feed, listed as #6 of 22 current open COWI positions) and independent search snippets citing the same title/locations/deadline (29 Oct 2026). Candidate can choose Aalborg/Aarhus/Lyngby/Copenhagen. EXCLUDED on substance even if live: requires ~5 yrs experience (above candidate's 3) and explicit 'proficiency in Python, MATLAB, or similar programming environments' as a hard requirement (candidate has no stated programming/scripting skills). Degree line 'MSc or PhD in Geotechnical Engineering, Civil Engineering, or a related discipline' does not explicitly name Geology/Geoscience as equivalent - ambiguous. Recommend verifying directly on cowi.com with a JS-capable browser if pursuing."
     }
   }
 }

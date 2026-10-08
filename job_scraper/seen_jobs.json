@@ -1115,6 +1115,69 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "Could not confirm via direct fetch of cowi.com (JS SPA, returns empty shell). Corroborated by karrierevejviser.dk aggregator (mirrors COWI's live feed, listed as #6 of 22 current open COWI positions) and independent search snippets citing the same title/locations/deadline (29 Oct 2026). Candidate can choose Aalborg/Aarhus/Lyngby/Copenhagen. EXCLUDED on substance even if live: requires ~5 yrs experience (above candidate's 3) and explicit 'proficiency in Python, MATLAB, or similar programming environments' as a hard requirement (candidate has no stated programming/scripting skills). Degree line 'MSc or PhD in Geotechnical Engineering, Civil Engineering, or a related discipline' does not explicitly name Geology/Geoscience as equivalent - ambiguous. Recommend verifying directly on cowi.com with a JS-capable browser if pursuing."
+    },
+    "arup-geotechnical-engineer-copenhagen-24318-closed": {
+      "title": "Geotechnical Engineer",
+      "company": "Arup",
+      "url": "https://jobs.arup.com/jobs/geotechnical-engineer-24318",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - 'Unfortunately this position has been closed' (Req COP000057). Copenhagen. Distinct requisition from the three other already-tracked Arup Copenhagen reqs (32753 senior-excluded, 28102 closed, 15206 closed)."
+    },
+    "ramboll-senior-geotechnical-engineer-discipline-leader-copenhagen-b5397f4f-expired": {
+      "title": "Senior Geotechnical Engineer/Discipline leader",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/b5397f4f-c757-42bb-4966-08deee10f40d",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - redirects to Ramboll's generic careers search listing (1,034 results), same dead-redirect pattern as other expired Ramboll reqs already logged. Also 'Senior'/'Discipline leader' title would exceed candidate's 3 yrs regardless. Copenhagen HQ, Geo Structures dept, deadline was listed 11.10.2026 per search snippet."
+    },
+    "ramboll-senior-geotechnical-engineer-copenhagen-96a94c37-unconfirmed": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/96a94c37-3fc6-492b-f1eb-08def45a340d",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Not independently fetched this run, but 'Senior' title in Ramboll's same Copenhagen Geo Structures team would exceed candidate's 3 yrs regardless of liveness - excluded on seniority grounds per lesson-learned #2."
+    },
+    "region-sjaelland-rastofplanlaegger-expired": {
+      "title": "Råstofplanlægger",
+      "company": "Region Sjælland",
+      "url": "https://jobbank.dk/en/job/3080467/region-sjaelland/rastofplanlaegger",
+      "first_seen": "2026-10-08",
+      "fit": "medium",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - application deadline was 2026-08-23, today is 2026-10-08. Would have been a strong degree match (role explicitly prefers a geologist for geological raw-material mapping/deposit evaluation, QGIS skills valued) and ideal location (Region Sjælland planning team) had it still been open. Full-time, start date was 2026-11-01. Re-check regionsjaelland.dk directly in future runs since a new joint raw-materials plan (with Region Østdanmark) is expected to start work in early 2027 - a similar role may repost."
+    },
+    "kpmg-consultant-energy-green-transition-advisory-denmark-unconfirmed": {
+      "title": "Consultant - Energy & Green Transition Advisory",
+      "company": "KPMG Danmark",
+      "url": "https://jobbank.dk/job/3082840/",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "jobbank.dk blocks direct fetch (HTTP 403) and no copy was found on kpmg.com/dk, jobindex.dk, or LinkedIn - could not independently confirm location, deadline, degree requirements, or years of experience this run. This is a management-consulting role (KPMG's Energy & Green Transition Advisory team, paired with Morten Eskerod as partner lead) rather than a technical geoscience post - candidate has no consulting background, so even if confirmed live this would need the same consulting-background gap flagged as the already-excluded Accenture 'Utilities Strategy Manager' and PwC 'Konsulent' entries. Recommend a manual browser check of KPMG's own Denmark careers site if pursuing."
+    },
+    "european-energy-geotechnical-engineer-soborg-h1326940-expired": {
+      "title": "Geotechnical Engineer",
+      "company": "European Energy A/S",
+      "url": "https://www.jobindex.dk/vis-job/h1326940",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via Jobindex cache (old job IDs, pre-2026 indexing pattern). Søborg, Copenhagen - Civil Engineering Team within EPC dept, solar/onshore-wind site investigation and foundation-type recommendations. Requires M.Sc. Engineering (Civil, Geotechnical or similar) + min. 2 yrs - degree line does not name Geology/Geoscience as equivalent. Distinct non-senior req from the already-tracked 'Senior Geotechnical Engineer - Earthworks' European Energy entry (also dead)."
+    },
+    "orsted-geotechnical-engineer-req32728-gentofte-410": {
+      "title": "Geotechnical Engineer",
+      "company": "Ørsted",
+      "url": "https://orsted.com/da/careers/vacancies-list/2026/08/32728-geotechnical-engineer",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed DEAD via direct fetch - HTTP 410 Gone. Posted 2026/08 per URL path - likely the same req as the already-tracked live Ørsted Gentofte 'Geotechnical Engineer' logged in job_search_tracker.csv on 2026-08-25 (dk.linkedin.com/jobs/view/...4457145615), now closed."
     }
   }
 }

@@ -1178,6 +1178,15 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed DEAD via direct fetch - HTTP 410 Gone. Posted 2026/08 per URL path - likely the same req as the already-tracked live Ørsted Gentofte 'Geotechnical Engineer' logged in job_search_tracker.csv on 2026-08-25 (dk.linkedin.com/jobs/view/...4457145615), now closed."
+    },
+    "banedanmark-nyuddannet-geoteknisk-ingenior-fredericia-h1704165": {
+      "title": "Nyuddannet geoteknisk ingeniør - vær med til at sikre jernbanens fundament",
+      "company": "Banedanmark",
+      "url": "https://www.jobindex.dk/vis-job/h1704165",
+      "first_seen": "2026-10-13",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, posted 2026-10-05, no deadline stated. Fredericia (+ home-office option), Jutland - outside Sjælland/Copenhagen core. EXCLUDED: title is 'geoteknisk ingeniør' (geotechnical ENGINEER) with no 'geolog'/natural-science-equivalence wording anywhere in the ad - degree-track mismatch per lesson-learned #3. Also explicitly a 'nyuddannet' (newly-graduated) entry-level role, a step down from candidate's 3 yrs + stated pivot toward more senior/strategic scope."
     }
   }
 }

@@ -1187,6 +1187,132 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Confirmed live via direct fetch, posted 2026-10-05, no deadline stated. Fredericia (+ home-office option), Jutland - outside Sjælland/Copenhagen core. EXCLUDED: title is 'geoteknisk ingeniør' (geotechnical ENGINEER) with no 'geolog'/natural-science-equivalence wording anywhere in the ad - degree-track mismatch per lesson-learned #3. Also explicitly a 'nyuddannet' (newly-graduated) entry-level role, a step down from candidate's 3 yrs + stated pivot toward more senior/strategic scope."
+    },
+    "artelia-projektleder-fagleder-jord-grundvandsforurening-soborg-3077514": {
+      "title": "Projektleder/fagleder til Jord- og grundvandsforurening",
+      "company": "Artelia Group",
+      "url": "https://jobbank.dk/job/3077514/artelia-group/projektlederfagleder-til-jord-og-grundvandsforurening/",
+      "first_seen": "2026-10-15",
+      "fit": "medium",
+      "status": "unconfirmed",
+      "notes": "Could not confirm liveness - jobbank.dk (Akademikernes Jobbank) returns HTTP 403 to direct fetch, and Artelia's own careers page (arteliagroup.dk/karriere/ledige-job/) is an unrenderable JS SPA. Søborg, Greater Copenhagen - ideal location. Degree explicitly accepts 'miljøingeniør, geolog eller lignende' - direct degree match. Requires 'solid project management experience' (not numerically quantified) - candidate has 3 yrs as Assistant Site Manager, not a formal PM title, a plausible but unconfirmed experience gap. Best-looking candidate found this run by content alone, but NOT reported as a confirmed live match per verification rule - recommend a manual/authenticated browser check of jobbank.dk next run. NOTE: jobbank.dk is a new, recurring structural blocker (distinct from already-known COWI-SPA/GEO-503 issues) - a growing share of current Danish listings route through it and cannot be verified via WebFetch/curl."
+    },
+    "systra-geotekniker-orestad-3138224": {
+      "title": "Geotekniker",
+      "company": "SYSTRA Danmark",
+      "url": "https://jobbank.dk/job/3138224/systra-danmark-as/geotekniker/",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Ørestad, Copenhagen. UNCONFIRMED liveness (jobbank.dk 403). EXCLUDED regardless: requires minimum 4 years' geotechnical investigation/reporting experience (exceeds candidate's 3 yrs), and degree line 'diplomingeniør eller civilingeniør i geoteknik eller lignende' does not confirm Geology/Geoscience equivalence."
+    },
+    "systra-chefspecialist-geoteknik-orestad-3138223": {
+      "title": "Chefspecialist i Geoteknik til store infrastrukturprojekter",
+      "company": "SYSTRA",
+      "url": "https://jobbank.dk/job/3138223/",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Ørestad, Copenhagen. UNCONFIRMED liveness (jobbank.dk 403). EXCLUDED regardless: 'Chefspecialist' (chief specialist) title far above candidate's 3 yrs."
+    },
+    "jacobs-fagleder-geoteknik-infrastrukturprojekter-copenhagen": {
+      "title": "Fagleder for Geoteknik til Infrastrukturprojekter",
+      "company": "Jacobs",
+      "url": "https://dk.jooble.org/jdp/8096499586252052259",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via Jooble mirror fetch (posted ~1 month ago, rolling interviews). Copenhagen. EXCLUDED: requires minimum 15 years' experience, far above candidate's 3 yrs; degree line 'civil-/diplomingeniør' only, no geology equivalence stated."
+    },
+    "wsp-discipline-lead-ports-geotech-hoje-taastrup-3126368": {
+      "title": "Discipline Lead Ports and Geotech",
+      "company": "WSP Danmark",
+      "url": "https://jobbank.dk/job/3126368/wsp/discipline-lead-ports-and-geotech/",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Høje Taastrup, Greater Copenhagen. UNCONFIRMED liveness (jobbank.dk 403). EXCLUDED regardless: team-management/discipline-lead role (overall responsibility for team performance/development/growth) - seniority mismatch, same pattern as already-excluded WSP 'Teamchef' role."
+    },
+    "totalenergies-senior-reservoir-engineer-copenhagen-3134566": {
+      "title": "Senior Reservoir Engineer",
+      "company": "TotalEnergies Upstream Danmark A/S",
+      "url": "https://jobbank.dk/job/3134566/total-energies/senior-reservoir-engineer/",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen (Amerika Plads). UNCONFIRMED on direct fetch (jobbank.dk 403) but cross-confirmed via independent Jooble mirror with matching salary/department. EXCLUDED: requires minimum 10 years' experience, far above candidate's 3 yrs. Confirms TotalEnergies has a live Copenhagen Geoscience & Reservoir office - worth rechecking for junior reqs in future runs."
+    },
+    "norconsult-senior-geotekniker-smorum-3035884": {
+      "title": "Senior Geotekniker – Smørum",
+      "company": "Norconsult Danmark A/S",
+      "url": "https://jobbank.dk/job/3035884/norconsult/senior-geotekniker-smorum/",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Smørum, Greater Copenhagen. Confirmed EXPIRED - deadline stated 03.08.2026, now passed. Also 'Senior' title above candidate's level. New company (Norconsult) not previously logged - re-check their Danish careers page directly in a future run for a non-senior equivalent."
+    },
+    "norconsult-boreformand-miljo-geoteknik-smorum-3056053": {
+      "title": "Boreformand til Miljø-Geoteknik – Smørum",
+      "company": "Norconsult Danmark A/S",
+      "url": "https://jobbank.dk/job/3056053",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Smørum, Greater Copenhagen. Confirmed EXPIRED - deadline 01.09.2026, passed. Also a drilling-foreman trade role, not a geologist/engineer-equivalent professional title."
+    },
+    "sweco-geoteknisk-specialist-projektleder-esbjerg-3131921": {
+      "title": "Geoteknisk specialist og projektleder",
+      "company": "Sweco Danmark A/S",
+      "url": "https://jobbank.dk/job/3131921/sweco-danmark-as/geoteknisk-specialist-og-projektleder/",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Esbjerg, Jutland - deprioritized location. UNCONFIRMED liveness (jobbank.dk 403); qualifications section not retrievable via any search snippet. 'Specialist og projektleder' title suggests seniority above candidate's level."
+    },
+    "greve-kommune-jordforurening-grundvandssagsbehandler-h1681049-EXPIRED": {
+      "title": "Jordforurening- og grundvandssagsbehandler",
+      "company": "Greve Kommune",
+      "url": "https://www.jobindex.dk/vis-job/h1681049",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!'). Greve, Sjælland - would have been a good location match had it still been live."
+    },
+    "frederiksberg-kommune-jord-grundvandsspecialist-h1500338-EXPIRED": {
+      "title": "Jord- og grundvandsspecialist til Klima- og Miljøenheden på Frederiksberg",
+      "company": "Frederiksberg Kommune",
+      "url": "https://www.jobindex.dk/vis-job/h1500338",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch (stale cache, posted 2024). Frederiksberg, Copenhagen - good location, but dead."
+    },
+    "ineos-ncc-greensand-geoscientist-h1248524-EXPIRED": {
+      "title": "Geoscientist (Greensand CO2 storage project)",
+      "company": "INEOS Energy (mirrored under NCC Danmark on Jobindex)",
+      "url": "https://www.jobindex.dk/vis-job/h1248524",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('The job ad has expired!', published 29-07-2022). Virum/Copenhagen. Would have been a strong CCS/Greensand domain match (candidate's MSc thesis topic) had it still been live. No fresh Greensand/CCS geoscientist posting found anywhere this run despite the project's Sept 2026 commercial-operations launch at Esbjerg - re-check in future runs."
+    },
+    "orsted-graduate-programme-no-2026-intake": {
+      "title": "N/A - checked Ørsted's Global Graduate Programme (incl. Geoscience Graduate track) for a fresh 2026/2027 cohort",
+      "company": "Ørsted",
+      "url": "N/A",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Found explicit confirmation on a Danish job-bank graduate-programme page: 'Ørsted Global Graduate Programme - intet optag til 2026' (no intake for 2026). No 2027 posting found yet. Re-check each autumn for a fresh cohort posting (prior 2022-2023 Geoscience Graduate cohort already logged closed)."
+    },
+    "dtu-postdoc-coupled-processes-underground-storage-lyngby": {
+      "title": "Postdoc in Coupled Processes for Underground Storage Applications (DTU Offshore)",
+      "company": "DTU (Technical University of Denmark)",
+      "url": "N/A",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Kongens Lyngby. CCS-adjacent domain (underground storage) but EXCLUDED: postdoc requires a completed PhD, candidate has MSc only - hard degree-track mismatch."
     }
   }
 }

@@ -1313,6 +1313,168 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Kongens Lyngby. CCS-adjacent domain (underground storage) but EXCLUDED: postdoc requires a completed PhD, candidate has MSc only - hard degree-track mismatch."
+    },
+    "orsted-geotechnical-engineer-skaerbaek-gentofte-london-3101084-expired": {
+      "title": "Geotechnical Engineer",
+      "company": "Ørsted",
+      "url": "https://jobbank.dk/job/3101084/orsted/geotechnical-engineer/",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Skærbæk/Gentofte/London options. Deadline stated as 13 Sept 2026 - already passed as of this run (2026-10-20). Mirrored on applyforjob.orsted.com/job/London-Geotechnical-Engineer/1369847657. jobbank.dk itself blocks direct WebFetch (403); liveness assessed via deadline date in search snippet."
+    },
+    "orsted-lead-geotechnical-engineer-subsea-cable-london-gentofte-expired": {
+      "title": "Lead Geotechnical Engineer (Subsea Cable)",
+      "company": "Ørsted",
+      "url": "https://applyforjob.orsted.com/job/Lead-Geotechnical-Engineer",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "London/Gentofte. Confirmed EXPIRED - deadline stated 11 Oct 2024, long dead. 'Lead' title would also exceed candidate's 3 yrs regardless."
+    },
+    "rwe-senior-principal-geotechnical-engineer-copenhagen-london-swindon-excluded": {
+      "title": "Senior/Principal Geotechnical Engineer",
+      "company": "RWE",
+      "url": "https://jobs.rwe.com/",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen/London/Swindon options. EXCLUDED on seniority: Senior/Principal title far exceeds candidate's 3 yrs regardless of liveness."
+    },
+    "vanoord-geological-engineer-gorinchem-2743en-404": {
+      "title": "Geological Engineer",
+      "company": "Van Oord",
+      "url": "https://careers.vanoord.com/vacancies/geological-engineer-gorinchem-2743en",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed DEAD via direct fetch - HTTP 404. Gorinchem, Netherlands (EU, but requires relocation, deprioritized vs Copenhagen). Distinct requisition ID from the previously-logged 'geological-engineer-offshore-wind-1586' (also dead)."
+    },
+    "deme-group-geologist-jobteaser-mirror-unconfirmed": {
+      "title": "Geologist / Geoloog",
+      "company": "DEME Group",
+      "url": "https://www.jobteaser.com/en/job-offers/deme-geoloog",
+      "first_seen": "2026-10-20",
+      "fit": "medium",
+      "status": "unconfirmed",
+      "notes": "jobteaser.com mirror blocked direct WebFetch (403). Per search snippet, published 4 Jul 2026 - likely the same underlying req as the already-tracked 'deme-group-geologist-zwijndrecht-UNCONFIRMED' (deme-group.com also blocks fetch, 403). Belgium, EU - would require relocation. Recommend a manual browser check next run before pursuing or excluding."
+    },
+    "dtu-tenure-track-assistant-professor-geostructural-condition-assessment-expired": {
+      "title": "Tenure-Track Assistant Professor in Geostructural Condition Assessment",
+      "company": "DTU (Technical University of Denmark)",
+      "url": "https://www.dtu.dk/english/about/job-and-career/vacant-positions",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Kongens Lyngby. Confirmed EXPIRED - deadline 17 Feb 2026. Also excluded regardless: tenure-track faculty post requires a completed PhD and strong publication record, far above candidate's MSc-only/3 yrs industry profile."
+    },
+    "dtu-tenure-track-assistant-professor-geology-mineral-resources-expired": {
+      "title": "Tenure-Track Assistant Professor in Geology and Mineral Resources",
+      "company": "DTU (Technical University of Denmark)",
+      "url": "https://www.dtu.dk/english/about/job-and-career/vacant-positions",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Kongens Lyngby. Confirmed EXPIRED - deadline 9 Apr 2026. Same PhD/publication-record mismatch as the companion Geostructural Condition Assessment tenure-track posting."
+    },
+    "dtu-postdoc-energy-geotechnics-jobbank-2591719-excluded": {
+      "title": "Postdoc in Energy Geotechnics",
+      "company": "DTU (Technical University of Denmark)",
+      "url": "https://jobbank.dk/en/job/2591719",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "EXCLUDED: postdoc requires a completed PhD, candidate has MSc only - hard degree-track mismatch, same pattern as the other already-tracked DTU postdoc entry."
+    },
+    "pa-consulting-managing-consultant-eu-economics-investment-strategy-excluded": {
+      "title": "Managing Consultant - EU Economics and Investment Strategy",
+      "company": "PA Consulting",
+      "url": "https://www.paconsulting.com/jobs/managing-consultant-e-u-economics-and-investment-strategy",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen. EXCLUDED on seniority: 'Managing Consultant' sits one level below partner, well above candidate's 3 yrs / non-consulting-background level - same gap already flagged on other PA Consulting and Accenture entries."
+    },
+    "cowi-senior-geotekniker-jobbank-3068687-excluded": {
+      "title": "Senior Geotekniker",
+      "company": "COWI",
+      "url": "https://jobbank.dk/en/job/3068687",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "EXCLUDED on seniority: 'Senior' title exceeds candidate's 3 yrs. jobbank.dk blocks direct WebFetch (403) - not independently re-confirmed live, excluded regardless of liveness."
+    },
+    "vejdirektoratet-erfaren-geotekniker-fremtidens-vejprojekter-jobbank-3072779-unconfirmed": {
+      "title": "Erfaren geotekniker til fremtidens vejprojekter",
+      "company": "Vejdirektoratet (Danish Road Directorate)",
+      "url": "https://jobbank.dk/en/job/3072779",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "A near-duplicate ID (jobbank.dk/en/job/3082693) also surfaced for what appears to be the same posting - likely the same req mirrored twice. jobbank.dk blocks direct WebFetch (403), not independently confirmed. 'Erfaren' (experienced) in the title signals a seniority bar above candidate's 3 yrs even if live."
+    },
+    "apmoller-holding-geothermal-geologist-copenhagen-thinkgeoenergy-expired": {
+      "title": "Geologist",
+      "company": "A.P. Møller Holding (Geothermal)",
+      "url": "https://www.thinkgeoenergy.com/job-geologist-with-ap-moller-holding-geothermal-in-denmark/",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen. Confirmed DEAD via direct fetch - deadline stated 24 May 2019, long-stale listing. Also requires 10+ years' energy-sector experience, far exceeds candidate's 3 yrs."
+    },
+    "gentofte-kommune-miljomedarbejder-jord-grundvand-vvm-r13797966-archived": {
+      "title": "Miljømedarbejder til arbejdet med jord, grundvand og miljøvurdering/VVM",
+      "company": "Gentofte Kommune",
+      "url": "https://www.jobindex.dk/jobannonce/r13797966",
+      "first_seen": "2026-10-20",
+      "fit": "medium",
+      "status": "excluded",
+      "notes": "Confirmed ARCHIVED - jobindex.dk 301-redirects to jobindexarkiv.dk. Would have been a strong match had it still been live: degree explicitly accepted 'ingeniør, geolog, biolog eller miljøplanlægger' and Gentofte is ideal Greater Copenhagen location. Worth re-checking in case reposted."
+    },
+    "geus-vicedirektoer-myndighedsbetjening-jobbank-3056637-expired": {
+      "title": "Vicedirektør (myndighedsbetjening)",
+      "company": "GEUS",
+      "url": "https://jobbank.dk/en/job/3056637",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - deadline 14 Aug 2026, passed. Also a deputy-director executive post, far above candidate's 3 yrs / non-management level regardless."
+    },
+    "geus-vicedirektoer-innovation-jobbank-3056636-expired": {
+      "title": "Vicedirektør (innovation)",
+      "company": "GEUS",
+      "url": "https://jobbank.dk/en/job/3056636",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Companion requisition to the Vicedirektør (myndighedsbetjening) posting - same deputy-director executive level, same expiry/exclusion."
+    },
+    "geus-senior-researcher-quaternary-geology-3d-modelling-aarhus-jobdanmark-stale": {
+      "title": "Senior Researcher in Quaternary Geology and 3D Modelling",
+      "company": "GEUS",
+      "url": "https://www.jobdanmark.dk/",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Aarhus, Jutland - outside Sjælland/Copenhagen scope regardless. Stale posting (preferred start date June 2025, long passed). 'Senior Researcher' academic/research tier also above candidate's industry-only profile."
+    },
+    "accenture-management-consulting-manager-utilities-jobbank-2653180-excluded": {
+      "title": "Management Consulting Manager to Utilities",
+      "company": "Accenture",
+      "url": "https://jobbank.dk/en/job/2653180",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen/Aarhus. EXCLUDED: 'Manager' title exceeds candidate's 3 yrs / non-consulting-background level; also requires Scandinavian-language fluency beyond candidate's Danish B1/B2. Same gap pattern as the already-tracked Accenture 'Utilities Strategy Manager' entry."
+    },
+    "viegand-maagoe-no-openings-2026-10-20": {
+      "title": "N/A - checked Viegand Maagøe careers page and jobbank.dk company listing, no open vacancies found",
+      "company": "Viegand Maagøe",
+      "url": "https://viegandmaagoe.dk/en/about-us/career/",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "New energy-consulting company not previously checked. Own careers page returned HTTP 404; jobbank.dk company page shows zero current openings. Worth a fresh check in a future run."
     }
   }
 }

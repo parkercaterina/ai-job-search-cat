@@ -1475,6 +1475,42 @@
       "fit": "low",
       "status": "excluded",
       "notes": "New energy-consulting company not previously checked. Own careers page returned HTTP 404; jobbank.dk company page shows zero current openings. Worth a fresh check in a future run."
+    },
+    "geus-senior-researcher-researcher-geomechanics-geophysics-geoenergy-storage-r12445613-ARCHIVED": {
+      "title": "Senior Researcher / Researcher in Geomechanics and Geophysics with experience in geological energy and storage",
+      "company": "GEUS",
+      "url": "https://www.jobindex.dk/jobannonce/r12445613/senior-researcher-researcher-in-geomechanics-and-geophysics-with-experience-in-geological-energy-and-storage",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed ARCHIVED - jobindex.dk 301-redirects to jobindexarkiv.dk. Would have been a strong CCS/geomechanics domain match (Department of Geo-energy and Storage, CO2 storage seal integrity work directly adjacent to candidate's Project Greensand thesis) had it still been live - the 'Researcher' (non-Senior) tier is described as a 4-year temporary post that may not require a PhD, worth re-checking for a repost given Denmark's active CCS sector growth."
+    },
+    "via-university-college-project-employee-shallow-geothermal-horsens-3060823-unconfirmed": {
+      "title": "Project employee (2-year fixed-term) - Shallow Geothermal District Heating & Cooling",
+      "company": "VIA University College",
+      "url": "https://jobdanmark.dk/job/project-employee-2-year-fixed-term-shallow-geothermal-district-heating-cooling",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Horsens, Jutland - well outside Sjælland/Copenhagen scope, deprioritized regardless of liveness. Could not independently verify via direct fetch (jobdanmark.dk slug resolved to the site's generic landing page, not the posting; jobbank.dk mirror blocked with HTTP 403). 2-year fixed-term R&D role on shallow geothermal/district heating networks at VIA's Research Centre for the Built Environment, Climate and Water Technology - CCS/energy-transition-adjacent domain but fixed-term and wrong location."
+    },
+    "pa-consulting-energy-transition-strategy-consultants-copenhagen-direct-unconfirmed": {
+      "title": "Experienced strategy consultants for our Energy Transition team in Copenhagen",
+      "company": "PA Consulting",
+      "url": "https://www.paconsulting.com/jobs/experienced-strategy-consultants-for-our-energy-transition-team-in-copenhagen",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "This specific slug could not be fetched directly (too many redirects). Checked PA Consulting's own live careers listing (paconsulting.com/jobs, page 1 of 9/172 total global openings) directly this run - no Copenhagen or Denmark-based role appears among the visible listings, consistent with the zero-DK-postings finding from the 2026-09-10 and 2026-09-29 runs. Treated as stale/removed again. Would otherwise be a strong domain fit (Nordhavn, Copenhagen; team explicitly covers offshore wind, PtX, CCUS, energy regulation) per lesson-learned #4 caveat on consulting-background gap - re-check paconsulting.com/jobs directly (all 9 pages) in a future run since this team is repeatedly described as actively growing."
+    },
+    "artelia-erfaren-tvaerfaglig-projektleder-energi-industri-kobenhavn-3073708": {
+      "title": "Erfaren tværfaglig projektleder til Energi & Industri, København",
+      "company": "Artelia Group",
+      "url": "https://jobbank.dk/job/3073708/artelia-group/erfaren-tvaerfaglig-projektleder-til-energi-industri-kobenhavn/",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen - good location, but jobbank.dk blocks direct WebFetch (403), not independently confirmed live. EXCLUDED regardless: requires a background specifically 'fra en rådgivende ingeniørvirksomhed' (from a consulting engineering firm) with documented experience LEADING multidisciplinary engineering/industry project design work - candidate's GEO Engineering experience is technical/site-investigation, not a demonstrated formal project-leadership track record, a real experience-level/background gap per lesson-learned #2. Distinct from the already-tracked soil/groundwater Artelia project-leader role (job 3077514, also jobbank-blocked, still unconfirmed)."
     }
   }
 }

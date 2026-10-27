@@ -1511,6 +1511,69 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Copenhagen - good location, but jobbank.dk blocks direct WebFetch (403), not independently confirmed live. EXCLUDED regardless: requires a background specifically 'fra en rådgivende ingeniørvirksomhed' (from a consulting engineering firm) with documented experience LEADING multidisciplinary engineering/industry project design work - candidate's GEO Engineering experience is technical/site-investigation, not a demonstrated formal project-leadership track record, a real experience-level/background gap per lesson-learned #2. Distinct from the already-tracked soil/groundwater Artelia project-leader role (job 3077514, also jobbank-blocked, still unconfirmed)."
+    },
+    "cowi-projektleder-geoteknisk-laboratorium-jobbank-3068688-unconfirmed": {
+      "title": "Projektleder for geoteknisk laboratorium",
+      "company": "COWI A/S",
+      "url": "https://jobbank.dk/job/3068688/cowi-as/projektleder-for-geoteknisk-laboratorium",
+      "first_seen": "2026-10-27",
+      "fit": "medium",
+      "status": "unconfirmed",
+      "notes": "Found via search (jobbank.dk ID 3068688, same batch as already-seen cowi-senior-geotekniker-jobbank-3068687). Project/lab manager role directing COWI's geotechnical laboratories in Skovlunde and Aalborg (soil classification, geotechnical testing) - direct overlap with candidate's facies/soil classification background and stated pivot toward more managerial/strategic scope. Degree requirement described as 'solid grounding in Danish geology and geotechnical lab work' - no strict engineering-only barrier, good fit for MSc Geology. Could be based at any COWI office in Denmark (acceptable location) but requires regular travel to both Skovlunde and Aalborg. COULD NOT VERIFY LIVENESS: jobbank.dk returned HTTP 403 Forbidden on every direct fetch attempt (multiple URL variants tried), and COWI's own careers site (cowi.com/your-career/open-vacancies/) does not surface this posting on page 1 of 19 and has no working search/location filter via WebFetch - dropped from this run's confirmed findings per verification rule. Re-check next run by paging through cowi.com careers or finding a fetchable mirror."
+    },
+    "cowi-senior-geotechnical-engineer-jobbank-3068686-excluded": {
+      "title": "Senior Geotechnical Engineer (English-language twin of Senior Geotekniker)",
+      "company": "COWI A/S",
+      "url": "https://jobbank.dk/job/3068686/cowi-as/senior-geotechnical-engineer",
+      "first_seen": "2026-10-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Found via search; same job batch/near-duplicate of already-seen cowi-senior-geotekniker-jobbank-3068687 (excluded 2026-10-20), appears to be the English-language posting of the same role. Search snippet states minimum 10 years of experience required and familiarity with Danish road/rail authorities and PLAXIS - well beyond candidate's 3 years. Excluded on experience-level grounds; not independently fetched (jobbank.dk 403) but snippet detail is specific enough to exclude with confidence."
+    },
+    "deloitte-senior-consultant-sustainability-esg-climate-specialization-3141825-unconfirmed": {
+      "title": "Senior Consultant to Sustainability & ESG - Climate specialization",
+      "company": "Deloitte Denmark",
+      "url": "https://jobbank.dk/en/job/3141825/deloitte/senior-consultant-to-sustainability-esg-climate-specialization",
+      "first_seen": "2026-10-27",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "New job ID (3141825), appears to be a repost/refresh of the same req type as the already-excluded 'Senior Consultants to Sustainability & ESG/Climate specialization' entry (first logged 2026-09-22). 'Senior Consultant' title - flagged per experience-level rule. Role centers on GHG accounting (Scope 1/2/3), SBTi target-setting, CDP/ISO/CSRD standards - specialist sustainability-consulting/accounting skillset candidate does not have, not a geology/subsurface role. A near-identical listing under the same Deloitte boilerplate is also attributed to 'Publicis Denmark A/S' at the same address (3141628) - likely a listing/attribution error, not a separate opening. COULD NOT VERIFY LIVENESS directly: jobbank.dk and climatechangejobs.com mirrors both returned 403/404 on fetch. Excluded on seniority + skills-gap grounds regardless of live status."
+    },
+    "ey-senior-consultant-energy-climate-jobinvite-1578013-CLOSED": {
+      "title": "Senior Consultant, Energy and Climate",
+      "company": "EY (Ernst & Young)",
+      "url": "https://careers.ey.com/job-invite/1578013",
+      "first_seen": "2026-10-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed CLOSED via direct fetch - page states 'The Job is no longer available.' Location was not specified on the page (no confirmed Denmark location found for EY energy/climate consulting this run). Senior Consultant title also would have required flagging per experience-level rule had it been live."
+    },
+    "geus-seismic-data-acquisition-green-transition-taastrup-2709550-unconfirmed": {
+      "title": "A new employee for seismic data acquisition to the green transition",
+      "company": "GEUS (De Nationale Geologiske Undersogelser for Danmark og Gronland)",
+      "url": "https://jobbank.dk/job/2709550",
+      "first_seen": "2026-10-27",
+      "fit": "medium",
+      "status": "unconfirmed",
+      "notes": "Found via search. Role maintains/operates GEUS's onshore seismic recording equipment (wireless units, land streamer) for surveys assessing CO2 storage, geothermal, wind farm and energy-island sites - strong domain overlap with candidate's CCS/energy-transition interest and 2019 ENI seismic-interpretation internship background. Base in Taastrup (Greater Copenhagen, ideal location), with travel to Aarhus and extended fieldwork. Degree requirement: geophysics, geology, or engineering - good fit for MSc Geology. LIKELY STALE/EXPIRED: job ID (2709550) is far lower than this week's other active Danish postings (~3.06M-3.14M range), suggesting an older listing; GEUS's own current vacancies page (geus.dk/om-geus/job-og-karriere/ledige-stillinger) did not show this role or any matching title when fetched (though that page is cookie/JS-gated and may not render fully via WebFetch). jobbank.dk and nyuddannet.dk mirrors both returned 403. Dropped from this run's confirmed findings per verification rule - worth a manual recheck directly on GEUS's career site given the strong domain fit if reposted."
+    },
+    "orsted-geotechnical-site-assessment-engineer-gentofte-skaerbaek-london-jobindex-h1076704-EXPIRED": {
+      "title": "Geotechnical Site Assessment Engineer",
+      "company": "Orsted",
+      "url": "https://www.jobindex.dk/vis-job/h1076704",
+      "first_seen": "2026-10-27",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - Jobindex page explicitly states 'The job ad has expired!' Originally published 23-04-2021, surfaced by search as a stale aggregator hit, not a current 2026 posting. Location would have been Gentofte, Skaerbaek, or London."
+    },
+    "energinet-gis-tekniker-gronne-omstilling-jobbank-3065412-unconfirmed": {
+      "title": "GIS-tekniker til den gronne omstilling",
+      "company": "Energinet",
+      "url": "https://jobbank.dk/en/job/3065412/energinet/gis-tekniker-til-den-gronne-omstilling",
+      "first_seen": "2026-10-27",
+      "fit": "medium",
+      "status": "unconfirmed",
+      "notes": "New job ID found via search, distinct from the already-excluded energinet-product-owner-gis-platform-fredericia entry (different role: hands-on GIS technician vs. platform product owner). GIS/geospatial role at a major Danish energy-transition company (green transition framing) - plausible QGIS-relevant fit for candidate, though 'tekniker' (technician) title/level and required software stack not confirmed. COULD NOT VERIFY LIVENESS: jobbank.dk returned 403 on fetch; Energinet's own careers pages (energinet.dk/karriere, energinet.dk/job-og-karriere/ledige-job) either rendered with no listings (JS-gated) or 404'd on the URLs tried. Other Energinet postings surfaced in the same search batch (job IDs ~3060k-3080k) had deadlines in Aug 2026, already passed - this one is likely also expired but not confirmed either way. Dropped from this run's findings per verification rule."
     }
   }
 }

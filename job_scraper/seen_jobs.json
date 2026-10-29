@@ -1574,6 +1574,60 @@
       "fit": "medium",
       "status": "unconfirmed",
       "notes": "New job ID found via search, distinct from the already-excluded energinet-product-owner-gis-platform-fredericia entry (different role: hands-on GIS technician vs. platform product owner). GIS/geospatial role at a major Danish energy-transition company (green transition framing) - plausible QGIS-relevant fit for candidate, though 'tekniker' (technician) title/level and required software stack not confirmed. COULD NOT VERIFY LIVENESS: jobbank.dk returned 403 on fetch; Energinet's own careers pages (energinet.dk/karriere, energinet.dk/job-og-karriere/ledige-job) either rendered with no listings (JS-gated) or 404'd on the URLs tried. Other Energinet postings surfaced in the same search batch (job IDs ~3060k-3080k) had deadlines in Aug 2026, already passed - this one is likely also expired but not confirmed either way. Dropped from this run's findings per verification rule."
+    },
+    "dmr-projektleder-geoteknikafdeling-herlev-3032043": {
+      "title": "Projektleder til vores geoteknikafdeling i Herlev",
+      "company": "DMR (Dansk Miljørådgivning A/S)",
+      "url": "https://jobbank.dk/job/3032043/dansk-miljoradgivning-as-dmr/projektleder-til-vores-geoteknikafdeling-i-herlev/",
+      "first_seen": "2026-10-29",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via DMR's own career page (dmr.dk/job), which lists only 3 current openings total and this is one of them (no deadline stated, rolling). Herlev, Greater Copenhagen - ideal location. jobbank.dk itself 403'd on direct fetch (same persistent block as prior runs), so liveness is corroborated via DMR's own site rather than the aggregator. Search snippet describes the role as geotechnical investigations + construction-site supervision, working under experienced project managers; requires 'uddannelse som geoteknisk ingeniør' (geotechnical engineer education) and min. 2 years' experience - candidate's 3 yrs comfortably clears the bar, but the degree wording found does NOT explicitly state 'or equivalent'/geology-acceptance (per lesson-learned #3) - flagged as unconfirmed on degree equivalence, verify directly with DMR before applying. Distinct jobbank ID/title from the two already-tracked, confirmed-dead Herlev DMR entries (410 Gone and expired r13571761) - this appears to be a fresh repost of a similar need at the same office."
+    },
+    "a1consult-geotekniker-erfaring-randers-2919401": {
+      "title": "Geotekniker med erfaring til A1 Consult",
+      "company": "A1 Consult A/S",
+      "url": "https://jobbank.dk/job/2919401/a1-consult-as/geotekniker-med-erfaring-til-a1-consult/",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via A1 Consult's own career page (a1consult.dk/job), which lists exactly 3 current openings including this one (deadline 'as soon as possible', rolling). EXCLUDED on location: role is based in Randers, Jutland - well outside the Sjælland/Copenhagen target area, deprioritized per location filter regardless of fit otherwise. No degree/years detail retrievable beyond 'med erfaring' (experienced) in the snippet; jobbank.dk blocked direct fetch (403)."
+    },
+    "orsted-geotechnical-engineer-rejobs-155370-expired": {
+      "title": "Geotechnical Engineer",
+      "company": "Ørsted",
+      "url": "https://rejobs.org/en/renewable-energy-jobs/155370-geotechnical-engineer-orsted",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 410 Gone on direct fetch. Aggregator mirror of an Ørsted geotechnical foundation-design posting (MATLAB/Python, PLAXIS/FLAC desired); distinct req from already-tracked live/expired Ørsted entries."
+    },
+    "ineos-greensand-geoscientist-virum-h1248524-expired2022": {
+      "title": "Geoscientist (Greensand CCS project)",
+      "company": "INEOS Energy",
+      "url": "https://www.jobindex.dk/vis-job/h1248524",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - Jobindex states 'The job ad has expired!', originally published 29-07-2022. Virum (Greater Copenhagen) office, CCS Greensand project - strong domain fit on paper (MSc geology/geoscience, sedimentology/structural geology/geostatistics) but stale by 4 years. Checked INEOS's own careers page and careers.ineos.com this run - no current Denmark-based geoscience/CCS vacancy found. Worth a periodic recheck given Denmark's active CCS sector and INEOS's Virum/Esbjerg presence."
+    },
+    "ineos-greensand-reservoir-engineer-virum-h1248507-expired2022": {
+      "title": "Reservoir Engineer (Greensand CCS project)",
+      "company": "INEOS Energy",
+      "url": "https://www.jobindex.dk/vis-job/h1248507",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - posted 30-07-2022, 'The job ad has expired!'. Same Greensand/Virum batch as h1248524. Not a geology-titled role in any case."
+    },
+    "systra-hydrogeolog-geotekniker-orestad-aarhus-3116913-likely-stale": {
+      "title": "Hydrogeolog/Geotekniker (dewatering calculations, field investigations)",
+      "company": "SYSTRA Danmark A/S",
+      "url": "https://jobbank.dk/job/3116913/",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Could not verify liveness: jobbank.dk 403'd on direct fetch for this and a related listing (job 3116920). Checked SYSTRA's own Denmark careers page (systra.com/denmark/jobtilbud/) directly - it currently shows ZERO open positions company-wide ('Ingen resultater matcher dine søgekriterier'), contradicting the jobbank.dk listing. Treated as likely stale/already closed and dropped from this run's confirmed findings; re-check SYSTRA's own site in a future run rather than trusting the jobbank mirror."
     }
   }
 }

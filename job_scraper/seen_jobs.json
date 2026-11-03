@@ -1628,6 +1628,24 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "Could not verify liveness: jobbank.dk 403'd on direct fetch for this and a related listing (job 3116920). Checked SYSTRA's own Denmark careers page (systra.com/denmark/jobtilbud/) directly - it currently shows ZERO open positions company-wide ('Ingen resultater matcher dine søgekriterier'), contradicting the jobbank.dk listing. Treated as likely stale/already closed and dropped from this run's confirmed findings; re-check SYSTRA's own site in a future run rather than trusting the jobbank mirror."
+    },
+    "fugro-geologist-r0025588-unconfirmed": {
+      "title": "Geologist",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0025588",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Found on Fugro's live careers search, but no confirmed Denmark location could be established - Denmark did not appear as a location-filter option on the careers site at time of check. Not reported as a live Denmark match per verification rule; re-check in a future run."
+    },
+    "implement-consulting-group-energy-climate-consultant-unconfirmed": {
+      "title": "Energy & Climate consultant",
+      "company": "Implement Consulting Group",
+      "url": "N/A - no specific req URL found",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "New company searched this run (energy-transition consulting category). Only listings found were student-track postings with passed deadlines, or undated snippets - could not confirm an open, current Copenhagen req. Not reported as a live match; worth checking Implement Consulting Group's own careers page directly in a future run."
     }
   }
 }

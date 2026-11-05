@@ -1646,6 +1646,69 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "New company searched this run (energy-transition consulting category). Only listings found were student-track postings with passed deadlines, or undated snippets - could not confirm an open, current Copenhagen req. Not reported as a live match; worth checking Implement Consulting Group's own careers page directly in a future run."
+    },
+    "vejdirektoratet-erfaren-specialist-geoteknik-fundering-hydrogeologi-h1712352": {
+      "title": "Erfaren specialist inden for geoteknik, fundering eller hydrogeologi",
+      "company": "Vejdirektoratet (Danish Road Directorate)",
+      "url": "https://www.jobindex.dk/vis-job/h1712352",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch - posted 2026-11-02 (3 days old), active Ansøg/Se jobbet buttons, no closed notice. EXCLUDED: Skanderborg, Jutland - outside Sjælland/Copenhagen target area, deprioritized per location filter. Title explicitly 'Erfaren' (experienced) signaling a seniority bar above candidate's 3 yrs, though no numeric years figure is stated on the page; degree requirement (Geology/Geoscience vs. Civil/Geotechnical Engineering) is also not stated - would need direct verification if location were otherwise acceptable."
+    },
+    "dmr-tekniker-geoteknikafdeling-herlev-2026-11": {
+      "title": "Tekniker til vores geoteknikafdeling i Herlev",
+      "company": "DMR (Dansk Miljørådgivning A/S)",
+      "url": "https://www.dmr.dk/job/tekniker-geoteknik-herlev/",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch of DMR's own current careers page (one of only 5 open DMR roles company-wide at time of check, no fixed deadline - 'snarest muligt'). Herlev, Greater Copenhagen - ideal location. Degree explicitly accepts 'miljøteknolog, jordbrugsteknolog, procesoperatør, geolog eller lignende' - direct degree match, no engineering-only barrier. No years-of-experience requirement stated; compaction-control/geotechnical-lab-test experience is listed as 'en fordel' (an advantage) not a requirement, and DMR states training is offered regardless of background. Rated LOW fit despite the strong location/degree match: this is a 'Tekniker' (technician) title, a level below candidate's current Geologist role and 3 yrs professional experience, and a step away from her stated pivot toward more strategic/analytical scope rather than toward it. Distinct role from the already-tracked 'Projektleder til vores geoteknikafdeling i Herlev' (jobbank 3032043, first_seen 2026-10-29, same office) - that project-leader req is a better level match and remains the stronger DMR Herlev lead if still live."
+    },
+    "dmr-geolog-geoteknikafdeling-silkeborg-2026-11": {
+      "title": "Geolog søges til geoteknikafdelingen i Silkeborg",
+      "company": "DMR (Dansk Miljørådgivning A/S)",
+      "url": "https://www.dmr.dk/job/geolog-til-geoteknikafdelingen-silkeborg/",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch of DMR's own current careers page. EXCLUDED on location: Silkeborg, Jutland - well outside Sjælland/Copenhagen target area, deprioritized regardless of otherwise-strong degree fit (explicit 'Geolog' title match)."
+    },
+    "dmr-tekniker-qgis-geoteknikafdeling-jylland-2026-11": {
+      "title": "Tekniker med erfaring i anvendelse af QGIS søges til vores geoteknikafdeling i Jylland",
+      "company": "DMR (Dansk Miljørådgivning A/S)",
+      "url": "https://www.dmr.dk/job/tekniker-geoteknik-afdelingen-jylland/",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch of DMR's own current careers page. Direct QGIS software-skill match to candidate's stated GIS strength, but EXCLUDED on location: Jylland (Jutland) - outside Sjælland/Copenhagen target area. Also a Tekniker-level title, a step below candidate's current professional level."
+    },
+    "geus-seismic-data-acquisition-green-transition-taastrup-4024069-EXPIRED": {
+      "title": "Two new colleagues for seismic data acquisition to the green transition",
+      "company": "GEUS (De Nationale Geologiske Undersøgelser for Danmark og Grønland)",
+      "url": "https://www.jobsearch.dk/geografgeolog/taastrup/4024069",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - page states 'Dette job er ikke længere aktivt' (this job is no longer active). Distinct req ID from the already-tracked older GEUS seismic-acquisition posting (job 2709550, also unconfirmed/stale). Would be a strong domain fit (CCS/geothermal/energy-island seismic surveying, Taastrup/Greater Copenhagen, geophysics/geology/engineering degree accepted) if a live cohort reposts - worth re-checking GEUS's own careers page directly in a future run."
+    },
+    "ramboll-senior-geotechnical-engineer-jobbank-3096650-excluded": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://jobbank.dk/en/job/3096650/ramboll-gruppen-as/senior-geotechnical-engineer/",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen HQ (Hannemanns Allé), Geo Structures dept. EXCLUDED on seniority: 'Senior' title requiring a good BEng/MEng with substantial geotechnical engineering or engineering geology content and well above candidate's 3 yrs (deadline noted as 10.11.2026 per search snippet). jobbank.dk itself blocks direct WebFetch (403, consistent persistent block) - excluded regardless of liveness on experience-level grounds."
+    },
+    "niras-senior-geotechnical-engineer-x2-allerod-2026-11": {
+      "title": "Senior Geotechnical Engineer (x2 positions)",
+      "company": "NIRAS",
+      "url": "N/A - found via search snippet, no specific req URL resolved",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Allerød, Greater Copenhagen (NIRAS geotechnical department). EXCLUDED on seniority: explicitly requires minimum 10 years' experience, far above candidate's 3 yrs. Not independently fetched to a specific req URL this run; excluded on content detail from search snippet alone, consistent with other already-tracked 10-yr-minimum Senior reqs."
     }
   }
 }

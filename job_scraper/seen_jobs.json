@@ -1709,6 +1709,51 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Allerød, Greater Copenhagen (NIRAS geotechnical department). EXCLUDED on seniority: explicitly requires minimum 10 years' experience, far above candidate's 3 yrs. Not independently fetched to a specific req URL this run; excluded on content detail from search snippet alone, consistent with other already-tracked 10-yr-minimum Senior reqs."
+    },
+    "geo-grundvandstekniker-lyngby-h1709343": {
+      "title": "Grundvandstekniker (Groundwater Technician)",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.jobindex.dk/jobannonce/h1709343?lang=da",
+      "first_seen": "2026-11-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live, Lyngby (GEO's own groundwater dept), deadline 2026-11-15. Requires 'mindst 5 ars erhvervserfaring med en teknisk/praktisk baggrund' (min. 5 years) - candidate has 3 years professional experience, does not meet threshold. Also a field technician role, not the strategic/analytical pivot candidate is targeting, and GEO is her former employer (departed role) - would read as a downgrade. No degree required (practical/technical background only)."
+    },
+    "ramboll-senior-geotechnical-engineer-jobbank-2723762-duplicate": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://jobbank.dk/en/job/2723762/ramboll-group/senior-geotechnical-engineer",
+      "first_seen": "2026-11-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Jobbank mirror of a Ramboll Geo Structures posting, Copenhagen (Hannemanns Alle 53), likely same underlying role already logged under ramboll-senior-geotechnical-engineer-copenhagen-96a94c37-unconfirmed. Requires minimum 6 years experience plus demonstrable Python experience - candidate has 3 years and no stated Python/scripting skills, does not meet bar."
+    },
+    "jobindex-h973366-mismatched-actually-orsted-expired": {
+      "title": "Geotechnical Engineer (foundation design and installation) - listed under MT Hojgaard search snippet but page content is Orsted",
+      "company": "Orsted (Wind Power - EPC)",
+      "url": "https://www.jobindex.dk/vis-job/h973366",
+      "first_seen": "2026-11-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Search snippet attributed this to MT Hojgaard but the fetched page is an Orsted EPC Geotechnical Engineer posting (Gentofte/Skaerbaek/London) dated 2020-04-22, explicitly marked 'The job ad has expired!'. Dead/stale listing, no new info."
+    },
+    "jobsearch-dk-dead-ids-batch-2026-11-10": {
+      "title": "Batch of jobsearch.dk result IDs checked - all dead/non-existent listings",
+      "company": "N/A (multiple: Ramboll geoscience managers search hit, hydrogeology/geothermal hit, geo-structural marine engineer hit, GEUS Professor of Carbon Storage, GEUS senior researcher geomechanics 4560133, geophysicists seismic data acquisition 2903006)",
+      "url": "https://jobsearch.dk/ (IDs 3585665, 3276704, 4260937, 4317695, 4560133, 2903006)",
+      "first_seen": "2026-11-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "All six jobsearch.dk result IDs surfaced by this run's searches returned 'Dette job er ikke laengere aktivt' (job no longer active) / 'Soegeresultatet ... findes ikke' when fetched directly - confirmed dead, no live posting content to evaluate. Logged as a batch to avoid re-checking these stale IDs in future runs."
+    },
+    "implement-consulting-junior-energy-climate-hellerup-parttime": {
+      "title": "Junior Consultant(s) - Energy & Climate team / Energy Transition",
+      "company": "Implement Consulting Group",
+      "url": "https://altandetlige.dk/jobs/junior-consultants-to-join-our-energy-climate-team-67-bcq0okzhrnuqqalbpmckrw",
+      "first_seen": "2026-11-10",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Clarifies/updates implement-consulting-group-energy-climate-consultant-unconfirmed (2026-11-03): this is explicitly a part-time (~20h/week) student role for candidates in 2nd/3rd year bachelor's or 1st year master's, with full-time offer only a possibility post-graduation, not guaranteed. Excludes on candidate's hard dealbreaker (will not consider part-time contracts) and seniority mismatch (she already holds an MSc + 3 yrs professional experience, not a current student)."
     }
   }
 }

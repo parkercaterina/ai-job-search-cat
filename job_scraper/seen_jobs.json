@@ -1754,6 +1754,69 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Clarifies/updates implement-consulting-group-energy-climate-consultant-unconfirmed (2026-11-03): this is explicitly a part-time (~20h/week) student role for candidates in 2nd/3rd year bachelor's or 1st year master's, with full-time offer only a possibility post-graduation, not guaranteed. Excludes on candidate's hard dealbreaker (will not consider part-time contracts) and seniority mismatch (she already holds an MSc + 3 yrs professional experience, not a current student)."
+    },
+    "geus-researcher-geoscientific-modelling-aarhus-r14069584": {
+      "title": "Researcher in Geoscientific Modelling",
+      "company": "GEUS (Department of Near Surface Land and Marine Geology)",
+      "url": "https://www.jobindex.dk/jobannonce/r14069584/researcher-in-geoscientific-modelling",
+      "first_seen": "2026-11-12",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed live via direct fetch, published 2026-10-27, deadline 2026-11-15. EXCLUDED: PhD explicitly required (applicant must hold one or have submitted it before the deadline) - MSc alone not accepted, degree-level mismatch vs candidate. Also located at GEUS Aarhus, Jutland - outside Copenhagen/Sjaelland priority area."
+    },
+    "geus-researcher-raw-materials-value-chains-copenhagen-expired": {
+      "title": "Researcher in raw materials value chains",
+      "company": "GEUS (Danish Mineral Intelligence Centre, D-MIC)",
+      "url": "https://jobdanmark.dk/job/researcher-in-raw-materials-value-chains",
+      "first_seen": "2026-11-12",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - deadline was 2026-02-18, long passed. Oster Voldgade, Copenhagen (good location) but PhD explicitly required with documented research experience - degree-level mismatch regardless of liveness."
+    },
+    "banedanmark-fagtilsyn-konstruktion-sjaelland-3054812-unconfirmed": {
+      "title": "Fagtilsyn Konstruktion - Sjaelland",
+      "company": "Banedanmark",
+      "url": "https://jobbank.dk/job/3054812/banedanmark/fagtilsyn-konstruktion-sjaelland",
+      "first_seen": "2026-11-12",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "jobbank.dk blocked by Cloudflare challenge on direct fetch (both WebFetch and curl) - could not independently confirm live status. Per search snippets: site supervision of bridge/structural work on a large renewal project, based Copenhagen or Ringsted with most time on-site at Hillerod station, min. 3 yrs as engineer/geotechnician or similar. Role is construction-supervision/clerk-of-works, not a geoscience technical post - likely a weak fit even if live. Not reported as a confirmed live match per verification rule."
+    },
+    "wood-thilsted-opslag-jobbank-3090244-unconfirmed": {
+      "title": "Opslag hos Wood Thilsted (generic/unspecified posting)",
+      "company": "Wood Thilsted",
+      "url": "https://jobbank.dk/job/3090244/wood-thilsted/opslag-hos-wood-thilsted/",
+      "first_seen": "2026-11-12",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "jobbank.dk blocked by Cloudflare challenge; Wood Thilsted's own careers page and BambooHR job board are JS-rendered and returned no listing content via WebFetch. Could not confirm this is a distinct role from the already-tracked Wood Thilsted Geotechnical Engineer Copenhagen posting (linkedin 4447524655, logged 2026-09-01, still likely open on a rolling basis). Not reported as a new confirmed match."
+    },
+    "ineos-ccs-supervisors-esbjerg-h1565949-EXPIRED": {
+      "title": "CCS Supervisors",
+      "company": "INEOS Energy",
+      "url": "https://www.jobindex.dk/jobannonce/h1565949/ccs-supervisors",
+      "first_seen": "2026-11-12",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED - jobindex.dk redirects this listing (301) to jobindexarkiv.dk, its archive for closed postings. Esbjerg, Denmark - outside Copenhagen/Sjaelland core area regardless."
+    },
+    "baringa-power-low-carbon-solutions-copenhagen-greenhouse-4785540101-notfound": {
+      "title": "Senior Consultant to Manager, Power and Low Carbon Solutions (specific req not retrievable)",
+      "company": "Baringa",
+      "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4785540101",
+      "first_seen": "2026-11-12",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "The specific job ID resolved only to Baringa's generic 96-listing careers board, not a distinct posting page - could not confirm title/location/requirements for this specific req. Search snippets describe a Copenhagen-based Senior Consultant-to-Manager role in Power and Low Carbon Solutions covering renewables/storage/clean molecules - likely exceeds candidate's 3 yrs given the Manager-track title, and would need an economics/energy-markets background check regardless. Not reported as a confirmed live match."
+    },
+    "dnv-co2-storage-principal-consultant-unconfirmed": {
+      "title": "CO2 Storage Principal Consultant: Europe and North America",
+      "company": "DNV",
+      "url": "https://jobs.y-axis.com/jobs/co2-storage-principal-consultant-europe-and-north-america-dnv-1830",
+      "first_seen": "2026-11-12",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Aggregator URL returned HTTP 404; DNV's own jobs.dnv.com search/filter pages are JS-rendered and returned no listing content via WebFetch. EXCLUDED regardless of liveness: 'Principal' title is well above candidate's 3 yrs experience."
     }
   }
 }

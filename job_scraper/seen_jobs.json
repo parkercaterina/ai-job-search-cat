@@ -1817,6 +1817,51 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Aggregator URL returned HTTP 404; DNV's own jobs.dnv.com search/filter pages are JS-rendered and returned no listing content via WebFetch. EXCLUDED regardless of liveness: 'Principal' title is well above candidate's 3 yrs experience."
+    },
+    "geo-erfaren-hydrogeolog-lyngby-h1709336-EXPIRED": {
+      "title": "Erfaren hydrogeolog, Geo København",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.jobindex.dk/jobannonce/h1709336",
+      "first_seen": "2026-11-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - jobindex.dk redirects to jobindexarkiv.dk, which explicitly states 'jobannoncen ikke længere er aktuel'. Kept resurfacing in multiple search snippets this run despite being dead (stale search-engine cache). Would also have required min. 5 yrs practical groundwater-modelling experience (Mike SHE/Modflow/Feflow) - above candidate's 3 yrs regardless."
+    },
+    "cowi-consultants-specialists-soil-groundwater-marine-deposits-lyngby-410": {
+      "title": "Consultants/Specialists within soil and groundwater or marine deposits",
+      "company": "COWI",
+      "url": "https://ofir.dk/jobs/consultantsspecialists-cowi-lyngby-taarbaek-2741593",
+      "first_seen": "2026-11-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead via direct fetch - HTTP 410 Gone. Lyngby, Denmark. Would have been a strong domain fit (soil/groundwater/marine deposits specialists) had it been live."
+    },
+    "ramboll-consultant-geology-americas-unconfirmed": {
+      "title": "Consultant, Geology",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/fi-fi/ura/aeba35a3-0ffa-4b50-de84-08df17a5b9ac",
+      "first_seen": "2026-11-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Direct fetch resolved only to Ramboll's generic Finnish careers search listing (1,005 results, paginated), not the specific posting detail page - could not confirm location, requirements, or liveness. Listed under Ramboll's Americas region per search snippet, not Copenhagen - EXCLUDED on location grounds regardless."
+    },
+    "banedanmark-fagchef-geoteknik-hovedstaden-jobbank-3072784-3147779": {
+      "title": "Fagchef for Geoteknik",
+      "company": "Banedanmark",
+      "url": "https://jobbank.dk/en/job/3147779/banedanmark/fagchef-for-geoteknik",
+      "first_seen": "2026-11-17",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Could not fetch jobbank.dk directly (HTTP 403 on repeated attempts) - liveness unconfirmed. EXCLUDED regardless on seniority grounds: 'Fagchef' (department head/discipline manager) is a people-management leadership title well above candidate's 3 yrs individual-contributor experience. Two req IDs found (3072784 and 3147779) likely represent the same or a repeated posting."
+    },
+    "banedanmark-teknisk-systemansvarlig-geoteknik-jobbank-3154230": {
+      "title": "Teknisk systemansvarlig for geoteknik i Banedanmark",
+      "company": "Banedanmark",
+      "url": "https://jobbank.dk/en/job/3154230/banedanmark/teknisk-systemansvarlig-for-geoteknik-i-banedanmark",
+      "first_seen": "2026-11-17",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Live per search-indexed deadline of 2026-11-26 (jobbank.dk itself returned HTTP 403 on direct WebFetch, so liveness could not be independently confirmed beyond the indexed deadline date - recommend a manual check before applying). Work location choice of Copenhagen, Aarhus, or Fredericia - Copenhagen option is ideal. Role is technical-standards/rules authorship and dispensation review for railway geotechnics (section of 25 people, 3 teams), building on Banedanmark's new geotechnical banenorm BN1-185-1. CAUTION: posting explicitly prefers 'cirka fem års relevant erhvervserfaring' (~5 yrs relevant experience) in a technical geotechnical/infrastructure role - above candidate's 3 yrs per lesson-learned #2, a real experience gap. Degree requirement not confirmed from available snippets (unclear whether Geology/Geoscience is accepted alongside Civil/Geotechnical Engineering) - verify directly before applying."
     }
   }
 }

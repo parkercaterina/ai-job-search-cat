@@ -1862,6 +1862,123 @@
       "fit": "medium",
       "status": "new",
       "notes": "Live per search-indexed deadline of 2026-11-26 (jobbank.dk itself returned HTTP 403 on direct WebFetch, so liveness could not be independently confirmed beyond the indexed deadline date - recommend a manual check before applying). Work location choice of Copenhagen, Aarhus, or Fredericia - Copenhagen option is ideal. Role is technical-standards/rules authorship and dispensation review for railway geotechnics (section of 25 people, 3 teams), building on Banedanmark's new geotechnical banenorm BN1-185-1. CAUTION: posting explicitly prefers 'cirka fem års relevant erhvervserfaring' (~5 yrs relevant experience) in a technical geotechnical/infrastructure role - above candidate's 3 yrs per lesson-learned #2, a real experience gap. Degree requirement not confirmed from available snippets (unclear whether Geology/Geoscience is accepted alongside Civil/Geotechnical Engineering) - verify directly before applying."
+    },
+    "cowi-leading-geotechnical-engineer-denmark-id61121-2026-11-19": {
+      "title": "Leading Geotechnical Engineer",
+      "company": "COWI",
+      "url": "https://www.cowi.com/your-career/open-vacancies/vacancy/?id=61121",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed LIVE via COWI's own open-vacancies listing page (closing 31 January 2027) - supersedes the prior 'unconfirmed' status logged under the same req id 61121 on 2026-09-03 (title then showed as 'Senior Geotechnical Engineer'; COWI appears to have retitled/reposted the same requisition). COWI's vacancy detail page is a JS SPA and still blocks direct WebFetch/curl (empty shell), so location/degree/years could not be independently confirmed beyond the listing page. EXCLUDED regardless on seniority grounds: 'Leading' title is well above candidate's 3 yrs individual-contributor experience."
+    },
+    "cowi-senior-geotekniker-denmark-id61122-2026-11-19": {
+      "title": "Senior Geotekniker",
+      "company": "COWI",
+      "url": "https://www.cowi.com/your-career/open-vacancies/vacancy/?id=61122",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed LIVE via COWI's own open-vacancies listing page (closing 3 January 2027). Vacancy detail page is a JS SPA blocked to WebFetch/curl - location/degree/years not independently confirmed. EXCLUDED regardless on seniority grounds: 'Senior' title above candidate's 3 yrs."
+    },
+    "geo-projektleder-raastof-jordforurening-koebenhavn-h1701382-expired": {
+      "title": "Projektleder råstof og jordforurening, Geo København",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.jobindex.dk/jobannonce/h1701382/projektleder-raastof-og-jordforurening-geo-koebenhavn",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - jobindex.dk 301-redirects to jobindexarkiv.dk archive. Deadline per search snippet was 25 Oct 2026, already passed. Would also have required min. 5 years' experience (above candidate's 3 yrs) per snippet. Lyngby/Copenhagen - candidate's former employer (GEO Engineering Consultancy, Apr 2023-Dec 2025)."
+    },
+    "geo-erfaren-hydrogeolog-lyngby-h1709336-expired": {
+      "title": "Erfaren hydrogeolog, Geo København",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.jobindex.dk/jobannonce/h1709336",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - jobindex.dk 301-redirects to jobindexarkiv.dk archive. Lyngby - candidate's former employer's office. 'Erfaren' (experienced) title suggests above-entry seniority even if reopened."
+    },
+    "geo-grundvandstekniker-lyngby-h1709343-expired": {
+      "title": "Grundvandstekniker, Geo København",
+      "company": "GEO Engineering Consultancy",
+      "url": "https://www.jobindex.dk/jobannonce/h1709343",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - jobindex.dk 301-redirects to jobindexarkiv.dk archive. Lyngby. Groundwater-technician role, not geologist-level."
+    },
+    "orsted-geotechnical-engineer-32728-410": {
+      "title": "Geotechnical Engineer",
+      "company": "Ørsted",
+      "url": "https://orsted.com/en/careers/vacancies-list/2026/08/32728-geotechnical-engineer",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 410 Gone on direct fetch. Posted Aug 2026 per URL path. Distinct requisition from the previously-tracked, already-applied-to Ørsted Gentofte Geotechnical Engineer role logged 2026-08-25 in job_search_tracker.csv."
+    },
+    "ineos-ccs-principal-senior-production-technology-engineer-virum-h1587360-expired": {
+      "title": "CCS Principal or Senior Production Technology Engineer",
+      "company": "INEOS Energy",
+      "url": "https://www.jobindex.dk/jobannonce/h1587360/ccs-principal-or-senior-production-technology-engineer",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch - jobindex.dk 301-redirects to jobindexarkiv.dk archive. Virum. Production-technology engineering role for CO2-injection well qualification (Greensand-adjacent), not a geology/geoscience title - would likely also need a process/petroleum engineering background rather than Geology, and 'Principal/Senior' framing suggests above candidate's 3 yrs regardless."
+    },
+    "european-energy-geotechnical-engineer-soborg-expired": {
+      "title": "Geotechnical Engineer",
+      "company": "European Energy A/S",
+      "url": "https://rejobs.org/en/renewable-energy-jobs/51978-geotechnical-engineer-european-energy-as-soborg-copenhagen-denmark",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED per aggregator snippet (listing window May-Nov 2024, marked archived). Søborg, Greater Copenhagen. Civil Engineering Team within EPC department (PV/onshore wind foundations) - asked for an engineering master's, not explicitly Geology. Re-check European Energy's own careers site in a future run in case reposted."
+    },
+    "totalenergies-senior-reservoir-engineer-copenhagen-jobbank-3134566-expired": {
+      "title": "Senior Reservoir Engineer",
+      "company": "TotalEnergies Upstream Danmark A/S",
+      "url": "https://jobbank.dk/job/3134566/total-energies/senior-reservoir-engineer/",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen. Deadline per search snippet was 21 Oct 2026, already passed (EXPIRED). Would also have been excluded on seniority ('Senior' title) and domain (reservoir engineering, not geology) regardless."
+    },
+    "totalenergies-geoscientist-esbjerg-6yr-excluded": {
+      "title": "Geoscientist (Subsurface Well Delivery)",
+      "company": "TotalEnergies EP Danmark A/S",
+      "url": "https://jobbank.dk/job/3159026/",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Live per aggregator (deadline 26 Nov 2026, one week out at time of this run) - not independently confirmed via direct fetch to TotalEnergies' own site. Esbjerg, Denmark. EXCLUDED on experience grounds: requires minimum 6 years' experience including well operations/well delivery - well above candidate's 3 yrs per lesson-learned #2. Well-delivery/workover/abandonment geosteering support role, genuinely geoscience-titled (not mining) and EU location, but seniority gap is a hard exclude."
+    },
+    "ramboll-senior-geotechnical-engineer-discipline-leader-b5397f4f-expired": {
+      "title": "Senior Geotechnical Engineer/Discipline leader",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/b5397f4f-c757-42bb-4966-08deee10f40d",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen, Geo Structures department. Deadline per aggregator was 10 Nov 2026, already passed (EXPIRED). Would also require minimum 10 years' experience ('Discipline leader', client-facing) - well above candidate's 3 yrs regardless."
+    },
+    "ramboll-senior-geotechnical-engineer-96a94c37-expired": {
+      "title": "Senior Geotechnical Engineer",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/96a94c37-3fc6-492b-f1eb-08def45a340d",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Copenhagen. Deadline per aggregator ambiguous (11.10.2026 / 10 Nov 2026) but either reading is before today - EXPIRED. 'Senior' title also above candidate's 3 yrs regardless."
+    },
+    "systra-chefspecialist-geoteknik-infrastrukturprojekter-jobbank-3138223-unconfirmed": {
+      "title": "Chefspecialist i geoteknik til store infrastrukturprojekter",
+      "company": "SYSTRA Danmark",
+      "url": "https://jobbank.dk/en/job/3138223/systra-danmark-as/chefspecialist-i-geoteknik-til-store-infrastrukturprojekter",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "jobbank.dk blocked direct fetch (Cloudflare challenge page, no content retrievable). Checked SYSTRA's own careers site directly (systra.com/careers, filtered to Denmark) - zero current Denmark listings returned, strongly suggesting this and the related SYSTRA Denmark postings (Senior Geotekniker, Hydrogeolog/Geotekniker, Geotekniker) are now closed. 'Chefspecialist' (chief specialist) title would also likely exceed candidate's 3 yrs regardless. Not counted as a live match."
     }
   }
 }

@@ -1979,6 +1979,96 @@
       "fit": "low",
       "status": "unconfirmed",
       "notes": "jobbank.dk blocked direct fetch (Cloudflare challenge page, no content retrievable). Checked SYSTRA's own careers site directly (systra.com/careers, filtered to Denmark) - zero current Denmark listings returned, strongly suggesting this and the related SYSTRA Denmark postings (Senior Geotekniker, Hydrogeolog/Geotekniker, Geotekniker) are now closed. 'Chefspecialist' (chief specialist) title would also likely exceed candidate's 3 yrs regardless. Not counted as a live match."
+    },
+    "orsted-geotechnical-engineer-jobbank-3101084-unconfirmed": {
+      "title": "Geotechnical Engineer",
+      "company": "Ørsted",
+      "url": "https://jobbank.dk/job/3101084/",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Likely the live successor to the dead req 32728 (Fredericia/Gentofte) logged 2026-11-19. jobbank.dk returned HTTP 403 on both WebFetch and curl (consistent site-wide block) - could not independently confirm liveness, location or degree wording. Per search snippet, degree line is 'M.Sc. or Ph.D. in civil or geotechnical engineering' with no explicit Geology equivalence stated. Recommend a manual browser check next run."
+    },
+    "cowi-geotechnical-specialist-modelling-digital-engineering-jobbank-3128448-unconfirmed": {
+      "title": "Geotechnical Specialist: Modelling & Digital Engineering",
+      "company": "COWI",
+      "url": "https://jobbank.dk/job/3128448/",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Could not verify - jobbank.dk 403-blocked, COWI's own vacancy page is a JS SPA (persistent block). Per search snippet: offshore wind, PLAXIS/Python/MATLAB programming emphasis - candidate has no stated coding/scripting background, a real tooling gap (lesson #4) even if confirmed live and otherwise degree-eligible."
+    },
+    "nhmd-two-collections-managers-geology-expired": {
+      "title": "Two Collections Managers in Geology",
+      "company": "Natural History Museum of Denmark",
+      "url": "https://www.nathimus.ku.dk/about-the-museum/vacancies/",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch. Would have been a good degree match (Geology/Geoscience, museum collections role) had it been live."
+    },
+    "fugro-geotechnical-engineer-r0031524-404": {
+      "title": "Geotechnical Engineer",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0031524-geotechnical-engineer",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404 on direct fetch."
+    },
+    "slb-capturi-senior-specialist-engineer-carbon-capture-copenhagen": {
+      "title": "Senior Specialist Engineer – Carbon Capture Technology",
+      "company": "SLB Capturi",
+      "url": "https://apply.workable.com/slb-capturi/",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed LIVE via direct fetch (workable.com, posted 2026-09-25, rolling interviews). Copenhagen. EXCLUDED: requires MSc/PhD in chemical/process/mechanical engineering - degree mismatch vs candidate's MSc Geology, no 'or equivalent' wording found. 'Senior Specialist' title also likely exceeds candidate's 3 yrs."
+    },
+    "ramboll-consultant-biogas-waste-to-x-orestad-expired": {
+      "title": "Consultant – Biogas & Waste-to-X",
+      "company": "Ramboll",
+      "url": "https://jobsearch.dk/",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via WebFetch (jobsearch.dk mirror: 'Dette job er ikke længere aktivt'). Ørestad, Copenhagen - would otherwise have been a reasonable domain-adjacent fit."
+    },
+    "karco-technical-funding-consultant-green-energy-transition-lyngby-unconfirmed": {
+      "title": "Technical Funding Consultant for the Green Energy Transition",
+      "company": "KAR+CO",
+      "url": "https://jobbank.dk/",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "jobbank.dk (403) and its mirror (503) both blocked direct fetch - liveness unconfirmed. Kongens Lyngby. Even if live: real skills gap (grant/funding-application writing, EU Innovation Fund experience) vs candidate's technical geology background - would need this gap flagged (lesson #4), not presented as a strong match."
+    },
+    "dnv-senior-principal-consultant-energy-markets-strategy-green-molecules-hellerup": {
+      "title": "Senior/Principal Consultant, Energy Markets & Strategy – Green Molecules",
+      "company": "DNV",
+      "url": "https://jobs.dnv.com/",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Hellerup. EXCLUDED on seniority grounds from title alone ('Senior/Principal') without full fetch, consistent with the already-logged DNV CO2 Storage Principal Consultant exclusion."
+    },
+    "orsted-carbon-capture-business-developer-stale": {
+      "title": "Carbon Capture Business Developer",
+      "company": "Ørsted",
+      "url": "N/A - search snippet only",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Search snippet deadline 8 Dec 2024 - clearly stale/long-expired, not fetched further."
+    },
+    "cowi-senior-carbon-capture-engineer-green-fuels-energy-jobfinder": {
+      "title": "Senior Carbon Capture Engineer – Green Fuels and Energy",
+      "company": "COWI",
+      "url": "https://www.jobfinder.dk/",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Excluded on experience grounds without full fetch - snippet unambiguous: requires >10 years as a process engineer, min. 5 years specifically in carbon capture, far above candidate's 3 yrs."
     }
   }
 }

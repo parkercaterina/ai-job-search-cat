@@ -2069,6 +2069,60 @@
       "fit": "low",
       "status": "excluded",
       "notes": "Excluded on experience grounds without full fetch - snippet unambiguous: requires >10 years as a process engineer, min. 5 years specifically in carbon capture, far above candidate's 3 yrs."
+    },
+    "insitu-consult-geoteknikker-kastrup": {
+      "title": "Geoteknikker",
+      "company": "IN-SITU Consult ApS",
+      "url": "https://insituconsult.dk/om-in-situ-consult/geoteknikker",
+      "first_seen": "2026-11-26",
+      "fit": "medium",
+      "status": "new",
+      "notes": "Confirmed live via direct fetch - active posting, 'Ansøgningsfrist snarest' (apply as soon as possible, no fixed date, so could close any time). Kastrup, Copenhagen - ideal location. No years-of-experience floor - explicitly open to recent graduates and even engineering students for internships/part-time, candidate's 3 yrs comfortably clears any bar. CAUTION (lesson #3): degree wording is 'uddannet ingeniør' (trained engineer) specialized in geotechnics/geostatics, with no 'or equivalent'/Geology-acceptance language found on the page - real risk this small consultancy wants a Civil/Geotechnical Engineering degree specifically, not an MSc Geology. No posting date shown, could not confirm how recently this was published. Small boutique firm (~handful of staff per site content). Rated medium, not high, pending direct confirmation of degree equivalence before applying."
+    },
+    "fugro-geo-data-advisor-workflow-owner-marine-geotechnics-r0030885-404": {
+      "title": "Geo Data Advisor & Workflow Owner Marine Geotechnics",
+      "company": "Fugro",
+      "url": "https://www.fugro.com/careers/jobs/R0030885-geo-data-advisor-&-workflow-owner-marine-geotechnics",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed dead - HTTP 404 on direct fetch."
+    },
+    "ramboll-geotechnical-project-manager-a34b36d5-unconfirmed": {
+      "title": "Geotechnical Project Manager",
+      "company": "Ramboll",
+      "url": "https://www.ramboll.com/careers/a34b36d5-f762-4b95-4fd3-08debbd6ce98",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Direct fetch returned Ramboll's generic careers search listing rather than the specific req (same dead-redirect pattern seen on multiple other expired Ramboll reqs this quarter) - could not confirm location, years, or degree wording. Likely expired; re-check manually if pursuing Ramboll."
+    },
+    "henning-larsen-careers-50aae61f-unconfirmed": {
+      "title": "Unknown (req ID only)",
+      "company": "Henning Larsen (Ramboll Group)",
+      "url": "https://henninglarsen.com/careers/50aae61f-c412-4c30-49e7-08dd1da336b9",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Direct fetch returned only a generic Henning Larsen philosophy/navigation page, no job content loaded (JS-rendered placeholder) - title, location, and requirements could not be confirmed. Re-check manually if pursuing."
+    },
+    "innargi-head-of-subsurface-unconfirmed": {
+      "title": "Head of Subsurface",
+      "company": "Innargi",
+      "url": "N/A - no live posting located",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "unconfirmed",
+      "notes": "Innargi (Danish geothermal developer, A.P. Møller Holding-backed) referenced in a LinkedIn post re: subsurface team, but no current open 'Head of Subsurface' requisition could be located on Innargi's own channels this run - a same-titled Spencer Ogden listing found is for Malaysia, unrelated. Innargi's live Denmark postings found instead were Process Engineer and Electrical Engineer (jobindex.dk h1715051, h1715048) - neither geoscience-relevant. 'Head of' title would likely exceed candidate's 3 yrs regardless if a Denmark posting surfaces later."
+    },
+    "per-aarsleff-projektledere-offshore-wind-special-marine-h1687557-expired": {
+      "title": "Projektledere til Offshore Wind & Special Marine Projects",
+      "company": "Per Aarsleff A/S",
+      "url": "https://www.jobindex.dk/vis-job/h1687557",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "excluded",
+      "notes": "Confirmed EXPIRED via direct fetch ('Annoncen er udløbet!'). Viby J and Glostrup, Denmark."
     }
   }
 }
